@@ -27,3 +27,5 @@ $\Omega$  = {HH, HT, TH, TT}
 Let A = {HH, TT}
 $\bar{A}$ = {HT, TH}
 
+
+Uniform Distribution
