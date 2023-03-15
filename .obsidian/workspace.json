@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2bea10c357b191ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS70/Probability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,10 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e153e464a4f5f78f",
+  "active": "2bea10c357b191ef",
   "lastOpenFiles": [
-    "CS70/Discrete Math.md",
+    "CS70/Intro to Probability.md",
     "CS70/Probability.md",
+    "CS70/Discrete Math.md",
     "CS70",
     "Untitled.canvas",
     "2023-03-14.md",
