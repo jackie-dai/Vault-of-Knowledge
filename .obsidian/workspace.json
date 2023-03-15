@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS70/Probability.md",
+                "file": "CS70/Intro to Probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS70/Probability.md",
+                "file": "CS70/Intro to Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS70/Probability.md",
+                "file": "CS70/Intro to Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS70/Probability.md"
+                "file": "CS70/Intro to Probability.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "2bea10c357b191ef",
   "lastOpenFiles": [
-    "CS70/Intro to Probability.md",
     "CS70/Probability.md",
+    "CS70/Intro to Probability.md",
     "CS70/Discrete Math.md",
     "CS70",
     "Untitled.canvas",
