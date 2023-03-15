@@ -29,3 +29,9 @@ $\bar{A}$ = {HT, TH}
 
 
 Uniform Distribution
+
+Axioms
+- Finest grain - can't be broken down further
+- Mutually exclusive - A $\cap$ B = 0 therefore can sum probabilities
+- Collectively exhuastive
+

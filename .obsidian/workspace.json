@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS70/Probability/Intro to Probability.md",
+                "file": "CS70/Probability/Conditional Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS70/Probability/Intro to Probability.md",
+                "file": "CS70/Probability/Conditional Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS70/Probability/Intro to Probability.md"
+                "file": "CS70/Probability/Conditional Probability.md"
               }
             }
           }
@@ -170,11 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bea10c357b191ef",
+  "active": "e153e464a4f5f78f",
   "lastOpenFiles": [
+    "CS70/Probability/Intro to Probability.md",
     "CS70/Probability/Conditional Probability.md",
     "CS70/Probability/Probability.md",
-    "CS70/Probability/Intro to Probability.md",
     "CS70/Discrete Math.md",
     "CS70",
     "Untitled.canvas",
