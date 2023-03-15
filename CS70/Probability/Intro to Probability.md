@@ -18,4 +18,12 @@ $$
 $$
 
 
+Complements
+
+$\bar{A}$ - Complement
+
+two tosses of a coin
+$\Omega$  = {HH, HT, TH, TT}
+Let A = {HH, TT}
+$\bar{A}$ = {HT, TH}
 

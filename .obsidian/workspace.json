@@ -17,8 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "374ef1633a4bd7be"
+            }
           },
           {
             "id": "2c4c0a83577b77d3",
@@ -44,49 +43,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "a1cf332c57a08de1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0e9ba586a33a5134",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "CS70/Probability/Conditional Probability.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "374ef1633a4bd7be"
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS70/Probability/Conditional Probability.md",
+                "file": "CS70/Probability/Intro to Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS70/Probability/Conditional Probability.md",
+                "file": "CS70/Probability/Intro to Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS70/Probability/Conditional Probability.md"
+                "file": "CS70/Probability/Intro to Probability.md"
               }
             }
           }
@@ -212,11 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e153e464a4f5f78f",
+  "active": "2bea10c357b191ef",
   "lastOpenFiles": [
+    "CS70/Probability/Conditional Probability.md",
     "CS70/Probability/Probability.md",
     "CS70/Probability/Intro to Probability.md",
-    "CS70/Probability/Conditional Probability.md",
     "CS70/Discrete Math.md",
     "CS70",
     "Untitled.canvas",
