@@ -12,7 +12,9 @@ $\Omega = 2^4$
 
 Probability is calculated by:
 $$
-\mathbb{P} = \text{# of favorable outcomes}
+\mathbb{P} = \frac{
+			\text{\# of favorable outcomes}}
+			{\text{total \# of outcomes or } \Omega}
 $$
 
 
