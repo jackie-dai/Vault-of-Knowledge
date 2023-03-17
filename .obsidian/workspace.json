@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53ae58239ad64456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS70/Probability.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS70/Probability.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS70/Probability.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -145,10 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e153e464a4f5f78f",
+  "active": "53ae58239ad64456",
   "lastOpenFiles": [
-    "CS70/Discrete Math.md",
     "CS70/Probability.md",
+    "conflict-files-obsidian-git.md",
+    "CS70/Probability/Probability.md",
+    "CS70/Probability/Intro to Probability.md",
+    "CS70/Probability/Conditional Probability.md",
+    "CS70/Probability",
+    "CS70/Discrete Math.md",
     "CS70",
     "Untitled.canvas",
     "2023-03-14.md",
