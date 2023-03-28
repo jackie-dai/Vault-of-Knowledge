@@ -23,9 +23,11 @@
             "id": "f32fa4f2fdb5751c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "CS70/Probability/Conditional Probability.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -53,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS70/Probability/Conditional Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS70/Probability/Conditional Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS70/Probability/Conditional Probability.md"
+              }
             }
           }
         ]
@@ -176,12 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "e153e464a4f5f78f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "CS70/Probability/Intro to Probability.md",
-    "CS70/Probability/Conditional Probability.md",
     "CS70/Probability/Probability.md",
+    "CS70/Probability/Conditional Probability.md",
+    "conflict-files-obsidian-git.md",
     "CS70/Discrete Math.md",
     "CS70",
     "Untitled.canvas",
