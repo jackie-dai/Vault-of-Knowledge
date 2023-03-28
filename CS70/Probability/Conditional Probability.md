@@ -7,22 +7,24 @@ $A \subset B \Rightarrow \mathbb{P}(A) \le \mathbb{P}(B)$
 
 
 Conditional Probability 
-$\mathbb{P}[A | B] = \frac{\mathbb{A \cup B}, \mathbb{B}$
+$$\mathbb{P}[A | B] = \frac{\mathbb{P}(A \cup B)} {\mathbb{B}}$$
 
 Total Probability 
-$P(B) = P(B | A)P(A) + P(B | \bar{A})P(\bar{A})$
+$$P(B) = P(B | A)P(A) + P(B | \bar{A})P(\bar{A})$$
+Used for problems to calculate probablity of event B given you don't know which initial event happend first (A or $\bar{A}$)
 
 Bayes Rule
 $$
 P(A|B) = \frac{P(B|A)P(A)}{{(B)}}
 $$
-Used for problems to calculate probablity of event B given you don't know which initial event happend first (A or $\bar{A}$)
+
+Useful for when you want to know P(A | B) when you only know P(B | A)
 
 Typically, numerator is given and must find denominator using total probability rule
 
 Independence
-$\mathbb{P}(A | B) = A$
-derrivation -
+$$\mathbb{P}(A | B) = A$$
+derived by
 $$
 	P(A|B) = \frac{P(A \cup B)}{ P(B)}
 	=\frac{P(A)P(B)}{P(B)}
