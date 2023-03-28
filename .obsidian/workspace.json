@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "f32fa4f2fdb5751c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "2c4c0a83577b77d3",
             "type": "leaf",
             "state": {
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e153e464a4f5f78f",
+  "active": "f32fa4f2fdb5751c",
   "lastOpenFiles": [
     "CS70/Probability/Intro to Probability.md",
     "CS70/Probability/Conditional Probability.md",
