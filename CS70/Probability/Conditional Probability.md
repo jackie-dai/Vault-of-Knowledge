@@ -23,8 +23,11 @@ Useful for when you want to know P(A | B) when you only know P(B | A)
 Typically, numerator is given and must find denominator using total probability rule
 
 Independence
-$$\mathbb{P}(A | B) = A$$
+$$\mathbb{P}(A | B) = P(A)$$
 derived by
+$$
+P(A \cap B) = P(A)P(B)
+$$
 $$
 	P(A|B) = \frac{P(A \cap B)}{ P(B)}
 	=\frac{P(A)P(B)}{P(B)}
