@@ -15,7 +15,9 @@ function makeStudent(name,  age) {
 }
 
 Iterating Over Properties
-
+for (let key in student) {
+	console.log(key + ": "student[key])
+}
 
 Computed Properties 
 
