@@ -1,3 +1,3 @@
 Topics
-[[Intro to Probability ]]
+[[Probability Basics ]]
 [[Conditional Probability]]
