@@ -28,3 +28,27 @@ let basket = {
 }
 
 
+
+
+**Exercises**
+![[Pasted image 20230524111416.png]]
+
+```
+let user = {};
+user.name = "John";
+user.surname = "Smith";
+user.name = "Pete";
+delete user.name;
+```
+
+
+![[Pasted image 20230524111834.png]]
+
+```
+function isEmpty(obj) {
+	for (let key in obj) {
+	return false;
+	}
+	return true;
+}
+```
