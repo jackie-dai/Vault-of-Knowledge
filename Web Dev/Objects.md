@@ -14,6 +14,8 @@ function makeStudent(name,  age) {
 	}
 }
 
+Iterating Over Properties
+
 
 Computed Properties 
 
