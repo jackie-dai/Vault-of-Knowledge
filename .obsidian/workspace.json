@@ -23,12 +23,8 @@
             "id": "6d17093d88659276",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Dev/Objects.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -154,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Dev/Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Dev/Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Dev/Objects.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -216,10 +208,13 @@
   },
   "active": "6d17093d88659276",
   "lastOpenFiles": [
-    "Pasted image 20230524111834.png",
-    "Pasted image 20230524111416.png",
-    "Web Dev/JavaScript.md",
+    "Web Dev/Images/Pasted image 20230524111416.png",
+    "Web Dev/Images",
+    "Web Dev/Images/Pasted image 20230524112221.png",
+    "Web Dev/Images/Pasted image 20230524112007.png",
+    "Web Dev/Images/Pasted image 20230524111834.png",
     "Web Dev/Objects.md",
+    "Web Dev/JavaScript.md",
     "CS70/Probability/Probability Basics.md",
     "Web Dev",
     "CS70/Probability/Conditional Probability.md",

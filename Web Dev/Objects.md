@@ -1,4 +1,6 @@
 
+https://javascript.info/object
+
 **Object Declaration**
 let student = {
 	name: "John";
@@ -31,6 +33,7 @@ let basket = {
 
 
 **Exercises**
+
 ![[Pasted image 20230524111416.png]]
 
 ```
@@ -50,5 +53,27 @@ function isEmpty(obj) {
 	return false;
 	}
 	return true;
+}
+```
+
+![[Pasted image 20230524112007.png]]
+
+```
+let sum = 0;
+
+for (let salary in salaries) {
+	sum += salaries[salary];
+}
+```
+
+![[Pasted image 20230524112221.png]]
+
+```
+function multiplyNumeric(obj) {
+	for (let key in obj) {
+		if (typeof(key) == "number") {
+			obj[key] *= 2;
+		}
+	}
 }
 ```
