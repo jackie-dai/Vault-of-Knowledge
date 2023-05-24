@@ -1,8 +1,17 @@
 
+**Object Declaration**
 let student = {
 	name: "John";
 	age: 6;
 	cool: false;
+}
+
+Short-hand
+function makeStudent(name,  age) {
+	return {
+		name,
+		age,
+	}
 }
 
 
