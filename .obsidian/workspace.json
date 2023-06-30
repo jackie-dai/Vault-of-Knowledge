@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "c998c68aadf9e7c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brainstorming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "477f95f07ed9e5e6",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Brainstorming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Brainstorming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Brainstorming.md"
+              }
             }
           }
         ]
@@ -206,8 +222,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d17093d88659276",
+  "active": "c998c68aadf9e7c1",
   "lastOpenFiles": [
+    "Brainstorming.md",
     "Web Dev/Images/Pasted image 20230524111416.png",
     "Web Dev/Images",
     "Web Dev/Images/Pasted image 20230524112221.png",
