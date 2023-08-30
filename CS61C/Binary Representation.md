@@ -16,3 +16,5 @@ Hack: Binary shift
 01111 = 15
 shift to left, multiply by base -> 15 * 2 = 30
 
+
+Two's complement 
