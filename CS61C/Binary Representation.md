@@ -17,4 +17,10 @@ Hack: Binary shift
 shift to left, multiply by base -> 15 * 2 = 30
 
 
-Two's complement 
+Two ways to include negative numbers in binary:
+- Two's complement 
+	- Left most bit is used as a sign
+	- Flip all the bits
+	- + 1
+- Bias encoding 
+	- Unsigned and apply a bias (ex. -15)
