@@ -22,8 +22,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "049590a2a5a5c88d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "React.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "ff35302c57978995",
@@ -38,21 +51,8 @@
                     "currentVersion": "1.4.11"
                   }
                 }
-              },
-              {
-                "id": "5765455da99298b9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "conflict-files-obsidian-git.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 6 - Floating Point.md",
+                "file": "React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 6 - Floating Point.md",
+                "file": "React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 6 - Floating Point.md"
+                "file": "React.md"
               }
             }
           }
@@ -192,8 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "987b07d75b545586",
+  "active": "049590a2a5a5c88d",
   "lastOpenFiles": [
+    "Lecture 6 - Floating Point.md",
+    "React.md",
     "React",
     "conflict-files-obsidian-git.md"
   ]
