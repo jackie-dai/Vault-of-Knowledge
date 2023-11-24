@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.md",
+                "file": "React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React.md",
+                "file": "React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.md"
+                "file": "React/React.md"
               }
             }
           }
@@ -171,8 +171,10 @@
   },
   "active": "049590a2a5a5c88d",
   "lastOpenFiles": [
+    "CS61C/Lecture 4 - Pointers, Memory, Arrays.md",
+    "CS61C/Lecture 5 - C Memory Management.md",
+    "React/React.md",
     "Lecture 6 - Floating Point.md",
-    "React.md",
     "React",
     "conflict-files-obsidian-git.md"
   ]
