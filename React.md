@@ -13,3 +13,9 @@ function MenuItem({image, name, description}) {
 	</div> 
 }
 ***
+
+function App() {
+	return (
+		<MenuItem />
+	)
+}
