@@ -4,58 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0f56410393e8a7bc",
-        "type": "split",
+        "id": "a7c98802e5f75957",
+        "type": "tabs",
         "children": [
           {
-            "id": "a7c98802e5f75957",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f73affb8665cb8e8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Lecture 6 - Floating Point.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "049590a2a5a5c88d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "React.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "f73affb8665cb8e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 6 - Floating Point.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "ff35302c57978995",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9b5763fd1f3e3e01",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.4.11"
-                  }
-                }
+            "id": "049590a2a5a5c88d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
