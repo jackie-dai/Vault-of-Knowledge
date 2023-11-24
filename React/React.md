@@ -61,15 +61,19 @@ function printName(name) {
 	console.log("Hello " + name);
 }
 
-export function CustomButton(onClick, func) {
+export function CustomButton({onClick}) {
 	return (
-		<div><button onClick={func}></button></div>
+		<div><button onClick={onClick}></button></div>
 	)
 }
 
 function App() {
 	return (
-		<CustomButton onClick=""></CustomButton>
+		// Always pass in function name. DO NOT EXECUTE. Let react execute.
+		<CustomButton onClick={printHelloWorld}></CustomButton>
+
+		// Use arrow function when passing in arguments
+		<CustomButton onClick={() => printName("Jackie")}></CustomButton>
 	)
 }
 
