@@ -16,6 +16,7 @@ function MenuItem({image, name, description}) {
 
 function App() {
 	return (
-		<MenuItem />
+		<MenuItem  {...MENU_ITEMS[0]}/>
+		<MenuItem  {MENU_ITEMS[1].title)}/>
 	)
 }
