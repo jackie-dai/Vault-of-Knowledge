@@ -61,10 +61,15 @@ function printName(name) {
 	console.log("Hello " + name);
 }
 
-function App() {
-	
+export function CustomButton(onClick, func) {
 	return (
-		
+		<div><button onClick={func}></button></div>
+	)
+}
+
+function App() {
+	return (
+		<CustomButton onClick=""></CustomButton>
 	)
 }
 
