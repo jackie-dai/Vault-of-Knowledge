@@ -99,14 +99,80 @@ export default function App() {
 ```
 
 **Three ways to conditionally output HTML**
+1.  outer JSX
 ```
 import {useState} from 'react';
 
 function App() {
+	const [showText, setShowText] = useState(false);
 
+	function HandleText() {
+		showText ? setShowText(false) : setShowText(true);
+	}
+	let welcomeText;
+	
+	if (showText) {
+		welcomeText = <p>Hello! Welcome to my humble domain!</p>
+	} else {
+		welcomeText = null;
+	}
+	
+	return (
+		{welcomeText}
+		<button onClick={HandleText}</button> 
+	);
 }
 
-export default 
+export default App;
 ```
 
+2. inside JSX
+```
+import {useState} from 'react';
+
+function App() {
+	const [showText, setShowText] = useState(false);
+
+	function HandleText() {
+		showText ? setShowText(false) : setShowText(true);
+	}
+	
+	return (
+		{showText ? (<p>Hello! Welcome! Don't be shy...</p>) : null}
+		<button onClick={HandleText}</button> 
+	);
+}
+
+export default App;
+```
+
+3. &&
+```
+import {useState} from 'react';
+
+function App() {
+	const [showText, setShowText] = useState(false);
+
+	function HandleText() {
+		showText ? setShowText(false) : setShowText(true);
+	}
+	
+	return (
+		// If first statement is true -> output second statement
+		{showText && <p>Hello there! Welcome in!</p>}
+		<button onClick={HandleText}</button> 
+	);
+}
+
+export default App;
+```
+
+
 **Dynamically output list of data**
+```
+const ArrayOfTodos [
+]
+export default function App() {
+	
+}
+```
