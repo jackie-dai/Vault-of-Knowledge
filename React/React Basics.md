@@ -79,3 +79,34 @@ function App() {
 
 export default App;
 ```
+
+
+**useState()**
+```
+import {useState} from 'react';
+
+export default function App() {
+	// useState ONLY works if inside App function at top level
+	const [isPressed, setPressed] = useState(false);
+
+	function ToggleButton() {
+		isPressed ? setPressed(false) : setPressed(true);
+	}
+  return (
+	  <button onClick={ToggleButton}></button>
+  )
+}
+```
+
+**Three ways to conditionally output HTML**
+```
+import {useState} from 'react';
+
+function App() {
+
+}
+
+export default 
+```
+
+**Dynamically output list of data**
