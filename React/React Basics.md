@@ -170,9 +170,17 @@ export default App;
 
 **Dynamically output list of data**
 ```
-const ArrayOfTodos [
-]
+const ArrayOfTodos ['wake up', 'eat', 'bone'];
+
+export function Todo({text}) {
+	return (
+		<p>{text}</p>
+	)
+}
+
 export default function App() {
-	
+	return (
+		{ArrayOfTodos.map((todoItem) => <Todo text={todoItem}></Todo>)}	
+	)	
 }
 ```
