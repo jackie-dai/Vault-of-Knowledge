@@ -30,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1f6e79f17ef0bfb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "6e612f785704fa07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React Basics.md",
+                "file": "Game Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React Basics.md",
+                "file": "Game Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React Basics.md"
+                "file": "Game Architecture.md"
               }
             }
           }
@@ -169,8 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "049590a2a5a5c88d",
+  "active": "6e612f785704fa07",
   "lastOpenFiles": [
+    "Game Architecture.md",
+    "GameDev",
     "CS61C/Lecture 4 - Pointers, Memory, Arrays.md",
     "CS61C/Lecture 5 - C Memory Management.md",
     "React/React Basics.md",
