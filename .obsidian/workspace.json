@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Lecture6",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,13 +215,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "668fc4eb39459209",
+  "active": "7c21d35d826c7922",
   "lastOpenFiles": [
+    "CS161/Textbook Notes.md",
     "CS161/CS161 - Computer Security.md",
     "CS61C/Lecture 4 - Pointers, Memory, Arrays.md",
     "Lecture 6 - Floating Point.md",
     "Lecture 6 - One-Time Pads and Block Ciphers.md",
-    "CS161/Textbook Notes.md",
     "Lecture 1 - Introduction.md",
     "CS161",
     "React/React Basics.md",
