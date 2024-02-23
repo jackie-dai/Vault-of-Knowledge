@@ -8,7 +8,7 @@ Lecture 4 - Mitigating Memory Safety Vulnerabilities
 Lecture 5 - Intro to Cryptography
 [Lecture 6](#xyz) 
 
-[[#^7b14c1]]
+[[#^7b14c1 | Lecture 6 - One-Time Pads and Block Ciphers]]
 
 
 
