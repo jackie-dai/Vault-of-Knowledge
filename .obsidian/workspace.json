@@ -185,6 +185,18 @@
                 "file": "Lecture 6 - Floating Point.md"
               }
             }
+          },
+          {
+            "id": "f1b6adb52106db53",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }
