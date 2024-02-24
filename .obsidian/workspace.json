@@ -150,12 +150,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "668fc4eb39459209",
+  "active": "d6b4eb4cb50d4642",
   "lastOpenFiles": [
     "CS161/Textbook Notes.md",
     "CS161/CS161 - Computer Security.md",
