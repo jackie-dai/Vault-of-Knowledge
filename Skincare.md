@@ -12,16 +12,34 @@ Skincare Basics
 	- Facial oil
 	- Concentrate
 	- Facemasks (provide nutrients and hydration)
-**Moisturize (daily):** Moisturizer to keep skin soft. Use a lightweight moisturizer (has botanical hyaluronic acid) for oily skin 
+**Moisturize (daily):** Moisturizer to keep skin soft. Use a lightweight moisturizer (has botanical hyaluronic acid) for oily skin. Look for soothing and hydrating
 **Eye Care (daily):** The skin around your face is sensitive. Protect it from wrinkles and dark spots with eye serums
 **Protect (daily):** Sunscreen to protect again UV
 
-How to tackle anti-aging:
-Vitamin A Products (Anti-aging)
-Retinoid 
-Retinal 
-Retinol 
+**How to tackle anti-aging:**
+Vitamin A Products (Anti-aging. Usually last step in routine and done weekly)
+- Retinoid 
+- Retinal 
+- Retinol 
+
+Anti-oxidant (vitamin C - for acne scars and dark spots)
+- Green tea (?)
 
 Help produce more collagen. 
 
 Hydrating your skin
+
+
+
+
+Separate routines for morning and night. Use lighter for morning and stronger for night (because of sun)
+
+Sheet-masks
+- Locks in previous products
+- 
+
+bHA 
+- blackheads
+- clogged pores
+pha
+- gentler than AHA
