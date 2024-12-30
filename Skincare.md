@@ -15,3 +15,13 @@ Skincare Basics
 **Moisturize (daily):** Moisturizer to keep skin soft. Use a lightweight moisturizer (has botanical hyaluronic acid) for oily skin 
 **Eye Care (daily):** The skin around your face is sensitive. Protect it from wrinkles and dark spots with eye serums
 **Protect (daily):** Sunscreen to protect again UV
+
+How to tackle anti-aging:
+Vitamin A Products (Anti-aging)
+Retinoid 
+Retinal 
+Retinol 
+
+Help produce more collagen. 
+
+Hydrating your skin
