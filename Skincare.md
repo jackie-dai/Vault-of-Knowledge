@@ -36,8 +36,10 @@ Separate routines for morning and night. Use lighter for morning and stronger fo
 
 Sheet-masks
 - Locks in previous products
-- 
 
+AhA 
+- removing dead skincells
+- water-based
 bHA 
 - blackheads
 - clogged pores
