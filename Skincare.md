@@ -10,7 +10,8 @@ Skincare Basics
 **Treat (daily):** Target specific concerns and conditions
 	- Serum
 	- Facial oil
-	- Facial concentrate
+	- Concentrate
+	- Facemasks (provide nutrients and hydration)
 **Moisturize (daily):** Moisturizer to 
-**Eye Care (daily):** The skin around your face is sensitive. Protect it from wrinkles, puffiness, etc..
+**Eye Care (daily):** The skin around your face is sensitive. Protect it from wrinkles and dark spots with eye serums
 **Protect (daily):** Sunscreen to protect again UV
