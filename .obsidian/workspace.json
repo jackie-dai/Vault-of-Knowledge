@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9294ec02ce385e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skincare.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS161/Textbook Notes.md",
+                "file": "Skincare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS161/Textbook Notes.md",
+                "file": "Skincare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS161/Textbook Notes.md"
+                "file": "Skincare.md"
               }
             }
           },
@@ -167,8 +180,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6b4eb4cb50d4642",
+  "active": "9294ec02ce385e51",
   "lastOpenFiles": [
+    "Skincare.md",
     "CS161/Textbook Notes.md",
     "CS161/CS161 - Computer Security.md",
     "CS61C/Lecture 4 - Pointers, Memory, Arrays.md",
