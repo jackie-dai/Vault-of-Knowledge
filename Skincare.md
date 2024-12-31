@@ -12,7 +12,9 @@ Skincare Basics
 	- Facial oil
 	- Concentrate
 	- Facemasks (provide nutrients and hydration)
-**Moisturize (daily):** Moisturizer to keep skin soft. Use a lightweight moisturizer (has botanical hyaluronic acid) for oily skin. Look for soothing and hydrating
+**Moisturize (daily):** Moisturizer to keep skin soft. Use a lightweight moisturizer (has botanical hyaluronic acid draws water to skin) for oily skin. Look for soothing and hydrating
+- get in water
+- lock in water
 **Eye Care (daily):** The skin around your face is sensitive. Protect it from wrinkles and dark spots with eye serums
 **Protect (daily):** Sunscreen to protect again UV
 
@@ -26,6 +28,7 @@ Anti-oxidant (vitamin C - for acne scars and dark spots)
 - Green tea (?)
 
 Help produce more collagen. 
+- numbuzin
 
 Hydrating your skin
 
