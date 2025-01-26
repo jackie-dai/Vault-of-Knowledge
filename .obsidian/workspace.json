@@ -16,7 +16,9 @@
                 "file": "CS161/Textbook Notes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Textbook Notes"
             }
           },
           {
@@ -28,11 +30,39 @@
                 "file": "Skincare.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Skincare"
+            }
+          },
+          {
+            "id": "5799c9d7eb9b9ec5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "b9c698e11efbe71f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS161/Textbook Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Textbook Notes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -52,7 +82,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +99,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -83,11 +119,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skincare.md",
+                "file": "CS161/Textbook Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +152,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Textbook Notes"
             }
           },
           {
@@ -124,10 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skincare.md",
+                "file": "CS161/Textbook Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Textbook Notes"
             }
           },
           {
@@ -138,7 +179,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -147,8 +190,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skincare.md"
-              }
+                "file": "CS161/Textbook Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Textbook Notes"
             }
           },
           {
@@ -160,7 +205,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -180,15 +227,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9294ec02ce385e51",
+  "active": "b9c698e11efbe71f",
   "lastOpenFiles": [
-    "Skincare.md",
+    "CS186/Textbook Notes.md",
     "CS161/Textbook Notes.md",
+    "Lecture 1 - Introduction.md",
     "CS161/CS161 - Computer Security.md",
+    "Pasted image 20250126123210.png",
+    "CS186",
+    "Skincare.md",
     "CS61C/Lecture 4 - Pointers, Memory, Arrays.md",
     "Lecture 6 - Floating Point.md",
     "Lecture 6 - One-Time Pads and Block Ciphers.md",
-    "Lecture 1 - Introduction.md",
     "CS161",
     "React/React Basics.md",
     "React",

@@ -1,3 +1,3 @@
 
 Lecture notes
-[[Textbook Notes]]
+[[CS161/Textbook Notes]]
