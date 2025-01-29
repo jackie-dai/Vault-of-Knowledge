@@ -56,5 +56,7 @@ Full Outer Jin
 Null values
 Problematic 
 
-Find a new boolean 
+Find new boolean logic to incorporate nulls
+
+![[Pasted image 20250128165244.png]]
 
