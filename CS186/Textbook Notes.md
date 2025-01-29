@@ -87,4 +87,4 @@ To delete
 
 **Variable Length Records**
 
-Each records tores length and pointer
+Each record stores length and pointer
