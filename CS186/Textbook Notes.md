@@ -74,3 +74,17 @@ Find new boolean logic to incorporate nulls
 
 ![[Pasted image 20250128165244.png]]
 
+
+Lecture 3 - 
+
+**Fixed Length Records**
+How do we add and delete records
+To add 
+- Append
+To delete
+- Pop, shift, and update
+	- if we remove the last item, no need to update
+
+**Variable Length Records**
+
+Each records tores length and pointer
