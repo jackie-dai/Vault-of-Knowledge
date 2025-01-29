@@ -21,3 +21,9 @@ Foreign key
 
 
 
+
+Lecture 2 - SQL II
+
+Types of operations
+- Aggregate
+- Group by

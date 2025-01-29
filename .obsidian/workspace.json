@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS161/Textbook Notes.md",
+                "file": "CS186/Textbook Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS161/Textbook Notes.md",
+                "file": "CS186/Textbook Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS161/Textbook Notes.md",
+                "file": "CS186/Textbook Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS161/Textbook Notes.md"
+                "file": "CS186/Textbook Notes.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Textbook Notes"
@@ -229,8 +229,8 @@
   },
   "active": "b9c698e11efbe71f",
   "lastOpenFiles": [
-    "CS186/Textbook Notes.md",
     "CS161/Textbook Notes.md",
+    "CS186/Textbook Notes.md",
     "Lecture 1 - Introduction.md",
     "CS161/CS161 - Computer Security.md",
     "Pasted image 20250126123210.png",
