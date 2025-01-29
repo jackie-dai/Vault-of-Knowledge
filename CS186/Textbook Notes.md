@@ -26,14 +26,24 @@ Lecture 2 - SQL II
 
 Types of operations
 - Aggregate
+	- When we group by we have to call an aggregate function (i.e. SUM, MIN, MAX, etc..) to determine which row/value to return per group
 - Group by
+
+valid 
+
+'''
+SELECT age
+FROM students
+GROUP BY major, age
+'''
+
 
 Conceptual order of SQL evaluation
 
 1. FROM <single table> which table are we drawing from
 2. WHERE only keeps rows where <predicate> is satisfied
 3. GROUP BY <column list>
-4. HAVING only keeps groups having <predicate> satisfied 
+4. HAVING only keeps groups having <predicate> satisfied (can only be used after group by)
 5. SELECT [DISTINCT] <col exp. list>
 6. ORDER BY <column list>
 7. LIMIT <integer>
