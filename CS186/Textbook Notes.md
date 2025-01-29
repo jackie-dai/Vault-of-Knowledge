@@ -49,9 +49,13 @@ Conceptual order of SQL evaluation
 7. LIMIT <integer>
 
 Inner and Natural Joins
+https://docs.google.com/presentation/d/1G_K2BImiDLMXYf-JHXzU6Yyo5Gzv4dO6/edit#slide=id.p34
+
+![[Pasted image 20250128174051.png]]
 
 Default = INNER JOIN
 - Cross product
+- intersection 
 
 Natural Join
 - Only retains rows with common columns
