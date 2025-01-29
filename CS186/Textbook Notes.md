@@ -27,3 +27,13 @@ Lecture 2 - SQL II
 Types of operations
 - Aggregate
 - Group by
+
+Conceptual order of SQL evaluation
+
+5. SELECT [DISTINCT] <col exp. list>
+1. FROM <single table>
+2. WHERE <predicate>
+3. GROUP BY <column list>
+4. HAVING <predicate>
+6. ORDER BY <column list>
+7. LIMIT <integer>
