@@ -44,4 +44,17 @@ Default = INNER JOIN
 - Cross product
 
 Natural Join
-- 
+- Only retains rows with common columns
+
+Left Outer Join
+- Returns all matches and rows from the left side
+RIght Outer Join
+- Returns all matches rows, and preserves all unnmatched rows from the table on the right of the clause
+Full Outer Jin
+- Returns all (matched or unmatched0 rows from the tables on both sides of the join clause)
+
+Null values
+Problematic 
+
+Find a new boolean 
+
