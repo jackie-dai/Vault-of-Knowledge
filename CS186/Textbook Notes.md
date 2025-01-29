@@ -37,3 +37,11 @@ Conceptual order of SQL evaluation
 4. HAVING <predicate>
 6. ORDER BY <column list>
 7. LIMIT <integer>
+
+Inner and Natural Joins
+
+Default = INNER JOIN
+- Cross product
+
+Natural Join
+- 
