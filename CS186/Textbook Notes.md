@@ -30,11 +30,11 @@ Types of operations
 
 Conceptual order of SQL evaluation
 
-5. SELECT [DISTINCT] <col exp. list>
-1. FROM <single table>
-2. WHERE <predicate>
+1. FROM <single table> which table are we drawing from
+2. WHERE only keeps rows where <predicate> is satisfied
 3. GROUP BY <column list>
-4. HAVING <predicate>
+4. HAVING only keeps groups having <predicate> satisfied 
+5. SELECT [DISTINCT] <col exp. list>
 6. ORDER BY <column list>
 7. LIMIT <integer>
 
