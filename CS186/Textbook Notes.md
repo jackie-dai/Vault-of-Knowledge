@@ -88,3 +88,19 @@ To delete
 **Variable Length Records**
 
 Each record stores length and pointer
+
+Discussion 2 - Disks, files, and buffers
+
+Fixed Length Records
+	- Each record/row is a constant size
+Variable Length Records
+	- Lengths are stored in header
+	- Why do we point to the end of the field instead of the beginning
+		- Easier to calculate length 
+		- Aside: not sufficient for storing nulls
+![[Pasted image 20250204172016.png]]
+
+Page Header
+The page header is a portion of the page reserved to define the header
+- stored at the end of the page to allow for growth
+
