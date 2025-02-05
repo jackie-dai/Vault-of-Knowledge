@@ -104,3 +104,6 @@ Page Header
 The page header is a portion of the page reserved to define the header
 - stored at the end of the page to allow for growth
 
+Fragmentation
+Problem with space. We can't store 4 byte file if the 4 bytes are fragemented.
+- only a problem with unpacked layout
