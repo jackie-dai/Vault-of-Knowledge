@@ -73,8 +73,7 @@
               "title": "Release Notes 1.8.4"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS186/Textbook Notes.md",
+                "file": "CS161/Textbook Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,14 +238,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9c698e11efbe71f",
+  "active": "668fc4eb39459209",
   "lastOpenFiles": [
+    "CS186/Textbook Notes.md",
     "Pasted image 20250204172016.png",
     "Pasted image 20250204172015.png",
     "CS161/Textbook Notes.md",
     "Pasted image 20250128174051.png",
     "Pasted image 20250126123210.png",
-    "CS186/Textbook Notes.md",
     "Pasted image 20250128165253.png",
     "Pasted image 20250128165244.png",
     "Lecture 1 - Introduction.md",
