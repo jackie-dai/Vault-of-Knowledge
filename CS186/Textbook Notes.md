@@ -75,7 +75,7 @@ Find new boolean logic to incorporate nulls
 ![[Pasted image 20250128165244.png]]
 
 
-Lecture 3 - 
+**Lecture 3 - Disks and Files**
 
 **Fixed Length Records**
 How do we add and delete records
@@ -109,3 +109,5 @@ Problem with space. We can't store 4 byte file if the 4 bytes are fragemented.
 - only a problem with unpacked layout
 
 Reading and writing takes two I/Os
+
+

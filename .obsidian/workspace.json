@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discussion 1.md",
+                "file": "CS186/Textbook Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discussion 1"
+              "title": "Textbook Notes"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discussion 1.md",
+                "file": "CS186/Textbook Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Discussion 1"
+              "title": "Backlinks for Textbook Notes"
             }
           },
           {
@@ -217,8 +217,8 @@
   },
   "active": "92693e1804ac30de",
   "lastOpenFiles": [
-    "CS170/CS170.md",
     "Discussion 1.md",
+    "CS170/CS170.md",
     "CS170/Pasted image 20250204183914.png",
     "CS186/Pasted image 20250126123210.png",
     "CS186/Textbook Notes.md",
