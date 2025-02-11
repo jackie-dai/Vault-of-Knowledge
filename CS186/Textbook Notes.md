@@ -110,4 +110,12 @@ Problem with space. We can't store 4 byte file if the 4 bytes are fragemented.
 
 Reading and writing takes two I/Os
 
+File Types
+There are two types of heap file implementations
+- Linked List
+![[Pasted image 20250210174622.png]]
+- Page Directory
+![[Pasted image 20250210174632.png]]
+Generally page directory has faster insertion time than linked list because we only need to read the header pages
 
+However, this means search for a record is not efficient because it is unordered. 
