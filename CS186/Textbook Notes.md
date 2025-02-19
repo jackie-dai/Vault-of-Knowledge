@@ -119,3 +119,10 @@ There are two types of heap file implementations
 Generally page directory has faster insertion time than linked list because we only need to read the header pages
 
 However, this means search for a record is not efficient because it is unordered. 
+
+
+Lecture 5 - 
+
+Indexes
+An index is a data structure that enables fast lookup and and modification of data entries by search key
+
