@@ -75,7 +75,7 @@ Find new boolean logic to incorporate nulls
 ![[Pasted image 20250128165244.png]]
 
 
-**Lecture 3 - Disks and Files**
+#Lecture 3: Disks and files 
 
 **Fixed Length Records**
 How do we add and delete records
@@ -119,6 +119,13 @@ There are two types of heap file implementations
 Generally page directory has faster insertion time than linked list because we only need to read the header pages
 
 However, this means search for a record is not efficient because it is unordered. 
+
+
+Packed and unpacked pages for FLR
+A packed page means there are no gaps between records.
+	- A benefit of this is we can easily compute the next avaliable slot by: # of records * length of each record
+A unpacked page reserves slots for records
+	- Page headers will contain bitmaps that keep track of which slots are full or empty
 
 
 Lecture 5 - 
