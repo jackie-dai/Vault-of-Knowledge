@@ -39,4 +39,10 @@ Start from city 1 and end in city j (passing through all cities in set S)
 Step 2: Recurrence Relation for TSP
 
 Recurrence relation: we don't know which icty i is the 2nd to last
-Solution: Take the minimum over all i such that i != j (what doe)
+Solution: Take the minimum over all i such that i != j (what does this mean)
+
+Base cases and final solution
+
+Base cases: 
+- T[{1}, 1] = 0 (graph is itself)
+- T[S, 1] = inf (rules out size 2 graphs to prevent cycles)

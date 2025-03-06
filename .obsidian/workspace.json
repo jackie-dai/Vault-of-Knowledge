@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 53/Multivariable Calculus.md",
+                "file": "Math 53/14.7 Maximum and Minimum Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multivariable Calculus"
+              "title": "14.7 Maximum and Minimum Values"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS170/Lecture 13 - Dynamic Programming III.md",
+                "file": "Math 53/14.7 Maximum and Minimum Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 13 - Dynamic Programming III"
+              "title": "Backlinks for 14.7 Maximum and Minimum Values"
             }
           },
           {
@@ -243,17 +243,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63da7528298eba2b",
+  "active": "9cb0bfc397e37f21",
   "lastOpenFiles": [
+    "Pasted image 20250306152537.png",
+    "Math 53/img/Pasted image 20250306152420.png",
+    "Math 53/Multivariable Calculus.md",
+    "CS170/Lecture 13 - Dynamic Programming III.md",
     "CS170/CS170.md",
     "Ink/Drawing/2025.3.6 - 15.11pm.drawing",
-    "CS170/Lecture 13 - Dynamic Programming III.md",
     "Math 53/14.7 Maximum and Minimum Values.md",
     "Ink/Drawing/2025.3.6 - 14.52pm.drawing",
     "Math 53/14.5 The Chain Rule.md",
     "Math 53/img/Pasted image 20250306144117.png",
     "Math 53/img",
-    "Math 53/Multivariable Calculus.md",
     "CS186/Lecture 11 - Iterators and Relational Algebra.md",
     "Math 53",
     "Untitled",
@@ -288,7 +290,6 @@
     "CS170/img/Pasted image 20250204183914.png",
     "CS170/img/Pasted image 20250221133802.png",
     "CS170/img/Pasted image 20250214055957.png",
-    "CS170/img/Pasted image 20250213135609.png",
     "Linux/Linux DeCal.md",
     "Untitled.canvas"
   ]
