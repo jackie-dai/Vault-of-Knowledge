@@ -11,10 +11,14 @@
             "id": "3bc30e86a39eb67f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CS61C/Lecture 6 - One-Time Pads and Block Ciphers.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 6 - One-Time Pads and Block Ciphers"
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS61C/Lecture 6 - One-Time Pads and Block Ciphers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lecture 6 - One-Time Pads and Block Ciphers"
             }
           },
           {
@@ -183,13 +188,18 @@
   },
   "active": "3bc30e86a39eb67f",
   "lastOpenFiles": [
+    "2025-03-05.md",
+    "CS61C/Lecture 6 - One-Time Pads and Block Ciphers.md",
+    "CS61C/Lecture 6 - Floating Point.md",
+    "CS61C/Lecture 4 - Pointers, Memory, Arrays.md",
+    "CS61C/Lecture 2 - Binary Representation.md",
+    "CS61C/Lecture 1 - Introduction.md",
     "conflict-files-obsidian-git.md",
     "CS186/Textbook Notes.md",
     "CS170/CS170.md",
     "CS186/img/Pasted image 20250222234810.png",
     "CS186/img/Pasted image 20250222234934.png",
     "Misc/Brainstorming.md",
-    "CS61C/Lecture 1 - Introduction.md",
     "Misc",
     "CS170/Discussions.md",
     "CS186/img/Pasted image 20250210174622.png",
@@ -209,14 +219,10 @@
     "CS161/Textbook Notes.md",
     "CS161/CS161 - Computer Security.md",
     "CS186",
-    "CS61C/Lecture 4 - Pointers, Memory, Arrays.md",
-    "CS61C/Lecture 6 - Floating Point.md",
-    "CS61C/Lecture 6 - One-Time Pads and Block Ciphers.md",
     "CS161",
     "React/React Basics.md",
     "React",
     "Misc/Game Architecture.md",
-    "CS61C/Lecture 2 - Binary Representation.md",
     "CS61C/Lecture 5 - C Memory Management.md",
     "CS61C",
     "CS70/Probability/Conditional Probability.md",
