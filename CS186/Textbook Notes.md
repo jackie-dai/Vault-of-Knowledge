@@ -189,6 +189,7 @@ Index Nested Loop Join (INLJ)
 Sort-Merge Join
 
 
+B+ tree
 
 
 ```handdrawn-ink
@@ -200,3 +201,31 @@ Sort-Merge Join
 }
 ```
 
+
+This is a b+ tree
+
+okay today we will be covering minimum spannin trees
+
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2025.3.5 - 21.28pm.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
+
+
+okay that is all for today.
+
+
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2025.3.5 - 21.33pm.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
