@@ -135,7 +135,7 @@ Indexes
 An index is a data structure that enables fast lookup and and modification of data entries by search key
 
 
-#Lecture-Iterators
+##Lecture-
 
 Iterator
 Init() - init state variable and children
