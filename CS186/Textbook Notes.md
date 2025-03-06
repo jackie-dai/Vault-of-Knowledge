@@ -127,9 +127,59 @@ A packed page means there are no gaps between records.
 A unpacked page reserves slots for records
 	- Page headers will contain bitmaps that keep track of which slots are full or empty
 
+![[Pasted image 20250222234934.png]]
 
 Lecture 5 - 
 
 Indexes
 An index is a data structure that enables fast lookup and and modification of data entries by search key
 
+
+#Lecture-Iterators
+
+Iterator
+Init() - init state variable and children
+
+next() - to the next chil
+
+close() - finished and close processes
+
+Perform relational operators on iterators and output a (modified) iterator
+
+**Operators**
+
+$\beta$
+Projection - $\Phi$ 
+select a set of a table  
+- removes duplicates
+Sets and multisets
+
+Selection() - lower sigma
+equivalent to where
+
+Union
+
+Set difference
+
+Joins
+
+Notation
+[R] = # of pages
+p_R = # of records per page in R
+|R| = number of total records in R 
+	- this is the cardinality of R
+	- |R|  = p_R * [R]
+
+
+
+Simple nested loop join (SNLJ)
+
+Page oriented nested loop join 
+
+Block Nested Loop Join (BNLK)
+
+Index Nested Loop Join (INLJ)
+
+**Merges**
+
+Sort-Merge Join
