@@ -1,8 +1,9 @@
 Appendix
 Lecture 1 - SQL
+[[#Lecture 11 - Iterators and Relational Algebra]]
 
 
-Lecture 1 - SQL
+# Lecture 1 - SQL
 
 Relational database
 - Columns (attributes)
@@ -22,7 +23,7 @@ Foreign key
 
 
 
-Lecture 2 - SQL II
+# Lecture 2 - SQL II
 
 Types of operations
 - Aggregate
@@ -40,13 +41,17 @@ GROUP BY major, age
 
 Conceptual order of SQL evaluation
 
-1. FROM <single table> which table are we drawing from
-2. WHERE only keeps rows where <predicate> is satisfied
-3. GROUP BY <column list>
-4. HAVING only keeps groups having <predicate> satisfied (can only be used after group by)
-5. SELECT [DISTINCT] <col exp. list>
-6. ORDER BY <column list>
-7. LIMIT <integer>
+```
+1.FROM <single table> which table are we drawing from
+1. WHERE only keeps rows where <predicate> is satisfied
+2. GROUP BY <column list>
+3. HAVING only keeps groups having <predicate> satisfied (can only be used after group by)
+4. SELECT [DISTINCT] <col exp. list>
+5. ORDER BY <column list>
+6. LIMIT <integer>
+```
+
+
 
 Inner and Natural Joins
 https://docs.google.com/presentation/d/1G_K2BImiDLMXYf-JHXzU6Yyo5Gzv4dO6/edit#slide=id.p34
@@ -75,7 +80,6 @@ Find new boolean logic to incorporate nulls
 ![[Pasted image 20250128165244.png]]
 
 
-#Lecture 3: Disks and files 
 
 **Fixed Length Records**
 How do we add and delete records
@@ -129,13 +133,13 @@ A unpacked page reserves slots for records
 
 ![[Pasted image 20250222234934.png]]
 
-Lecture 5 - 
+
+# Lecture 5 - 
 
 Indexes
 An index is a data structure that enables fast lookup and and modification of data entries by search key
 
-
-##Lecture-
+# Lecture 11 - Iterators and Relational Algebra
 
 Iterator
 Init() - init state variable and children
@@ -148,8 +152,8 @@ Perform relational operators on iterators and output a (modified) iterator
 
 **Operators**
 
-$\beta$
-Projection - $\Phi$ 
+beta
+Projection - Phi 
 select a set of a table  
 - removes duplicates
 Sets and multisets
@@ -183,3 +187,16 @@ Index Nested Loop Join (INLJ)
 **Merges**
 
 Sort-Merge Join
+
+
+
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2025.3.5 - 21.24pm (2).drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
+
