@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 2 - Asymptotic Notations.md",
+                "file": "CS170/CS170.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 2 - Asymptotic Notations"
+              "title": "Backlinks for CS170"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 2 - Asymptotic Notations.md",
+                "file": "CS170/CS170.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 2 - Asymptotic Notations"
+              "title": "Outgoing links from CS170"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 2 - Asymptotic Notations.md",
+                "file": "CS170/CS170.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 2 - Asymptotic Notations"
+              "title": "Outline of CS170"
             }
           }
         ]
@@ -225,10 +225,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "953946f8ed79a7df",
+  "active": "e1f6e79f17ef0bfb",
   "lastOpenFiles": [
-    "CS170/Lecture 1 - Recurrence Relations and Algorithms.md",
     "Lecture 2 - Asymptotic Notations.md",
+    "CS170/Lecture 1 - Recurrence Relations and Algorithms.md",
     "CS170/CS170.md",
     "CS170/Lecture 13 - Dynamic Programming III.md",
     "React/React Basics.md",
