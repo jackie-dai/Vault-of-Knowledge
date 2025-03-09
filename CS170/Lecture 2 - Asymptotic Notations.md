@@ -19,7 +19,11 @@ $$
 **Disclaimer: Don't trust pictures!**
 
 dx T(n) <= dx g(n)
-Check if the inequality still holds?
+Check if the inequality still holds
+
+
+Recurrence relations are closely related to trees
+![[Pasted image 20250308123815.png]]
 
 
 
