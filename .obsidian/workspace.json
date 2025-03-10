@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Derivative Rules.md",
+                "file": "Math 53/Derivative Rules.md",
                 "mode": "source",
                 "source": false
               },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative Rules.md",
+                "file": "Math 53/Derivative Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,10 +224,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c86a5cfb27c4024",
+  "active": "987b07d75b545586",
   "lastOpenFiles": [
     "Math 53/14.5 The Chain Rule.md",
-    "Derivative Rules.md",
+    "Math 53/Derivative Rules.md",
     "Math 53/14.7 Maximum and Minimum Values.md",
     "Math 53/Multivariable Calculus.md",
     "CS170/Lecture 2 - Asymptotic Notations.md",
