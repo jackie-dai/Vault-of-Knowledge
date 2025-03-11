@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 53/14.6 - Directional Derivatives.md",
+                "file": "Math 53/14.7 Maximum and Minimum Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.6 - Directional Derivatives"
+              "title": "14.7 Maximum and Minimum Values"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 53/14.6 - Directional Derivatives.md",
+                "file": "Math 53/14.7 Maximum and Minimum Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 14.6 - Directional Derivatives"
+              "title": "Backlinks for 14.7 Maximum and Minimum Values"
             }
           },
           {
@@ -240,8 +240,9 @@
   },
   "active": "987b07d75b545586",
   "lastOpenFiles": [
-    "Math 53/14.5 The Chain Rule.md",
+    "Math 53/img/Pasted image 20250311143609.png",
     "Math 53/14.6 - Directional Derivatives.md",
+    "Math 53/14.5 The Chain Rule.md",
     "Math 53/14.7 Maximum and Minimum Values.md",
     "Japanese/Learning Japanese.md",
     "Japanese/Useful Phrases.md",
@@ -284,7 +285,6 @@
     "CS170/Discussions.md",
     "Skincare.md",
     "Linux DeCal.md",
-    "Lecture 6 - One-Time Pads and Block Ciphers.md",
-    "Lecture 1 - Introduction.md"
+    "Lecture 6 - One-Time Pads and Block Ciphers.md"
   ]
 }
