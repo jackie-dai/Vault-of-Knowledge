@@ -11,7 +11,7 @@ Perform relational operators on iterators and output a (modified) iterator
 **Operators**
 
 beta
-Projection - Phi 
+Projection - $$\pi$$
 select a set of a table  
 - removes duplicates
 Sets and multisets
