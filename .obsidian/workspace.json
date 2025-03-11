@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 53/14.5 The Chain Rule.md",
+                "file": "Math 53/Derivative Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.5 The Chain Rule"
+              "title": "Derivative Rules"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 53/14.5 The Chain Rule.md",
+                "file": "Math 53/Derivative Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 14.5 The Chain Rule"
+              "title": "Backlinks for Derivative Rules"
             }
           },
           {
@@ -197,8 +197,9 @@
   },
   "active": "13f2d8f78e3c3872",
   "lastOpenFiles": [
-    "Math 53/Derivative Rules.md",
+    "Math 53/Multivariable Calculus.md",
     "Math 53/14.5 The Chain Rule.md",
+    "Math 53/Derivative Rules.md",
     "Math 53/img/Pasted image 20250310172916.png",
     "Ink/Drawing/2025.3.10 - 17.25pm.drawing",
     "Math 53/img/Pasted image 20250310172435.png",
@@ -206,7 +207,6 @@
     "Math 53/img/Pasted image 20250310171530.png",
     "Math 53/img/Pasted image 20250310171556.png",
     "Math 53/14.7 Maximum and Minimum Values.md",
-    "Math 53/Multivariable Calculus.md",
     "CS170/Lecture 2 - Asymptotic Notations.md",
     "CS170/img/Pasted image 20250306152537.png",
     "CS170/img/Pasted image 20250308123815.png",
