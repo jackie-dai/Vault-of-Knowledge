@@ -15,6 +15,9 @@ Trig
 $$
 \sin{x}(dx) = \cos{x}
 $$
+$$
+\cos{x} = -\sin
+$$
 
 
 Natural Log
