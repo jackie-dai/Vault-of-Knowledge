@@ -27,3 +27,12 @@ Recurrence relations are closely related to trees
 
 
 
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2025.3.13 - 13.43pm.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
