@@ -55,7 +55,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md"
+                "file": "Plugins/Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-03-14 22.35.26.excalidraw"
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md",
+                "file": "Plugins/Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,16 +251,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a1f861296364da76",
+  "active": "987b07d75b545586",
   "lastOpenFiles": [
+    "CS170/Lecture 13 - Dynamic Programming III.md",
+    "Pasted image 20250314224249.png",
+    "Plugins/Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md",
     "CS170/Lecture 2 - Asymptotic Notations.md",
-    "Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md",
-    "Excalidraw",
+    "Plugins/Excalidraw",
     "CS170/Lecture 1 - Recurrence Relations and Algorithms.md",
-    "Ink/Drawing/2025.3.13 - 13.43pm.drawing",
-    "Ink/Drawing/2025.3.13 - 13.42pm.drawing",
+    "Plugins/Ink/Drawing/2025.3.13 - 13.43pm.drawing",
+    "Plugins/Ink/Drawing/2025.3.13 - 13.42pm.drawing",
     "CS170/Discussions.md",
-    "Ink/Drawing/2025.3.12 - 13.19pm.drawing",
+    "Plugins/Ink/Drawing/2025.3.12 - 13.19pm.drawing",
     "CS170/CS170.md",
     "Math 53/img/Pasted image 20250311152911.png",
     "Math 53/14.6 Directional Derivatives.md",
@@ -274,20 +276,18 @@
     "Math 53/Derivative Rules.md",
     "Math 53/Multivariable Calculus.md",
     "Math 53/img/Pasted image 20250310172916.png",
-    "Ink/Drawing/2025.3.10 - 17.25pm.drawing",
+    "Plugins/Ink/Drawing/2025.3.10 - 17.25pm.drawing",
     "Math 53/img/Pasted image 20250310172435.png",
     "Math 53/img/Pasted image 20250310171633.png",
     "Math 53/img/Pasted image 20250310171530.png",
     "Math 53/img/Pasted image 20250310171556.png",
     "CS170/img/Pasted image 20250306152537.png",
     "CS170/img/Pasted image 20250308123815.png",
-    "CS170/img/Pasted image 20250308123731.png",
-    "CS170/Lecture 13 - Dynamic Programming III.md",
     "React/React Basics.md",
     "Math 53/img",
     "Math 53",
-    "Ink/Drawing/2025.3.6 - 15.11pm.drawing",
-    "Ink/Drawing/2025.3.6 - 14.52pm.drawing",
+    "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",
+    "Plugins/Ink/Drawing/2025.3.6 - 14.52pm.drawing",
     "CS186/CS186 Lecture Notes.md",
     "Misc/Skincare.md",
     "Misc/Game Architecture.md",
@@ -297,7 +297,6 @@
     "CS61C/Lecture 6 - Floating Point.md",
     "CS61C/Lecture 1 - Introduction.md",
     "Skincare.md",
-    "Linux DeCal.md",
-    "Lecture 6 - One-Time Pads and Block Ciphers.md"
+    "Linux DeCal.md"
   ]
 }

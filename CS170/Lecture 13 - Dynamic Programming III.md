@@ -46,3 +46,8 @@ Base cases and final solution
 Base cases: 
 - T[{1}, 1] = 0 (graph is itself)
 - T[S, 1] = inf (rules out size 2 graphs to prevent cycles)
+[[Drawing 2025-03-14 22.35.26.excalidraw]]
+
+
+![[Pasted image 20250314224249.png]]
+
