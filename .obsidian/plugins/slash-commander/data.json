@@ -69,6 +69,12 @@
       "mode": "any",
       "chosen": false,
       "selected": false
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:open-image-excalidraw-source",
+      "icon": "airplay",
+      "name": "Excalidraw: Open Excalidraw drawing",
+      "mode": "any"
     }
   ]
 }
