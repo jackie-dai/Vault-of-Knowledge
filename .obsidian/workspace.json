@@ -163,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plugins/Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-03-14 22.35.26.excalidraw"
+              "title": "Backlinks"
             }
           },
           {
@@ -251,11 +250,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "987b07d75b545586",
+  "active": "b56f2a3faf85ec96",
   "lastOpenFiles": [
+    "Plugins/Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md",
     "CS170/Lecture 13 - Dynamic Programming III.md",
     "Pasted image 20250314224249.png",
-    "Plugins/Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md",
     "CS170/Lecture 2 - Asymptotic Notations.md",
     "Plugins/Excalidraw",
     "CS170/Lecture 1 - Recurrence Relations and Algorithms.md",
