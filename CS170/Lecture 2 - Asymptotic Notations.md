@@ -44,6 +44,11 @@ $$
 
 Geometric finite sum
 $$
-a + ar + ar^2 + ... + ar^{n-1}= 
+a + ar + ar^2 + ... + ar^{n-1}=\frac{a(1-r^n)}{1-r}
 $$
 Geometric infinite sum
+$$
+a + ar + ar^2 + ... = \frac{a}{1-r}
+$$
+
+
