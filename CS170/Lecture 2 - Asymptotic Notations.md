@@ -36,3 +36,14 @@ Recurrence relations are closely related to trees
 	"aspectRatio": 1
 }
 ```
+**Important sums**
+Arithmetic finite sum
+$$
+1 + 2 + 3 + ...+ n = \frac{n(n + 1)}{2} = O(n^2)
+$$
+
+Geometric finite sum
+$$
+a + ar + ar^2 + ... + ar^{n-1}= 
+$$
+Geometric infinite sum
