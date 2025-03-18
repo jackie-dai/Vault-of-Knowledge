@@ -7,3 +7,9 @@ p_R : The number of records per page of R
 
 
 Simple Nested Loops (SNLJ)
+```
+foreach record r in R do:
+	foreach record s in S do:
+		add (r,s) to buffer
+```
+Cost: [R] + |R|*|S|
