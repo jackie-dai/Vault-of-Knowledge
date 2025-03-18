@@ -13,3 +13,12 @@ foreach record r in R do:
 		add (r,s) to buffer
 ```
 Cost: [R] + |R|*|S|
+
+
+Page Nested Loop Join
+```
+forach rpage in R:
+	foreach spage in S:
+		foreach record r in R:
+			foreach record s in S:
+```
