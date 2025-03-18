@@ -89,8 +89,7 @@
               "title": "Derivative Rules"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,8 +249,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b56f2a3faf85ec96",
+  "active": "b744bdf936772115",
   "lastOpenFiles": [
+    "CS186/Lecture 11 - Iterators and Relational Algebra.md",
     "Plugins/Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md",
     "CS170/Lecture 13 - Dynamic Programming III.md",
     "Pasted image 20250314224249.png",
@@ -270,7 +270,6 @@
     "Math 53/img/Pasted image 20250311143609.png",
     "Japanese/Learning Japanese.md",
     "Japanese/Useful Phrases.md",
-    "CS186/Lecture 11 - Iterators and Relational Algebra.md",
     "Japanese",
     "Math 53/Derivative Rules.md",
     "Math 53/Multivariable Calculus.md",
