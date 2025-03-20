@@ -7,3 +7,5 @@ Components of a LP
 	- x >= 0
 	- y >= 0
 - Objective
+	- How many cakes and donuts to maximize profit?
+	- Maximize 5x + 25y 
