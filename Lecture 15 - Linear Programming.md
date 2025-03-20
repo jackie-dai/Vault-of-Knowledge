@@ -1,5 +1,5 @@
 
-Components of a LP
+Components of a LP (Bakery)
 - Decision variables
 	- x = # of donuts
 	- y = # of cakes
@@ -9,3 +9,9 @@ Components of a LP
 - Objective
 	- How many cakes and donuts to maximize profit?
 	- Maximize 5x + 25y 
+
+Classroom Allocation
+- Decision variables
+	- num of courses
+	- num of classrooms
+- 
