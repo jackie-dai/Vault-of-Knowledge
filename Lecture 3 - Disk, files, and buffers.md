@@ -17,3 +17,10 @@ Similar to reading a vinyl
 **Flash (SSD**) drives are organized into random cells. Reading is incredibly fast, but writing is slow
 - Read: 4KB ~500MB/sec
 - Write: 4KB: ~120MB/sec
+Writing is more expensive because it needs to allocate space to write
+
+Disk representation
+abstracts into pages. Page is the unit of measurement
+
+Reading from a DB file (collection of pages, each page a collection of records)
+Reads: fetch a record by *record id* (pointer to tuple(pageID, location on page))
