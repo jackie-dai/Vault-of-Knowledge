@@ -12,5 +12,8 @@ Both api calls are slow!
 Big and slow to small and fast
 
 Hard drives 
+Similar to reading a vinyl
 
-SSDs
+**Flash (SSD**) drives are organized into random cells. Reading is incredibly fast, but writing is slow
+- Read: 4KB ~500MB/sec
+- Write: 4KB: ~120MB/sec
