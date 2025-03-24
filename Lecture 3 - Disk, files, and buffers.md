@@ -24,3 +24,5 @@ abstracts into pages. Page is the unit of measurement
 
 Reading from a DB file (collection of pages, each page a collection of records)
 Reads: fetch a record by *record id* (pointer to tuple(pageID, location on page))
+
+![[Pasted image 20250324121818.png]]
