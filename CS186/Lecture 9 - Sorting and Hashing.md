@@ -19,5 +19,5 @@ Sorting: 2-way
 
 ![[Pasted image 20250325121936.png]]
 
-Each input buffer is individually sorted. Take the min of 
+Each input buffer is individually sorted. Take the min of between the input buffers, pop, and write to output buffer. Repeat until there are no more elements left in the input buffers
 
