@@ -26,3 +26,21 @@ Reading from a DB file (collection of pages, each page a collection of records)
 Reads: fetch a record by *record id* (pointer to tuple(pageID, location on page))
 
 ![[Pasted image 20250324121818.png]]
+
+**DB File Structures**
+Now how do we organize these DB file files?
+
+Unordered heapfiles: Collection of records in no particular order
+
+Heap files as lists
+Two doubly linked lists
+![[Pasted image 20250324124958.png]]
+Header page has two pointers:
+- first page of data
+- first page of free space
+Cons: difficult to find page with enough space (doesn't store how much free space each page has)
+
+Page Directory
+![[Pasted image 20250324125250.png]]
+
+
