@@ -11,4 +11,13 @@ APIs
 	- If not -> retrieve from disk
 - Write page
 
+A **dirty page** is a page that is modified in ram (the page in ram is not the same as the page in disk)
+
 How do we handle dirty pages?
+
+Dirty bit on page --like CS61C!
+Write back to disk manager
+
+![[Pasted image 20250325114744.png]]
+Pin count: if the page needs to be queried (we need the page for something), it can be pinned). Now, during the replacement cycle, we look for a unpinned frame for replacement
+
