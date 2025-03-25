@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bc30e86a39eb67f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS170/Lecture 13 - Dynamic Programming III.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 13 - Dynamic Programming III"
-            }
-          },
-          {
-            "id": "c140abb4910fd5c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS170/Lecture 15 - Linear Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 15 - Linear Programming"
-            }
-          },
-          {
             "id": "232eae61798278c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 3 - Disk, files, and buffers.md",
+                "file": "CS186/Lecture 8 - Buffer Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - Disk, files, and buffers"
+              "title": "Lecture 8 - Buffer Management"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "620b7056f36830f6",
@@ -133,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 3 - Disk, files, and buffers.md",
+                "file": "CS186/Lecture 8 - Buffer Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 3 - Disk, files, and buffers"
+              "title": "Backlinks for Lecture 8 - Buffer Management"
             }
           },
           {
@@ -203,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,12 +190,17 @@
   },
   "active": "232eae61798278c6",
   "lastOpenFiles": [
-    "Pasted image 20250324125250.png",
-    "Pasted image 20250324124958.png",
-    "Pasted image 20250324121818.png",
-    "Pasted image 20250324104208.png",
+    "Pasted image 20250325113657.png",
+    "CS186/Lecture 3 - Disk, files, and buffers.md",
+    "CS186/Lecture 8 - Buffer Management.md",
+    "CS70/Discrete Math.md",
+    "CS186/CS186 Lecture Notes.md",
+    "CS186/img/Pasted image 20250314224249.png",
+    "CS186/img/Pasted image 20250324125250.png",
+    "CS186/img/Pasted image 20250324124958.png",
+    "CS186/img/Pasted image 20250324121818.png",
+    "CS186/img/Pasted image 20250324104208.png",
     "CS170/Lecture 15 - Linear Programming.md",
-    "Lecture 3 - Disk, files, and buffers.md",
     "CS170/Lecture 13 - Dynamic Programming III.md",
     "CS170/Lecture 2 - Asymptotic Notations.md",
     "CS170/Lecture 1 - Recurrence Relations and Algorithms.md",
@@ -238,13 +216,11 @@
     "Plugins/Ink/Drawing/2025.3.5 - 21.24pm.drawing",
     "Plugins/Ink/Drawing/2025.3.5 - 21.22pm.drawing",
     "Plugins/Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md",
-    "Pasted image 20250314224249.png",
     "Math 53/img/Pasted image 20250311143609.png",
     "Math 53/img/Pasted image 20250311152911.png",
     "Math 53/img/Pasted image 20250310172435.png",
     "Math 53/img/Pasted image 20250310172916.png",
     "Math 53/img/Pasted image 20250310171556.png",
-    "Math 53/img/Pasted image 20250310171633.png",
     "Math 53/Multivariable Calculus.md",
     "Math 53/Derivative Rules.md",
     "Math 53/14.6 Directional Derivatives.md",
@@ -255,14 +231,11 @@
     "Japanese/Learning Japanese.md",
     "CS186/Query Optimizers.md",
     "CS186/Lecture 11 - Iterators and Relational Algebra.md",
-    "CS186/CS186 Lecture Notes.md",
     "conflict-files-obsidian-git.md",
     "CS186/Textbook Notes.md",
     "Misc/Brainstorming.md",
     "CS61C/Lecture 1 - Introduction.md",
     "CS170/Discussions.md",
-    "Linux/Linux DeCal.md",
-    "Misc/Skincare.md",
     "Untitled.canvas"
   ]
 }
