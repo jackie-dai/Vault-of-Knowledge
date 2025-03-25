@@ -21,3 +21,13 @@ Write back to disk manager
 ![[Pasted image 20250325114744.png]]
 Pin count: if the page needs to be queried (we need the page for something), it can be pinned). Now, during the replacement cycle, we look for a unpinned frame for replacement
 
+Replacement happens when a requested page is not in the buffer pool
+
+**When a page is requested**
+if requested page is not in pool:
+- Choose un-pinned frame for replacement
+- If frame is dirty -> write current page to disk and mark clean (not dirty)
+- Read requested page into frame
+Pin the page and return its address
+
+Page Replacement Policy
