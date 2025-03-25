@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "620b7056f36830f6",
@@ -204,6 +205,7 @@
   },
   "active": "0ffe3121d74e3635",
   "lastOpenFiles": [
+    "Pasted image 20250325120005.png",
     "CS186/img/Pasted image 20250325113657.png",
     "CS186/Lecture 9 - Sorting and Hashing.md",
     "CS186/Lecture 8 - Buffer Management.md",
