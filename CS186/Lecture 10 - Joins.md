@@ -22,3 +22,18 @@ forach rpage in R:
 		foreach record r in R:
 			foreach record s in S:
 ```
+
+Block Nested Loop Join (BNLJ)
+
+![[Pasted image 20250326101801.png]]
+Compare all records in each *chunk* of R to all records for each page of S.
+
+```
+for each rchunk of B-2 pages of R:
+	for each spage of S:
+		for all matching tuples in spage and rchunk:
+			add<rtuple, stuple> to result in buffer
+```
+
+*Difference: modifying the outermost loop to loop through chunks instead of pages*
+
