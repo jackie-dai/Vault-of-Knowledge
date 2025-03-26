@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Lecture 8 - Buffer Management"
             }
-          },
-          {
-            "id": "0ffe3121d74e3635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS186/Lecture 9 - Sorting and Hashing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 9 - Sorting and Hashing"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "620b7056f36830f6",
@@ -120,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS186/Lecture 9 - Sorting and Hashing.md",
+                "file": "CS186/Lecture 8 - Buffer Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 9 - Sorting and Hashing"
+              "title": "Backlinks for Lecture 8 - Buffer Management"
             }
           },
           {
@@ -195,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -203,17 +188,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ffe3121d74e3635",
+  "active": "232eae61798278c6",
   "lastOpenFiles": [
-    "Pasted image 20250325121936.png",
-    "Pasted image 20250325120005.png",
-    "CS186/img/Pasted image 20250325113657.png",
+    "CS170/CS170 - Efficient Algorithms.md",
+    "CS186/CS186 - Intro to Database Systems.md",
+    "React/React Basics.md",
+    "CS186/img/Pasted image 20250325120005.png",
     "CS186/Lecture 9 - Sorting and Hashing.md",
+    "CS186/img/Pasted image 20250325121936.png",
+    "CS186/img/Pasted image 20250325113657.png",
     "CS186/Lecture 8 - Buffer Management.md",
     "CS186/img/Pasted image 20250325114744.png",
     "CS186/Lecture 3 - Disk, files, and buffers.md",
     "CS70/Discrete Math.md",
-    "CS186/CS186 Lecture Notes.md",
     "CS186/img/Pasted image 20250314224249.png",
     "CS186/img/Pasted image 20250324125250.png",
     "CS186/img/Pasted image 20250324124958.png",
@@ -223,7 +210,6 @@
     "CS170/Lecture 13 - Dynamic Programming III.md",
     "CS170/Lecture 2 - Asymptotic Notations.md",
     "CS170/Lecture 1 - Recurrence Relations and Algorithms.md",
-    "CS170/CS170.md",
     "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Plugins/Ink/Writing/2025.3.5 - 21.22pm.writing",
     "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",
@@ -236,7 +222,6 @@
     "Plugins/Ink/Drawing/2025.3.5 - 21.22pm.drawing",
     "Plugins/Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md",
     "Math 53/img/Pasted image 20250311143609.png",
-    "Math 53/img/Pasted image 20250311152911.png",
     "Math 53/Multivariable Calculus.md",
     "Math 53/Derivative Rules.md",
     "Math 53/14.6 Directional Derivatives.md",

@@ -1,5 +1,9 @@
-Appendix
+**Appendix**
 Lecture 1 - SQL
+[[Lecture 3 - Disk, files, and buffers]]
+[[Lecture 8 - Buffer Management]]
+[[Lecture 9 - Sorting and Hashing]]
+[[Lecture 10 - Joins]]
 [[Lecture 11 - Iterators and Relational Algebra]]
 
 

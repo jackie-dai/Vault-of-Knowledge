@@ -1,5 +1,9 @@
 
+**Appendix**
 [[Lecture 1 - Recurrence Relations and Algorithms]]
+[[Lecture 2 - Asymptotic Notations]]
+[[Lecture 13 - Dynamic Programming III]]
+[[Lecture 15 - Linear Programming]]
 
 **Lecture 6 - Directed Graphs**
 
