@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 3 - Selection and Recurrence Relation.md",
+                "file": "CS186/Lecture 10 - Joins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - Selection and Recurrence Relation"
+              "title": "Lecture 10 - Joins"
             }
           }
         ],
@@ -205,8 +205,8 @@
   },
   "active": "89a3c2e397cf1538",
   "lastOpenFiles": [
+    "CS170/Lecture 3 - Selection and Recurrence Relation.md",
     "CS186/Lecture 10 - Joins.md",
-    "Lecture 3 - Selection and Recurrence Relation.md",
     "Pasted image 20250326101801.png",
     "CS186/Lecture 8 - Buffer Management.md",
     "CS170/CS170 - Efficient Algorithms.md",

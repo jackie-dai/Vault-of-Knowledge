@@ -51,3 +51,4 @@ for each page in {R,S}:
 
 *Conquer:*
 
+Sort Merge Join (SMJ)
