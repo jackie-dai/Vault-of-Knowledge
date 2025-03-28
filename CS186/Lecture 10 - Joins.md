@@ -37,3 +37,17 @@ for each rchunk of B-2 pages of R:
 
 *Difference: modifying the outermost loop to loop through chunks instead of pages*
 
+**Grace Hash Join**
+*Divide:*
+Partition tuples from R and S by join key to store on disk.
+- Each partition has the same keys or hash value
+```
+for each page in {R,S}:
+	read page into input buffer
+	for each tuple on page
+		place tuple in output buffer that corresponds to their hash value
+		if the output buffer is full -> flush to disk		
+```
+
+*Conquer:*
+
