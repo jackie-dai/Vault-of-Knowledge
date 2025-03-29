@@ -37,6 +37,19 @@ for each rchunk of B-2 pages of R:
 
 *Difference: modifying the outermost loop to loop through chunks instead of pages*
 
+**Simple Hash Join (SHJ)**
+
+*Divide:*
+Partition all the left records by their hash value. So if there are 4 hash values, there would be 4 partitions
+
+*Conquer:*
+Build the a hashtables based off the partitions
+Hashtable<Hash Value,  List<\Records>)
+
+Probe the right records by hashing them and concatenating with all records in the respective partition. We get the correct partition by taking the right hash value and looking up the matching hash value in the hashtable.
+
+
+
 **Grace Hash Join**
 *Divide:*
 Partition tuples from R and S by join key to store on disk.
