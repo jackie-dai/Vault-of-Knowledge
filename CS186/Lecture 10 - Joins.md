@@ -51,4 +51,11 @@ for each page in {R,S}:
 
 *Conquer:*
 
-Sort Merge Join (SMJ)
+**Sort Merge Join (SMJ)**
+First sort both files by the key we are joining on
+
+Compare L1 to R1 
+- If match -> right.mark()
+- keep iterating the right side until we don't have a match. Once there is a mismatch -> right.reset()
+- next call next on leftside and next on right side
+-
