@@ -58,4 +58,11 @@ Compare L1 to R1
 - If match -> right.mark()
 - keep iterating the right side until we don't have a match. Once there is a mismatch -> right.reset()
 - next call next on leftside and next on right side
--
+
+
+Sorting 
+- Good if input is already sorted or you need a sorted output table
+
+Hashing
+- Con: prone to key skew
+- Good for large inputs
