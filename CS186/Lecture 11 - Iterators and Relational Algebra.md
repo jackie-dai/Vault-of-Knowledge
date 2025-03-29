@@ -1,10 +1,13 @@
 
 Iterator
-Init() - init state variable and children
-
-next() - to the next chil
-
-close() - finished and close processes
+```
+abstract class iterator {
+	void setup(List<Iterator> inputs);
+	void init(args);
+	tuple next();
+	void close();
+}
+```
 
 Perform relational operators on iterators and output a (modified) iterator
 
