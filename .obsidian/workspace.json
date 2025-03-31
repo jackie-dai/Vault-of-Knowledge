@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 53/14.6 Directional Derivatives.md",
+                "file": "Math 53/Derivative Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.6 Directional Derivatives"
+              "title": "Derivative Rules"
             }
           }
         ],
@@ -205,6 +205,7 @@
   },
   "active": "89a3c2e397cf1538",
   "lastOpenFiles": [
+    "Math 53/14.6 Directional Derivatives.md",
     "Math 53/Derivative Rules.md",
     "Math 53/14.7 Maximum and Minimum Values.md",
     "CS186/Lecture 10 - Joins.md",
@@ -243,7 +244,6 @@
     "Plugins/Ink/Drawing/2025.3.5 - 21.22pm.drawing",
     "Plugins/Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md",
     "Math 53/Multivariable Calculus.md",
-    "Math 53/14.6 Directional Derivatives.md",
     "Math 53/14.5 The Chain Rule.md",
     "Japanese/Useful Phrases.md",
     "Japanese/Learning Japanese.md",
