@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 53/15.2 - Double Integrals.md",
+                "file": "Math 53/Derivative Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.2 - Double Integrals"
+              "title": "Derivative Rules"
             }
           }
         ],
@@ -229,11 +229,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "8f4f9e464bd4a630",
   "lastOpenFiles": [
+    "Math 53/15.2 - Double Integrals.md",
     "Math 53/img/Unit-circle.png",
     "CS186/img/Pasted image 20250326101801.png",
-    "Math 53/15.2 - Double Integrals.md",
     "CS186/Lecture 16 - Recovery I.md",
     "Math 53/Derivative Rules.md",
     "Math 53/14.6 Directional Derivatives.md",
@@ -256,7 +256,6 @@
     "CS186/img/Pasted image 20250324125250.png",
     "CS186/img/Pasted image 20250324124958.png",
     "CS186/img/Pasted image 20250324121818.png",
-    "CS186/img/Pasted image 20250324104208.png",
     "CS170/Lecture 15 - Linear Programming.md",
     "CS170/Lecture 13 - Dynamic Programming III.md",
     "CS170/Lecture 2 - Asymptotic Notations.md",
