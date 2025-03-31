@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15.2 - Double Integrals.md",
+                "file": "Math 53/15.2 - Double Integrals.md",
                 "mode": "source",
                 "source": false
               },
@@ -229,10 +229,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f4f9e464bd4a630",
+  "active": "1a93259cabede32e",
   "lastOpenFiles": [
+    "Math 53/img/Unit-circle.png",
     "CS186/img/Pasted image 20250326101801.png",
-    "15.2 - Double Integrals.md",
+    "Math 53/15.2 - Double Integrals.md",
     "CS186/Lecture 16 - Recovery I.md",
     "Math 53/Derivative Rules.md",
     "Math 53/14.6 Directional Derivatives.md",
