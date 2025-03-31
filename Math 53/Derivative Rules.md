@@ -22,4 +22,9 @@ $$
 
 Natural Log
 $$
-\ln{x} = \frac{1}{x}$$
+\ln{x} = \frac{1}{x}
+$$
+
+$$
+y/x = \tan{\theta}
+$$
