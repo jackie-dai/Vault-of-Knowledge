@@ -88,9 +88,79 @@
               "icon": "lucide-file",
               "title": "Multivariable Calculus"
             }
+          },
+          {
+            "id": "5ab0236fbb3017db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 53/Multivariable Calculus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multivariable Calculus"
+            }
+          },
+          {
+            "id": "f177f20efbe45cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 53/14.2 Limits and Continuity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14.2 Limits and Continuity"
+            }
+          },
+          {
+            "id": "df03afb1cd100ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 53/Multivariable Calculus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multivariable Calculus"
+            }
+          },
+          {
+            "id": "245282ba639dabff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 53/13.2 Derivatives and Integrals of Vector Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.2 Derivatives and Integrals of Vector Functions"
+            }
+          },
+          {
+            "id": "055831a4a52e033c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 53/Multivariable Calculus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multivariable Calculus"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -257,11 +327,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8cc6bb97c4d59b5",
+  "active": "055831a4a52e033c",
   "lastOpenFiles": [
+    "Math 53/13.1 Vector Functions and Space Curves.md",
+    "Math 53/13.2 Derivatives and Integrals of Vector Functions.md",
+    "Math 53/Multivariable Calculus.md",
+    "Math 53/14.1 Functions of Several Variables.md",
+    "Math 53/14.2 Limits and Continuity.md",
+    "Math 53/14.3 Partial Derivatives.md",
     "Math 53/14.4 Tangent Planes and Linear Approximations.md",
     "Math 53/14.6 Directional Derivatives and Gradient Vector.md",
-    "Math 53/Multivariable Calculus.md",
     "CS186/img/Pasted image 20250401180220.png",
     "CS186/img/Pasted image 20250401173444.png",
     "CS186/img/Pasted image 20250401172336.png",
@@ -290,7 +365,6 @@
     "CS170/Lecture 15 - Linear Programming.md",
     "CS170/Lecture 13 - Dynamic Programming III.md",
     "CS170/Lecture 2 - Asymptotic Notations.md",
-    "CS170/Lecture 1 - Recurrence Relations and Algorithms.md",
     "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Plugins/Ink/Writing/2025.3.5 - 21.22pm.writing",
     "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",
@@ -301,10 +375,6 @@
     "Plugins/Ink/Drawing/2025.3.5 - 21.28pm.drawing",
     "Plugins/Ink/Drawing/2025.3.5 - 21.24pm.drawing",
     "Plugins/Ink/Drawing/2025.3.5 - 21.22pm.drawing",
-    "Plugins/Excalidraw/Drawing 2025-03-14 22.35.26.excalidraw.md",
-    "Math 53/14.5 The Chain Rule.md",
-    "Japanese/Useful Phrases.md",
-    "Japanese/Learning Japanese.md",
     "Untitled.canvas"
   ]
 }
