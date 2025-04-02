@@ -28,3 +28,14 @@ $$
 $$
 y/x = \tan{\theta}
 $$
+The product rule
+*Used if we see the product of multiple x's*
+$$
+f(x)dx = u'v + uv'
+$$
+$$ 
+f(x) = x * e^{xy}
+$$Chain rule
+$$
+f(g(x)) = f'(g(x)) * g'(x)
+$$
