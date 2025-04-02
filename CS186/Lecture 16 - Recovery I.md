@@ -21,5 +21,17 @@ Logging
 
 Flush(A) = write from memory A to disk A
 
+![[Pasted image 20250401173444.png]]
+*Operation can either be COMMIT or ABORT*
+*Whenever there is a WRITE(X), we undo log the value that X changed to*
+
+UNDO: undoes all updates for *running* transactions
+REDO: logging redoes all updates for *committed* transactions
+
+ARIES Recovery System
+
+Data structures
+- The Log (WAL)
+
 **Page Log Sequence Number (LSN)**
 
