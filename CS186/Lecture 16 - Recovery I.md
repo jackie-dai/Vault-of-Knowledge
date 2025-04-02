@@ -32,6 +32,12 @@ ARIES Recovery System
 
 Data structures
 - The Log (WAL)
+- FlushedLSN
+
+Recovery phases
+1. Analysis: recreate transaction table at time of crash
+2. Redo
+3. Undo
 
 **Page Log Sequence Number (LSN)**
 
