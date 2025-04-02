@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS186/Lecture 16 - Recovery I.md",
+                "file": "Math 53/Multivariable Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 16 - Recovery I"
+              "title": "Multivariable Calculus"
             }
           }
         ],
@@ -245,16 +245,16 @@
   },
   "active": "970cc81fdcc11e91",
   "lastOpenFiles": [
+    "Math 53/Derivative Rules.md",
+    "CS186/Lecture 16 - Recovery I.md",
     "Pasted image 20250401180220.png",
     "Pasted image 20250401173444.png",
     "Pasted image 20250401172336.png",
     "Math 53/14.6 Directional Derivatives.md",
-    "Math 53/Derivative Rules.md",
     "Math 53/15.5 Surface Area.md",
     "Math 53/15.2 - Double Integrals.md",
     "Math 53/img/Unit-circle.png",
     "CS186/img/Pasted image 20250326101801.png",
-    "CS186/Lecture 16 - Recovery I.md",
     "Math 53/14.7 Maximum and Minimum Values.md",
     "CS186/Lecture 10 - Joins.md",
     "CS186/Lecture 11 - Iterators and Relational Algebra.md",
@@ -271,7 +271,6 @@
     "CS186/Lecture 3 - Disk, files, and buffers.md",
     "CS70/Discrete Math.md",
     "CS186/img/Pasted image 20250314224249.png",
-    "CS186/img/Pasted image 20250324125250.png",
     "CS170/Lecture 15 - Linear Programming.md",
     "CS170/Lecture 13 - Dynamic Programming III.md",
     "CS170/Lecture 2 - Asymptotic Notations.md",
