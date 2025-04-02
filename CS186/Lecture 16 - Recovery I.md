@@ -39,5 +39,10 @@ Recovery phases
 2. Redo
 3. Undo
 
+TODO
+- Worksheet problem 2A
+Put on cheatsheet
+![[Pasted image 20250401180220.png]]
+
 **Page Log Sequence Number (LSN)**
 
