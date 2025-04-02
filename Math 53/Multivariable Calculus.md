@@ -1,4 +1,5 @@
 
+[[14.4 Tangent Planes and Linear Approximations]]
 [[14.5 The Chain Rule]]
 [[14.6 Directional Derivatives and Gradient Vector]]
 [[14.7 Maximum and Minimum Values]]
