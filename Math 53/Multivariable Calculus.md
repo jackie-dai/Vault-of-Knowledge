@@ -8,6 +8,7 @@
 [[14.5 The Chain Rule]]
 [[14.6 Directional Derivatives and Gradient Vector]]
 [[14.7 Maximum and Minimum Values]]
+[[14.8 Lagrange Multipliers]]
 
 [[15.2 - Double Integrals]]
 
