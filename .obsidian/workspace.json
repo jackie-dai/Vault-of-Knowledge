@@ -163,12 +163,14 @@
             "id": "f2f5dc0603e427b2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Math 53/img/Unit-circle.png"
+                "file": "Math 53/Derivative Rules.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Unit-circle"
+              "icon": "lucide-file",
+              "title": "Derivative Rules"
             }
           }
         ],
@@ -341,6 +343,7 @@
   },
   "active": "f2f5dc0603e427b2",
   "lastOpenFiles": [
+    "Math 53/img/Unit-circle.png",
     "Math 53/img/Pasted image 20250401185349.png",
     "Math 53/img/Pasted image 20250311152911.png",
     "Math 53/img/Pasted image 20250311143609.png",
@@ -365,7 +368,6 @@
     "CS186/img/Pasted image 20250401172336.png",
     "CS186/Lecture 16 - Recovery I.md",
     "Math 53/15.2 - Double Integrals.md",
-    "Math 53/img/Unit-circle.png",
     "CS186/img/Pasted image 20250326101801.png",
     "Math 53/14.7 Maximum and Minimum Values.md",
     "CS186/Lecture 10 - Joins.md",
