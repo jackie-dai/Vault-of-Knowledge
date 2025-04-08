@@ -18,3 +18,6 @@ Def *flow*: A *flow* assigns a number f to each directed edge (this is the amoun
 - Nonegative
 - f <= capacity
 Def *size*: The size of a flow in the total quantity sent from s -> t
+This is equal to the sum of all the flows
+
+Objective: maximize size(f)
