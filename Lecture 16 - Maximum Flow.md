@@ -21,3 +21,5 @@ Def *size*: The size of a flow in the total quantity sent from s -> t
 This is equal to the sum of all the flows
 
 Objective: maximize size(f)
+
+![[Pasted image 20250408114558.png]]
