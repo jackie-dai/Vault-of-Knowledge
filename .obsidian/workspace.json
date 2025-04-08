@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS186/Lecture 12 - Query Optimization.md",
+                "file": "CS170/CS170 - Efficient Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 12 - Query Optimization"
+              "title": "CS170 - Efficient Algorithms"
+            }
+          },
+          {
+            "id": "96f245faffaf25b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 16 - Network Flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 16 - Network Flow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,8 +203,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72de4d8bb798a5b2",
+  "active": "1a93259cabede32e",
   "lastOpenFiles": [
+    "CS170/CS170 - Efficient Algorithms.md",
+    "Lecture 16 - Network Flow.md",
+    "CS186/Lecture 12 - Query Optimization.md",
     "Math 53/Derivative Rules.md",
     "CS186/Lecture 3 - Disk, files, and buffers.md",
     "Math 53/13.2 Derivatives and Integrals of Vector Functions.md",
@@ -219,12 +237,10 @@
     "CS186/Lecture 10 - Joins.md",
     "CS170/Lecture 3 - Selection and Recurrence Relation.md",
     "CS186/Lecture 8 - Buffer Management.md",
-    "CS170/CS170 - Efficient Algorithms.md",
     "CS186/CS186 - Intro to Database Systems.md",
     "React/React Basics.md",
     "CS186/Lecture 9 - Sorting and Hashing.md",
     "CS70/Discrete Math.md",
-    "CS170/Lecture 15 - Linear Programming.md",
     "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Plugins/Ink/Writing/2025.3.5 - 21.22pm.writing",
     "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",
