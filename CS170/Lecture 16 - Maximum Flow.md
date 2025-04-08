@@ -25,3 +25,15 @@ Objective: maximize size(f)
 ![[Pasted image 20250408114558.png]]
 
 We can create a residual graph by "undoing" the flow (backtracking the flow).
+![[Pasted image 20250408153802.png]]
+1. Add original flow
+2. Add residual flow
+3. Cancel out overlapping flows
+
+Ford-Fulkerson Algorithm
+1. Find a path P from s to t in the resdiual graph (augmenting path)
+2. Send more flow along P
+3. Repeat
+
+![[Pasted image 20250408154454.png]]
+Residual ![[Pasted image 20250408154508.png]]
