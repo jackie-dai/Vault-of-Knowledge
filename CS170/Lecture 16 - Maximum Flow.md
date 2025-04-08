@@ -23,3 +23,5 @@ This is equal to the sum of all the flows
 Objective: maximize size(f)
 
 ![[Pasted image 20250408114558.png]]
+
+We can create a residual graph by "undoing" the flow (backtracking the flow).

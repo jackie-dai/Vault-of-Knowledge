@@ -11,10 +11,14 @@
             "id": "baa5727798e2b114",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CS170/Lecture 16 - Maximum Flow.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 16 - Maximum Flow"
             }
           }
         ]
@@ -184,10 +188,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "baa5727798e2b114",
   "lastOpenFiles": [
-    "CS170/img/Pasted image 20250408104922.png",
     "CS170/Lecture 20 - NP Complete.md",
+    "CS170/img/Pasted image 20250408104922.png",
     "CS170/Lecture 16 - Maximum Flow.md",
     "CS170/img/Pasted image 20250408114558.png",
     "CS170/CS170 - Efficient Algorithms.md",
