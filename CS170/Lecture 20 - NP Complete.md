@@ -50,4 +50,4 @@ Check:
 - For all i, (v_i, v_i + 1) is a edge
 
 Eulerian Cycle: find cycle visiting each edge exactly once
-*To check if *
+*If every vertex has even degree => there is a eulerian cycle*
