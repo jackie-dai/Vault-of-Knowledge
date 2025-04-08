@@ -35,4 +35,19 @@ verify(Input N, Solution p and q)
 - check p,q > 1
 - Check p * q = N <- O(n^2) time or better
 
-**Example problem: Rudrata Cycle (Hamiltonian cycle)**
+**Example problem: Rudrata Cycle (Hamiltonian Cycle)**
+Input: Graph G = (V, E)
+Def: a tour is a cycle v1, v2,.., v_n that visits each node exactly once
+
+Possible solution: Try all n! ways of ordering verticies, if we find a tour => output
+
+*Not known to be P*
+
+Conclusion: NP problem
+proof: verify(Input G, Solution v1, v2,)
+Check:
+- Visits each vertex once
+- For all i, (v_i, v_i + 1) is a edge
+
+Eulerian Cycle: find cycle visiting each edge exactly once
+*To check if *

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 16 - Maximum Flow.md",
+                "file": "CS170/Lecture 16 - Maximum Flow.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 20 - NP Complete.md",
+                "file": "CS170/Lecture 20 - NP Complete.md",
                 "mode": "source",
                 "source": false
               },
@@ -219,10 +219,10 @@
   },
   "active": "ae8fb4189d19b3d7",
   "lastOpenFiles": [
-    "Lecture 16 - Maximum Flow.md",
-    "Lecture 20 - NP Complete.md",
-    "Pasted image 20250408114558.png",
-    "Pasted image 20250408104922.png",
+    "CS170/img/Pasted image 20250408104922.png",
+    "CS170/Lecture 20 - NP Complete.md",
+    "CS170/Lecture 16 - Maximum Flow.md",
+    "CS170/img/Pasted image 20250408114558.png",
     "CS170/CS170 - Efficient Algorithms.md",
     "CS186/Lecture 12 - Query Optimization.md",
     "Math 53/Derivative Rules.md",
@@ -254,7 +254,6 @@
     "CS186/Lecture 8 - Buffer Management.md",
     "CS186/CS186 - Intro to Database Systems.md",
     "React/React Basics.md",
-    "CS186/Lecture 9 - Sorting and Hashing.md",
     "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Plugins/Ink/Writing/2025.3.5 - 21.22pm.writing",
     "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",
