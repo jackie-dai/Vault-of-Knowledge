@@ -15,4 +15,6 @@ Def NP: class of problems whose solutions can be verified efficiently
 Example problem: 3-coloring
 
 Input: Graph G = (V,E)
-Solution
+Def coloring c: V -> {Red, ,Green, Blue} s.t each edge receives two different colors
+
+Possible algorithm: 
