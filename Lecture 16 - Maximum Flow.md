@@ -10,4 +10,6 @@ Max flow algorithm
 - One source vertex
 - One destination vertex
 - Each edge can only had *capacity* amount of water
-**Goal:** Route the max amount of water from source to destination\\\
+**Goal:** Route the max amount of water from source to destination
+
+we can break up the flow of water 
