@@ -4,4 +4,10 @@ Background
 
 How do we optimize the transportation from sources to destinations
 
-Solution
+Max flow algorithm
+Inputs: 
+- Directed graph
+- One source vertex
+- One destination vertex
+- Each edge can only had *capacity* amount of water
+**Goal:** 
