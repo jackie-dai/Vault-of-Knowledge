@@ -12,4 +12,9 @@ Max flow algorithm
 - Each edge can only had *capacity* amount of water
 **Goal:** Route the max amount of water from source to destination
 
-we can break up the flow of water 
+We can break up the flow of water to 1/2 and reconvene at later point to make 1 unit of water
+
+Def *flow*: A *flow* assigns a number f to each directed edge (this is the amount of flow of water through a edge)
+- Nonegative
+- f <= capacity
+Def *size*: The size of a flow in the total quantity sent from s -> t
