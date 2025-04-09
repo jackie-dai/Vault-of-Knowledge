@@ -57,5 +57,5 @@ We use *hierarchical aggregation* to calculate aggregate functions (SUM, COUNT).
 If relation is already partitioned in the way we want, we don't need to repartition
 
 ### Broadcast Joins
-Sometimes, one table is tiny and one is huge (uneven distribution)
-To save IO cost: 
+Sometimes, one table is tiny and one is huge (unevenly distrbuted)
+To save IO cost: broadcast smaller table to each machine rather than trying to partition the biggest table
