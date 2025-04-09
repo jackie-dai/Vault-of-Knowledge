@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Parallisem.md",
+                "file": "Parallel Query Processing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture Parallisem"
+              "title": "Parallel Query Processing"
             }
           }
         ],
@@ -206,7 +206,7 @@
   "active": "f7174c4e4e47f3fe",
   "lastOpenFiles": [
     "CS170/Lecture 16 - Maximum Flow.md",
-    "Lecture Parallisem.md",
+    "Parallel Query Processing.md",
     "Pasted image 20250408154508.png",
     "Pasted image 20250408154454.png",
     "Pasted image 20250408153802.png",
