@@ -27,19 +27,19 @@ Disadvantage
 - Overhead for insertions and deletion
 ## **Sorting**
 
-### **Parallel Sorting**
+### Parallel Sorting
 1. Partition the data over machines with range partitioning
 2. Perform external sorting on each machine independently (each machine holds a different range of data)
 
-### **Parallel Sort Merge Join**
+### Parallel Sort Merge Join
 *Requires all machines to have the same range partitions*
 
-### **Parallel Hashing**
+### Parallel Hashing
 
 
-### **Parallel Hash Joins**
+### Parallel Hash Joins
 
-### **Symmetric Hash Joins**
+### Symmetric Hash Joins
 Build two hash tables at the same time
 
 If tuple from R:
@@ -49,3 +49,13 @@ if tuple from S:
 	probe hash table for R
 	Add tuple into hash table for S
 Each match during probing gets joined and outputted
+
+### Parallel Aggregation
+We use *hierarchical aggregation* to calculate aggregate functions (SUM, COUNT).
+
+### Asymmetric Shuffles
+If relation is already partitioned in the way we want, we don't need to repartition
+
+### Broadcast Joins
+Sometimes, one table is tiny and one is huge (uneven distribution)
+To save IO cost: 
