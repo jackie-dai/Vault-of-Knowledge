@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS186/Lecture 12 - Query Optimization.md",
+                "file": "CS170/Lecture 16 - Maximum Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 12 - Query Optimization"
+              "title": "Lecture 16 - Maximum Flow"
             }
           }
         ],
@@ -217,19 +217,21 @@
   },
   "active": "8fb2385a902d3f66",
   "lastOpenFiles": [
-    "Lecture - Query Optimization.md",
+    "Pasted image 20250410101945.png",
+    "Pasted image 20250410101844.png",
     "CS170/Lecture 17 - Duality.md",
+    "CS170/Lecture 20 - NP Complete.md",
+    "CS186/Lecture 12 - Query Optimization.md",
+    "Lecture - Query Optimization.md",
     "CS170/img/Pasted image 20250408154508.png",
     "CS170/img/Pasted image 20250408154454.png",
     "CS170/img/Pasted image 20250408153802.png",
     "CS170/img/Pasted image 20250408153542.png",
     "CS186/Parallel Query Processing.md",
     "CS170/Lecture 16 - Maximum Flow.md",
-    "CS170/Lecture 20 - NP Complete.md",
     "CS170/img/Pasted image 20250408104922.png",
     "CS170/img/Pasted image 20250408114558.png",
     "CS170/CS170 - Efficient Algorithms.md",
-    "CS186/Lecture 12 - Query Optimization.md",
     "Math 53/Derivative Rules.md",
     "CS186/Lecture 3 - Disk, files, and buffers.md",
     "Math 53/13.2 Derivatives and Integrals of Vector Functions.md",
@@ -240,7 +242,6 @@
     "Math 53/img/Unit-circle.png",
     "Math 53/img/Pasted image 20250401185349.png",
     "Math 53/img/Pasted image 20250311152911.png",
-    "Math 53/img/Pasted image 20250311143609.png",
     "Math 53/14.8 Lagrange Multipliers.md",
     "Math 53/15.5 Surface Area.md",
     "Math 53/14.4 Tangent Planes and Linear Approximations.md",
@@ -252,7 +253,6 @@
     "Math 53/14.7 Maximum and Minimum Values.md",
     "CS186/Lecture 10 - Joins.md",
     "CS170/Lecture 3 - Selection and Recurrence Relation.md",
-    "CS186/Lecture 8 - Buffer Management.md",
     "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Plugins/Ink/Writing/2025.3.5 - 21.22pm.writing",
     "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",

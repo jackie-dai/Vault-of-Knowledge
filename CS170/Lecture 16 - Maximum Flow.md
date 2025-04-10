@@ -36,4 +36,7 @@ Ford-Fulkerson Algorithm
 3. Repeat
 
 ![[Pasted image 20250408154454.png]]
-Residual ![[Pasted image 20250408154508.png]]
+ ![[Pasted image 20250408154508.png]]
+
+Def Residual: ![[Pasted image 20250410101844.png]]
+Example: ![[Pasted image 20250410101945.png]]
