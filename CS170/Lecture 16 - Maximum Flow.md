@@ -40,3 +40,15 @@ Ford-Fulkerson Algorithm
 
 Def Residual: ![[Pasted image 20250410101844.png]]
 Example: ![[Pasted image 20250410101945.png]]
+
+### Ford-fulkerson algorithm
+
+Proof: why there are no more flow paths
+![[Pasted image 20250410103006.png]]
+The edges along this cut are all zero. Any flow path must cross one of these edges, therefore there are no more valid paths
+
+### Min-cuts
+![[Pasted image 20250410103248.png]]
+Def Capacity(L, R): sum of capacities across edges along the cut 
+
+Max-flow <= Min-cut
