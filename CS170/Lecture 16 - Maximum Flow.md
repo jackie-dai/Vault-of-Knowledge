@@ -52,3 +52,6 @@ The edges along this cut are all zero. Any flow path must cross one of these edg
 Def Capacity(L, R): sum of capacities across edges along the cut 
 
 Max-flow <= Min-cut
+
+Runtime = # of augmenting paths <= U, where U = max-flow
+
