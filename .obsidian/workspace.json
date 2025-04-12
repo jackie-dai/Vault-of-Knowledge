@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS170/Lecture 16 - Maximum Flow.md",
+                "file": "CS170/Lecture 17 - Duality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 16 - Maximum Flow"
+              "title": "Lecture 17 - Duality"
             }
           }
         ],
@@ -217,6 +217,7 @@
   },
   "active": "8fb2385a902d3f66",
   "lastOpenFiles": [
+    "CS170/Lecture 16 - Maximum Flow.md",
     "Pasted image 20250410103248.png",
     "Pasted image 20250410103006.png",
     "Pasted image 20250410101945.png",
@@ -230,7 +231,6 @@
     "CS170/img/Pasted image 20250408153802.png",
     "CS170/img/Pasted image 20250408153542.png",
     "CS186/Parallel Query Processing.md",
-    "CS170/Lecture 16 - Maximum Flow.md",
     "CS170/img/Pasted image 20250408104922.png",
     "CS170/img/Pasted image 20250408114558.png",
     "CS170/CS170 - Efficient Algorithms.md",
@@ -241,7 +241,6 @@
     "Math 53/14.2 Limits and Continuity.md",
     "Math 53/14.6 Directional Derivatives and Gradient Vector.md",
     "Math 53/15.2 - Double Integrals.md",
-    "Math 53/img/Unit-circle.png",
     "Math 53/14.8 Lagrange Multipliers.md",
     "Math 53/15.5 Surface Area.md",
     "Math 53/14.4 Tangent Planes and Linear Approximations.md",
