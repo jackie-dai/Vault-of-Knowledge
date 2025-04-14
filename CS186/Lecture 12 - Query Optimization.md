@@ -7,3 +7,4 @@ Projections
 
 Selection Pushdown
 - saves IO cost because we have to sift through less indexes.
+
