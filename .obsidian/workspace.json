@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS170/Lecture 17 - Duality.md",
+                "file": "CS186/Lecture 12 - Query Optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 17 - Duality"
+              "title": "Lecture 12 - Query Optimization"
             }
           }
         ],
@@ -217,12 +217,12 @@
   },
   "active": "8fb2385a902d3f66",
   "lastOpenFiles": [
+    "CS170/Lecture 17 - Duality.md",
     "CS170/Lecture 16 - Maximum Flow.md",
     "Pasted image 20250410103248.png",
     "Pasted image 20250410103006.png",
     "Pasted image 20250410101945.png",
     "Pasted image 20250410101844.png",
-    "CS170/Lecture 17 - Duality.md",
     "CS170/Lecture 20 - NP Complete.md",
     "CS186/Lecture 12 - Query Optimization.md",
     "Lecture - Query Optimization.md",
