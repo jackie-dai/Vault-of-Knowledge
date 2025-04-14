@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS186/Lecture 12 - Query Optimization.md",
+                "file": "Math 53/Derivative Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 12 - Query Optimization"
+              "title": "Derivative Rules"
             }
           }
         ],
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "620b7056f36830f6",
@@ -218,6 +217,7 @@
   },
   "active": "8fb2385a902d3f66",
   "lastOpenFiles": [
+    "CS186/Lecture 12 - Query Optimization.md",
     "CS170/Lecture 17 - Duality.md",
     "CS170/Lecture 16 - Maximum Flow.md",
     "Pasted image 20250410103248.png",
@@ -225,7 +225,6 @@
     "Pasted image 20250410101945.png",
     "Pasted image 20250410101844.png",
     "CS170/Lecture 20 - NP Complete.md",
-    "CS186/Lecture 12 - Query Optimization.md",
     "Lecture - Query Optimization.md",
     "CS170/img/Pasted image 20250408154508.png",
     "CS170/img/Pasted image 20250408154454.png",
