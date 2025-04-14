@@ -46,9 +46,23 @@
               "icon": "lucide-file",
               "title": "Derivative Rules"
             }
+          },
+          {
+            "id": "b7a85add0a220da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15.7 - Triple Integrals in Cylindrical Coordinates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15.7 - Triple Integrals in Cylindrical Coordinates"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,8 +229,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fb2385a902d3f66",
+  "active": "b7a85add0a220da8",
   "lastOpenFiles": [
+    "Math 53/Derivative Rules.md",
+    "15.7 - Triple Integrals in Cylindrical Coordinates.md",
     "CS186/Lecture 12 - Query Optimization.md",
     "CS170/Lecture 17 - Duality.md",
     "CS170/Lecture 16 - Maximum Flow.md",
@@ -234,7 +250,6 @@
     "CS170/img/Pasted image 20250408104922.png",
     "CS170/img/Pasted image 20250408114558.png",
     "CS170/CS170 - Efficient Algorithms.md",
-    "Math 53/Derivative Rules.md",
     "CS186/Lecture 3 - Disk, files, and buffers.md",
     "Math 53/13.2 Derivatives and Integrals of Vector Functions.md",
     "Math 53/Multivariable Calculus.md",
