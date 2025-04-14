@@ -9,3 +9,4 @@ Selection Pushdown
 
 ### Materialization
 
+What is needed for query optimization?
