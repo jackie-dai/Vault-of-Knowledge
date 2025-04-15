@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15.7 - Triple Integrals in Cylindrical Coordinates.md",
+                "file": "Math 53/15.7 - Triple Integrals in Cylindrical Coordinates.md",
                 "mode": "source",
                 "source": false
               },
@@ -231,8 +231,10 @@
   },
   "active": "b7a85add0a220da8",
   "lastOpenFiles": [
+    "Math 53/15.5 Surface Area.md",
+    "Math 53/15.2 - Double Integrals.md",
     "Math 53/Derivative Rules.md",
-    "15.7 - Triple Integrals in Cylindrical Coordinates.md",
+    "Math 53/15.7 - Triple Integrals in Cylindrical Coordinates.md",
     "CS186/Lecture 12 - Query Optimization.md",
     "CS170/Lecture 17 - Duality.md",
     "CS170/Lecture 16 - Maximum Flow.md",
@@ -255,9 +257,7 @@
     "Math 53/Multivariable Calculus.md",
     "Math 53/14.2 Limits and Continuity.md",
     "Math 53/14.6 Directional Derivatives and Gradient Vector.md",
-    "Math 53/15.2 - Double Integrals.md",
     "Math 53/14.8 Lagrange Multipliers.md",
-    "Math 53/15.5 Surface Area.md",
     "Math 53/14.4 Tangent Planes and Linear Approximations.md",
     "CS186/Lecture 11 - Iterators and Relational Algebra.md",
     "Math 53/13.1 Vector Functions and Space Curves.md",
