@@ -13,7 +13,8 @@ Phases
 ### Voting
 1. Coord broadcasts a "Prepare message"
 2. Participants send back "yes" or "no"
-3. Coord processes data recieved
-	1. if all yes -> commit, otherwise -> abort
 
 ## Results
+3. Coord processes responses
+	1. if all yes -> commit, otherwise -> abort
+4. 
