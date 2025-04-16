@@ -1,4 +1,4 @@
-
+  
 When do we commit a xact that is processed by multiple machines
 
 2PC
