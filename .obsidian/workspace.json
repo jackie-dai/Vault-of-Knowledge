@@ -67,16 +67,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15.9 Change of Variables.md",
+                "file": "Math 53/15.9 Change of Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "15.9 Change of Variables"
             }
+          },
+          {
+            "id": "1de1494f53425610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distributed Transactions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distributed Transactions"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -243,20 +257,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cbfab0350c4921f",
+  "active": "1de1494f53425610",
   "lastOpenFiles": [
+    "Math 53/15.9 Change of Variables.md",
+    "Distributed Transactions.md",
+    "CS170/img/Pasted image 20250410101844.png",
+    "CS170/img/Pasted image 20250410103248.png",
+    "CS170/img/Pasted image 20250410103006.png",
+    "CS170/img/Pasted image 20250410101945.png",
     "Math 53/15.7 - Triple Integrals in Cylindrical Coordinates.md",
-    "15.9 Change of Variables.md",
     "Math 53/15.5 Surface Area.md",
     "Math 53/15.2 - Double Integrals.md",
     "Math 53/Derivative Rules.md",
     "CS186/Lecture 12 - Query Optimization.md",
     "CS170/Lecture 17 - Duality.md",
     "CS170/Lecture 16 - Maximum Flow.md",
-    "Pasted image 20250410103248.png",
-    "Pasted image 20250410103006.png",
-    "Pasted image 20250410101945.png",
-    "Pasted image 20250410101844.png",
     "CS170/Lecture 20 - NP Complete.md",
     "Lecture - Query Optimization.md",
     "CS170/img/Pasted image 20250408154508.png",
@@ -280,7 +295,6 @@
     "Math 53/14.3 Partial Derivatives.md",
     "CS186/Lecture 16 - Recovery I.md",
     "Math 53/14.7 Maximum and Minimum Values.md",
-    "CS186/Lecture 10 - Joins.md",
     "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Plugins/Ink/Writing/2025.3.5 - 21.22pm.writing",
     "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",
