@@ -12,6 +12,7 @@ Reduce problem A down to smaller problem B to solve problem A
 Instance I from problem A -> reduce -> Instance I from problem B  (we know how to solve problem B) -> solve -> solution to I problem B -> recovery -> solution to I (problem A)
 
 Example: reduce rudrata pat to rudrata cycle
+	 
 
 ### Types of Complexity Classes
 
