@@ -17,4 +17,8 @@ Phases
 ## Results
 3. Coord processes responses
 	1. if all yes -> commit, otherwise -> abort
-4. 
+
+
+
+### Optimization
+- All or nothing
