@@ -88,9 +88,23 @@
               "icon": "lucide-file",
               "title": "Distributed Transactions"
             }
+          },
+          {
+            "id": "e5c677caa3c80c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P vs NP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "P vs NP"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -257,10 +271,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1de1494f53425610",
+  "active": "e5c677caa3c80c7d",
   "lastOpenFiles": [
-    "Math 53/15.9 Change of Variables.md",
     "Distributed Transactions.md",
+    "P vs NP.md",
+    "Math 53/15.9 Change of Variables.md",
     "CS170/img/Pasted image 20250410101844.png",
     "CS170/img/Pasted image 20250410103248.png",
     "CS170/img/Pasted image 20250410103006.png",
@@ -294,7 +309,6 @@
     "Math 53/14.1 Functions of Several Variables.md",
     "Math 53/14.3 Partial Derivatives.md",
     "CS186/Lecture 16 - Recovery I.md",
-    "Math 53/14.7 Maximum and Minimum Values.md",
     "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Plugins/Ink/Writing/2025.3.5 - 21.22pm.writing",
     "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",
