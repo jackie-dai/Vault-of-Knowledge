@@ -42,6 +42,10 @@ The best approximation algorithm is LP
 Claim: LP-OPT <= OPT vertex cover
 Proof: OPT vertex cover is feasible solution to LP. But also functional solutions
 
+### Traveling Salesperson Problem
+Input:
+- n cities
+- pairwise distance d_i_j
+Solution: Minimum distance tour visiting every node exactly once
 
-
-	
+Metric assumption: triangle inequality
