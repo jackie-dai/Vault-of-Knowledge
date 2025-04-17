@@ -29,3 +29,19 @@ Theorem: C is a vertex cover and |C| <= 2 * Optimal size (OPT)
 
 Claim: C is a vertex cover
 
+The best approximation algorithm is LP
+
+	Algorithm #2 LP
+		Varaible x_i, for each vertex i 
+			Ideally x_i {1, if i is part of vertex cover,
+						0, otherwise}
+			Constraints: 
+				0 <= x_i <= 1
+					x_i + x_j >= 1 
+			Objective: min sum of x_i
+Claim: LP-OPT <= OPT vertex cover
+Proof: OPT vertex cover is feasible solution to LP. But also functional solutions
+
+
+
+	
