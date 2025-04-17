@@ -14,6 +14,18 @@ def: vertex cover is a set of vertices such that each edge is incident to one of
 
 NP-hard problem
 
-Algorithm #1
-1. Compute a maximal matching M in G
-Def:
+Reduce to: 
+	Algorithm #1
+	Compute a maximal matching M in G
+	
+	Def: a matching is set of edges w/ no overlapping every verticies
+	*A maximal matching means there are no more edges can be added*
+	
+	Solution: Can compute by adding edges greedily to M
+
+Now the output of all the vertices in the set are part of the vertex cover
+
+Theorem: C is a vertex cover and |C| <= 2 * Optimal size (OPT)
+
+Claim: C is a vertex cover
+
