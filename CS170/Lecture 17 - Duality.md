@@ -7,3 +7,4 @@ Input: Graph G=(L, R, E)
 - R = right
 Output: A perfect matching from L to R
 
+Theorem: G has a perfect matching 
