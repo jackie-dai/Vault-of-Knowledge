@@ -49,3 +49,8 @@ Input:
 Solution: Minimum distance tour visiting every node exactly once
 
 Metric assumption: triangle inequality
+
+Algorithm
+1. Find the MST Tour
+2. DFS traversal of T, starting at A
+3. Skip all repeated vertices in the traversal
