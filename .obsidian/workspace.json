@@ -283,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS186/Lecture 8 - Buffer Management.md",
+                "file": "Math 53/16.5 Curl and Divergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 8 - Buffer Management"
+              "title": "Backlinks for 16.5 Curl and Divergence"
             }
           },
           {
@@ -353,8 +353,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
