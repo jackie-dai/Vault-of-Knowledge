@@ -5,3 +5,7 @@ Why is concurrent execution important?
 Advantages of concurrency
 - faster latency
 - faster throughput (queries per second)
+
+### Transaction
+A sequence of multiple actions to be executed as an atomic unit
+
