@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 53/16.5 Curl and Divergence.md",
+                "file": "Concurrency & Transactions I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.5 Curl and Divergence"
+              "title": "Concurrency & Transactions I"
             }
           }
         ],
@@ -283,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 53/16.5 Curl and Divergence.md",
+                "file": "Concurrency & Transactions I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 16.5 Curl and Divergence"
+              "title": "Backlinks for Concurrency & Transactions I"
             }
           },
           {
@@ -368,14 +368,15 @@
   },
   "active": "f72bdd2417c51631",
   "lastOpenFiles": [
-    "Math 53/16.4 Green's Theorem.md",
+    "Untitled 1.md",
     "Math 53/16.5 Curl and Divergence.md",
+    "Math 53/16.4 Green's Theorem.md",
     "Math 53/16.3 The Fundamental Theorem of Line Integrals.md",
     "CS170/Randomized Algorithms.md",
     "CS170/Lecture 21 - Approximate Algorithms.md",
     "CS170/Lecture 17 - Duality.md",
     "CS170/Lecture 16 - Maximum Flow.md",
-    "Untitled.md",
+    "Concurrency & Transactions I.md",
     "CS170/P vs NP.md",
     "CS186/Distributed Transactions.md",
     "Math 53/15.9 Change of Variables.md",
@@ -403,7 +404,6 @@
     "Math 53/Multivariable Calculus.md",
     "Math 53/14.2 Limits and Continuity.md",
     "Math 53/14.6 Directional Derivatives and Gradient Vector.md",
-    "Math 53/14.8 Lagrange Multipliers.md",
     "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Plugins/Ink/Writing/2025.3.5 - 21.22pm.writing",
     "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",
