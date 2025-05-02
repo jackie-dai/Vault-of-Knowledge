@@ -18,4 +18,10 @@ Isolation: Execution of each txn is isolated from that of others
 	how do we interleave transactions properly?
 
 Durability: if txn commits, its effects persist
-	if we know there was a transaction, the effects of the txn remains until changed
+	if we know there was a transaction, the effects of the txn remains until change
+
+### Serial Schedule
+each txn runs from start to finihs without any interfering actions
+complete isolation
+
+We need to design a schedule that have the same net effect as serial schedule (mimics isolation) but interleaves transactions
