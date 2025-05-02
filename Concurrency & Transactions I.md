@@ -25,3 +25,10 @@ each txn runs from start to finihs without any interfering actions
 complete isolation
 
 We need to design a schedule that have the same net effect as serial schedule (mimics isolation) but interleaves transactions
+
+#### Conflicting Operations
+Two operations conflict if 
+- different txn
+- are on the same object
+- at least one of them is awrite
+*The order of non-conflicting operation has no effect on the final state of the databse*
