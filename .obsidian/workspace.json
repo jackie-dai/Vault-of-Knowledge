@@ -8,184 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "baa5727798e2b114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS170/Lecture 16 - Maximum Flow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 16 - Maximum Flow"
-            }
-          },
-          {
-            "id": "f7174c4e4e47f3fe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "CS170/img/Pasted image 20250408154508.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250408154508"
-            }
-          },
-          {
-            "id": "8fb2385a902d3f66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 53/Derivative Rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Derivative Rules"
-            }
-          },
-          {
-            "id": "b7a85add0a220da8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 53/15.7 - Triple Integrals in Cylindrical Coordinates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15.7 - Triple Integrals in Cylindrical Coordinates"
-            }
-          },
-          {
-            "id": "1cbfab0350c4921f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 53/15.9 Change of Variables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15.9 Change of Variables"
-            }
-          },
-          {
-            "id": "1de1494f53425610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS186/Distributed Transactions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Distributed Transactions"
-            }
-          },
-          {
-            "id": "e5c677caa3c80c7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS170/P vs NP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "P vs NP"
-            }
-          },
-          {
-            "id": "9ca969381577cae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS170/Lecture 17 - Duality.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 17 - Duality"
-            }
-          },
-          {
-            "id": "7cacf41e03f54852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS170/Lecture 21 - Approximate Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 21 - Approximate Algorithms"
-            }
-          },
-          {
-            "id": "dac738e89d18978e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16.3 The Fundamental Theorem of Line Integrals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16.3 The Fundamental Theorem of Line Integrals"
-            }
-          },
-          {
-            "id": "8279d026a9aa2cd3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
-            "id": "7b6b704f7221d944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS170/Randomized Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Randomized Algorithms"
-            }
-          },
-          {
-            "id": "7a00fde57ca48371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 53/16.5 Curl and Divergence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16.5 Curl and Divergence"
-            }
-          },
-          {
             "id": "f72bdd2417c51631",
             "type": "leaf",
             "state": {
@@ -199,8 +21,7 @@
               "title": "Concurrency & Transactions I"
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -368,30 +189,30 @@
   },
   "active": "f72bdd2417c51631",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Math 53/16.5 Curl and Divergence.md",
-    "Math 53/16.4 Green's Theorem.md",
-    "Math 53/16.3 The Fundamental Theorem of Line Integrals.md",
     "CS170/Randomized Algorithms.md",
     "CS170/Lecture 21 - Approximate Algorithms.md",
     "CS170/Lecture 17 - Duality.md",
-    "CS170/Lecture 16 - Maximum Flow.md",
-    "Concurrency & Transactions I.md",
     "CS170/P vs NP.md",
     "CS186/Distributed Transactions.md",
     "Math 53/15.9 Change of Variables.md",
+    "Math 53/15.7 - Triple Integrals in Cylindrical Coordinates.md",
+    "Math 53/Derivative Rules.md",
+    "CS170/img/Pasted image 20250408154508.png",
+    "Concurrency & Transactions I.md",
+    "Untitled 1.md",
+    "Math 53/16.4 Green's Theorem.md",
+    "Math 53/16.3 The Fundamental Theorem of Line Integrals.md",
+    "CS170/Lecture 16 - Maximum Flow.md",
     "CS170/img/Pasted image 20250410101844.png",
     "CS170/img/Pasted image 20250410103248.png",
     "CS170/img/Pasted image 20250410103006.png",
     "CS170/img/Pasted image 20250410101945.png",
-    "Math 53/15.7 - Triple Integrals in Cylindrical Coordinates.md",
     "Math 53/15.5 Surface Area.md",
     "Math 53/15.2 - Double Integrals.md",
-    "Math 53/Derivative Rules.md",
     "CS186/Lecture 12 - Query Optimization.md",
     "CS170/Lecture 20 - NP Complete.md",
     "Lecture - Query Optimization.md",
-    "CS170/img/Pasted image 20250408154508.png",
     "CS170/img/Pasted image 20250408154454.png",
     "CS170/img/Pasted image 20250408153802.png",
     "CS170/img/Pasted image 20250408153542.png",
@@ -403,7 +224,6 @@
     "Math 53/13.2 Derivatives and Integrals of Vector Functions.md",
     "Math 53/Multivariable Calculus.md",
     "Math 53/14.2 Limits and Continuity.md",
-    "Math 53/14.6 Directional Derivatives and Gradient Vector.md",
     "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Plugins/Ink/Writing/2025.3.5 - 21.22pm.writing",
     "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",
