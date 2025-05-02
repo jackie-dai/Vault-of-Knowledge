@@ -37,3 +37,5 @@ Two operations conflict if
 Def: Schedule S is conflict serializeable if:
 - S is conflict equivalent to some serial schedule
 - which implies that S is also Serializable 
+
+A schedule is conflict-serializable if the dependency graph is acyclic 
