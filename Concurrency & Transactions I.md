@@ -30,5 +30,10 @@ We need to design a schedule that have the same net effect as serial schedule (m
 Two operations conflict if 
 - different txn
 - are on the same object
-- at least one of them is awrite
-*The order of non-conflicting operation has no effect on the final state of the databse*
+- at least one of them is a write
+
+*The order of non-conflicting operation has no effect on the final state of the database*
+
+Def: Schedule S is conflict serializeable if:
+- S is conflict equivalent to some serial schedule
+- which implies that S is also Serializable 
