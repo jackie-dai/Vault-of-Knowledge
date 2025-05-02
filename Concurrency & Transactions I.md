@@ -11,11 +11,11 @@ A sequence of multiple actions to be executed as an atomic unit
 
 ### ACID
 Atomcity: All actions in the txn happen, or don't
-
+	If there is an abort in the middle of the transaction, nothing is changed
 Consistency: if the DB starts out consistent, it ends up consistent at the end of the txn
-
+	
 Isolation: Execution of each txn is isolated from that of others
-	how do we interweave transactions properly?
+	how do we interleave transactions properly?
 
 Durability: if txn commits, its effects persist
-
+	if we know there was a transaction, the effects of the txn remains until changed
