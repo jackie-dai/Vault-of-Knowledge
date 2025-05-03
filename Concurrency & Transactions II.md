@@ -12,4 +12,14 @@ How to enforce conflict serializability with locks
 
 ![[Pasted image 20250503104138.png]]
 
-1. 
+1. T1 Locks A and reads/write
+2. T2 tries to 
+
+### Two Phase Locking (2PL)
+*All lock requests must precede unlock requests* 
+L -> U 
+
+You cant lock after you've unlocked
+L->U->L
+
+
