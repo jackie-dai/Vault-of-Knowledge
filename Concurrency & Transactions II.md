@@ -32,3 +32,5 @@ All unlocks are done together with commit/abort
 
 *Slowly and all at once*
 
+Before a transaction reads or writes an element A, insert L(A)
+When the transaction commits/aborts, then release all locks
