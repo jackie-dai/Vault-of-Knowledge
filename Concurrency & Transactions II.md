@@ -44,3 +44,5 @@ T1 holds the lock for A, waits for B
 T2 holds the lock for B, waits for A
 
 Avoidance, prevention, resolution
+
+![[Pasted image 20250503130805.png]]
