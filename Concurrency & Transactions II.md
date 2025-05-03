@@ -34,3 +34,13 @@ All unlocks are done together with commit/abort
 
 Before a transaction reads or writes an element A, insert L(A)
 When the transaction commits/aborts, then release all locks
+
+![[Pasted image 20250503115140.png]]
+![[Pasted image 20250503115206.png]]
+
+### Deadlocks
+
+T1 holds the lock for A, waits for B
+T2 holds the lock for B, waits for A
+
+Avoidance, prevention, resolution
