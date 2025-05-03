@@ -43,6 +43,16 @@ When the transaction commits/aborts, then release all locks
 T1 holds the lock for A, waits for B
 T2 holds the lock for B, waits for A
 
-Avoidance, prevention, resolution
 
+Deadlock Avoidance
 ![[Pasted image 20250503130805.png]]
+
+Deadlock Detection
+![[Pasted image 20250503131459.png]]
+
+Deadlock if there is a cycle
+
+To solve the deadlock,  run a deadlock detection algorithm and "shoot the transaction" if there is a cycle detected.
+
+
+
