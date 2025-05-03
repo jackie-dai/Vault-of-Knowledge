@@ -54,5 +54,13 @@ Deadlock if there is a cycle
 
 To solve the deadlock,  run a deadlock detection algorithm and "shoot the transaction" if there is a cycle detected.
 
+### Lock Manager
+When lock request arrives:
+- Does any xact in granted set or wait queue want a conflicting lock?
+	- If no, put the requester into granted set and let them write
+	- If yes, put the requester into wait queue (FIFO)
 
+
+Lock upgrade: xact with shared lock can request to upgrade to exclusive
+- if a xact notices there is a error, they can upgrade and fix it
 
