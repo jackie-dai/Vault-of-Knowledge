@@ -23,3 +23,12 @@ You cant lock after you've unlocked
 L->U->L
 
 
+### Strict 2PL
+
+**
+All locks are held until commit/abort
+All unlocks are done together with commit/abort
+**
+
+*Slowly and all at once*
+
