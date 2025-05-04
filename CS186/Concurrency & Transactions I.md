@@ -41,3 +41,6 @@ Def: Schedule S is conflict serializeable if:
 A schedule is conflict-serializable if the dependency graph is acyclic 
 
 Lock Granularity
+
+### Lock type compatibility matrix
+![[Pasted image 20250504095603.png]]
