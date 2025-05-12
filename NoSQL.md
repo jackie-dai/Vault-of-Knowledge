@@ -34,3 +34,16 @@ Only contains key-value pairs
 
 Application must serialize and deserialize the byte array values
 
+
+### Json
+JSON must be one object
+
+Json datatypes: 
+- **Object**: collection of key-value pairs. Keys must be strings. Values can be any JSON type (i.e., atomic, object, or array). Objects should not contain duplicate keys. Objects are denoted using “{“ and “}” in a JSON document.
+    
+- **Array**: an _ordered_ list of values. Values can be any JSON type (i.e. atomic, object, or array). Arrays are denoted using “[” and “]” in a JSON document.
+    
+- **Atomic**: one of a number (a 64-bit float), string, boolean or `null`.
+
+XML and JSON representation of the same object
+![[Pasted image 20250511233814.png]]
