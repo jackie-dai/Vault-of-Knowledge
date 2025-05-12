@@ -1,7 +1,7 @@
 
-の
+の possesive particle
 
-に
+に in the room
 
 を
 
