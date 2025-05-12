@@ -6,3 +6,7 @@
 を
 
 は
+
+
+shi chi ji
+for time
