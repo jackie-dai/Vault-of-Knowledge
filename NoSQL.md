@@ -20,7 +20,8 @@ high number of joins and queries
 ### Methods for Scaling Databases
 
 #### Partitioning
-Pros
-
+Query different parts of the database in parallel
+Pros:
+- good for write-heavy operations because they only need to access one machine
 Cons
-- Ineffective for 
+- Ineffective for read-heavy operations because they need to access multiple parts of the database (i.e. joining)
