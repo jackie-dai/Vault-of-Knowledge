@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Particles.md",
+                "file": "CS186/Lecture 16 - Recovery I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Particles"
+              "title": "Lecture 16 - Recovery I"
             }
           }
         ],
@@ -217,10 +217,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "fb703a607032d8d9",
   "lastOpenFiles": [
-    "NoSQL.md",
     "Japanese/Particles.md",
+    "NoSQL.md",
     "Pasted image 20250511233814.png",
     "Pasted image 20250511211117.png",
     "CS186/Concurrency & Transactions I.md",

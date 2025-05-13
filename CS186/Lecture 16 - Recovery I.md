@@ -17,7 +17,11 @@ ARIES uses steal, no force
 Logging
 - Before a transaction is committed, all logs must be written to disk first
 - Log changes before changes are made
--
+
+Write Ahead Logging (WAL)
+1. Force the log record for an update before the corresponding datapage gets written to disk
+2. Force all log records for a Xact before commit
+
 
 Flush(A) = write from memory A to disk A
 
