@@ -72,7 +72,7 @@ UNDO
 TODO
 - Worksheet problem 2A
 Put on cheatsheet
-![[Pasted image 20250401180220.png]]
+	![[90-=\azSXDCFVGTYHUJP;[]]\]
 
 **Page Log Sequence Number (LSN)**
 
