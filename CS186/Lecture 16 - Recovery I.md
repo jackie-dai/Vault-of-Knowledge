@@ -22,6 +22,9 @@ Write Ahead Logging (WAL)
 1. Force the log record for an update before the corresponding datapage gets written to disk
 2. Force all log records for a Xact before commit
 
+In order to write to memory we need to satisfy:
+	pageLSN <= flushedLSN
+This guarantees all updates are before we flushed
 
 Flush(A) = write from memory A to disk A
 
@@ -37,6 +40,8 @@ ARIES Recovery System
 Data structures
 - The Log (WAL)
 - FlushedLSN
+
+![[Pasted image 20250513134621.png]]
 
 Recovery phases
 1. Analysis: recreate transaction table at time of crash
