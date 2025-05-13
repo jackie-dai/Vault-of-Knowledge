@@ -62,6 +62,13 @@ elif End =>
 - set lastLSN=LSN
 - change xact status to commit or abort
 
+UNDO
+- All remaining xact in the xact table are losers
+- Abort all losers
+![[Pasted image 20250513141510.png]]
+- if thisLR.type == CLR
+	- undo all xacts that chain from that
+
 TODO
 - Worksheet problem 2A
 Put on cheatsheet

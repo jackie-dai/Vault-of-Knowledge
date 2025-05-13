@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSQL.md",
+                "file": "CS186/NoSQL.md",
                 "mode": "source",
                 "source": false
               },
@@ -219,9 +219,10 @@
   },
   "active": "fb703a607032d8d9",
   "lastOpenFiles": [
+    "Pasted image 20250513141510.png",
     "Pasted image 20250513134621.png",
     "Japanese/Particles.md",
-    "NoSQL.md",
+    "CS186/NoSQL.md",
     "Pasted image 20250511233814.png",
     "Pasted image 20250511211117.png",
     "CS186/Concurrency & Transactions I.md",
@@ -246,7 +247,6 @@
     "Math 53/16.4 Green's Theorem.md",
     "Math 53/16.3 The Fundamental Theorem of Line Integrals.md",
     "CS170/Lecture 16 - Maximum Flow.md",
-    "CS170/img/Pasted image 20250410101844.png",
     "Math 53/15.5 Surface Area.md",
     "Math 53/15.2 - Double Integrals.md",
     "CS186/Lecture 12 - Query Optimization.md",
