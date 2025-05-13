@@ -43,10 +43,24 @@ Data structures
 
 ![[Pasted image 20250513134621.png]]
 
+Start from last checkpoint
 Recovery phases
 1. Analysis: recreate transaction table at time of crash
-2. Redo
-3. Undo
+2. Redo: all actions (reconstruct state of the DB before crash)
+3. Undo effects of failed transactions
+
+Analysis
+recreate xact table
+
+Scan log forward from checkpoint
+if End => 
+- remove xact from xact table
+elif Update =>
+- if page P not in dirty tab, add to DPT
+elif End => 
+- add xact to xact table,
+- set lastLSN=LSN
+- change xact status to commit or abort
 
 TODO
 - Worksheet problem 2A
