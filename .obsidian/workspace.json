@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS186/Concurrency & Transactions I.md",
+                "file": "Math 53/Multivariable Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concurrency & Transactions I"
+              "title": "Multivariable Calculus"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "14.6 Directional Derivatives and Gradient Vector"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,17 +216,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb703a607032d8d9",
+  "active": "f72bdd2417c51631",
   "lastOpenFiles": [
+    "CS186/Concurrency & Transactions I.md",
+    "CS186/NoSQL.md",
+    "Math 53/14.6 Directional Derivatives and Gradient Vector.md",
     "Math 53/Multivariable Calculus.md",
     "CS186/Lecture 16 - Recovery I.md",
     "Pasted image 20250513141510.png",
     "Pasted image 20250513134621.png",
     "Japanese/Particles.md",
-    "CS186/NoSQL.md",
     "Pasted image 20250511233814.png",
     "Pasted image 20250511211117.png",
-    "CS186/Concurrency & Transactions I.md",
     "CS186/img/Pasted image 20250504095603.png",
     "CS186/img/Pasted image 20250503104138.png",
     "CS186/Concurrency & Transactions II.md",
@@ -254,7 +254,6 @@
     "CS170/Lecture 20 - NP Complete.md",
     "Lecture - Query Optimization.md",
     "CS186/Parallel Query Processing.md",
-    "CS170/CS170 - Efficient Algorithms.md",
     "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Plugins/Ink/Writing/2025.3.5 - 21.22pm.writing",
     "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",
