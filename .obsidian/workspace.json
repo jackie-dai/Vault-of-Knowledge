@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 53/Derivative Rules.md",
+                "file": "Math 53/Multivariable Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derivative Rules"
+              "title": "Multivariable Calculus"
             }
           },
           {
@@ -218,6 +218,7 @@
   },
   "active": "f72bdd2417c51631",
   "lastOpenFiles": [
+    "Math 53/Derivative Rules.md",
     "Math 53/Multivariable Calculus.md",
     "CS186/Concurrency & Transactions I.md",
     "CS186/NoSQL.md",
@@ -243,7 +244,6 @@
     "CS186/Distributed Transactions.md",
     "Math 53/15.9 Change of Variables.md",
     "Math 53/15.7 - Triple Integrals in Cylindrical Coordinates.md",
-    "Math 53/Derivative Rules.md",
     "Untitled 1.md",
     "Math 53/16.4 Green's Theorem.md",
     "Math 53/16.3 The Fundamental Theorem of Line Integrals.md",
