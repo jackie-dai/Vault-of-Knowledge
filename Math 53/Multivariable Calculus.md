@@ -17,8 +17,8 @@
 
 [[16.1 Vector Fields]]
 [[16.2 Line Integrals]]
-[[16.3 The Fundamental Theorem of Line Integrals]]
-[[16.4 Green's Theorem]]
+[[16.3 The Fundamental Theorem of Line Integrals 1]]
+[[16.4 Green's Theorem 1]]
 
 13.2
 - Level curves 
