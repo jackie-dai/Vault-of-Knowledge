@@ -65,3 +65,10 @@ Emergence of regional centers domination
 
 Many elements of later shinto appear
 ### History of the Kingdom of Wei
+
+### Queen Jimiko and Yamatai
+
+Queen Himiko described as ruler of state called Yamatai. Shamanic ability to divie and communicate with spirits
+
+### The Amaterasu Myth
+
