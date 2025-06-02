@@ -6,3 +6,7 @@
 1889 - The Meiji Constitution [Constitution and Parliament ]
 1945-1951 - Unconditional Surrender [ Followed by American Occupation]
 
+## Japan
+It is roughly the size of california with four main islands
+- Hokkaido
+- H
