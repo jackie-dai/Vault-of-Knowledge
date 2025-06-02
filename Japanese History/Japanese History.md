@@ -52,3 +52,16 @@ Similar musical instruments such as lutes
 
 Diffusion of germs, spread of epidemics and diseases
 
+## Yayoi Period
+Immigration from Korean Pennisula
+
+Wheel-formed pottery featuring smooth lines and surfaces
+
+Textile Weaving
+
+Introduction of wet-field rice framing irrgation ditches, increasingly complex communal organizations
+
+Emergence of regional centers domination
+
+Many elements of later shinto appear
+### History of the Kingdom of Wei
