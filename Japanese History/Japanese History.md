@@ -72,3 +72,5 @@ Queen Himiko described as ruler of state called Yamatai. Shamanic ability to div
 
 ### The Amaterasu Myth
 
+
+### Motoori Norinaga on the Meaning of Kami
