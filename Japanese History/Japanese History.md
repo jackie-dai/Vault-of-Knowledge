@@ -78,3 +78,7 @@ Queen Himiko described as ruler of state called Yamatai. Shamanic ability to div
 Kokka 
 
 Society
+
+
+### Kofun Ancient Tomb Period
+
