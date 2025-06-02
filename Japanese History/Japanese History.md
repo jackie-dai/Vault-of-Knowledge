@@ -74,3 +74,7 @@ Queen Himiko described as ruler of state called Yamatai. Shamanic ability to div
 
 
 ### Motoori Norinaga on the Meaning of Kami
+
+Kokka 
+
+Society
