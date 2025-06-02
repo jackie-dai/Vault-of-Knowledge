@@ -7,6 +7,25 @@
 1945-1951 - Unconditional Surrender [ Followed by American Occupation]
 
 ## Japan
-It is roughly the size of california with four main islands
+Geographic facts:
+
+It is roughly the size of California with four main islands
 - Hokkaido
-- H
+- Honshu
+- Shikoku
+- Kyushu
+
+80 percent if mountainous terrain
+
+Over 3/4 of population is concentrated in two large areas
+- Kanto plain (Tokyo)
+- Kinai plain (Osaka)
+
+Proximity to other countries
+- Korea 125 miles
+- China 500 miles
+
+Due to its close proximity, the writing system and religion has been influenced by neighboring countries such as China.
+
+
+
