@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese History/Japanese History.md",
+                "file": "Japanese/Useful Phrases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Japanese History"
+              "title": "Useful Phrases"
             }
           },
           {
@@ -299,11 +299,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "f9599fc60906149e",
   "lastOpenFiles": [
-    "Japanese History",
     "Japanese/Learning Japanese.md",
     "Japanese History/Japanese History.md",
+    "Japanese History",
     "Pasted image 20250524202938.png",
     "Japanese/Useful Phrases.md",
     "Japanese/Particles.md",
@@ -346,7 +346,6 @@
     "Plugins/Ink/Drawing/2025.3.5 - 21.32pm.drawing",
     "Plugins/Ink/Drawing/2025.3.5 - 21.28pm.drawing",
     "Plugins/Ink/Drawing/2025.3.5 - 21.24pm.drawing",
-    "Plugins/Ink/Drawing/2025.3.5 - 21.22pm.drawing",
     "Untitled.canvas"
   ]
 }
