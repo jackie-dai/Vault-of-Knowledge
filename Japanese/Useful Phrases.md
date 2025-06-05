@@ -40,3 +40,9 @@ I see
 Iidesune
 Sounds good
 
+
+watashi mo suki desu
+I also like
+
+Amari suki ja nai desu 
+Not so like 
