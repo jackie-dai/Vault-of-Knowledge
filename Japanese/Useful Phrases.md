@@ -34,3 +34,9 @@ Where do you live?
 Otsukaresama
 *Thank you for your hard work (Used after working in a group)*
 
+Soodesuka
+I see
+
+Iidesune
+Sounds good
+
