@@ -71,7 +71,7 @@ Many elements of later shinto appear
 Queen Himiko described as ruler of state called Yamatai. Shamanic ability to divie and communicate with spirits
 
 ### The Amaterasu Myth
-
+Amaterasu (sun godess) hides in cave after conflict with brother Susanoo, causing darkness to take over. There was no sunlight until she was lured out f
 
 ### Motoori Norinaga on the Meaning of Kami
 
@@ -82,3 +82,5 @@ Society
 
 ### Kofun Ancient Tomb Period
 
+
+## Religious revolution?
