@@ -141,3 +141,15 @@ Reforms under Shotoku Taishi in Japan as well:
 604 - Seventeen-articles constitution (mix of Confucian and Buddhist maxims)
 
 Diplomatic missions to China
+
+### Seventeen-Articles Constitution 
+i. Harmony is to be valued, and contentiousness avoided. All mean are inclined to partisanship and few are truly discerning. 
+ii. Sincerely reverence the Three Treasures. The Buddha, the law (Dharma) and the religious orders are the final refuge of all beings.
+
+iii. When you receive imperial commands, fail not scrupulously to obey them. The lord is Heaven, the vassal is Early. Heaven overspreads, and Earth upbears. 
+
+IV. The minsters and functionaries should make ritual decorum their leading principle... if the common people have rites the state will govern itself
+
+XI. Give clear appreciation to merit and demerit, and deal out to each its sure reward and punishment
+
+XV. To turn away from what is private, and to set our faces to what is public - this is the path of a minister
