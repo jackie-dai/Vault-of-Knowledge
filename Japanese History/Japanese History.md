@@ -96,3 +96,9 @@ In struggles among regional rivals, the rulers of the Kinai region are increasin
 
 ### Introduction to Confucianism
 In the autumn of the fifteen year a prince from Paekche (korea) called Araki came before the court and presenmted two fine horses to the emperror. The emperor asked Araki if he knows a Confucian professor in Paekche. Araki introduced Wani and Wai arrived in the 16th year. The prince learned various classics from Wani. Wani became the first keeper of the imperial books.
+
+Confucianism has emphasis on rites. 
+
+Confucius: "I am a transmitter not creator"
+
+Form of political languages: "a set of categories through which people saw their world"
