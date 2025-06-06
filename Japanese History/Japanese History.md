@@ -125,6 +125,19 @@ Reportedly occurred in 552, a Paekche diplomatic mission presented a statue of t
 
 Conflict breaks out in the 580s. Soga prove victorious. Court officially recognizes Buddhism in 594.
 
-Buddhism was at least a 1000 years old by the time it entered Japan. It had emerged in northern India with the teachings of Gautama Siddhartha, the historial Buddha, also known as Sakyamuni  meaning the sage of the Skaya clan. He became Buddha after attaining enlightment and teaching others to the path to enlightened lives.
+Buddhism was at least a 1000 years old by the time it entered Japan. It had emerged in northern India with the teachings of Gautama Siddhartha, the historical Buddha, also known as Sakyamuni  meaning the sage of the Sakya clan. He became Buddha after attaining enlightenment and teaching others to the path to enlightened lives.
 
-When buddihsm was first introduce
+When Buddhism was first introduced to the Yamato court, it was regarded by most as a source of powerful magic for healing, avoiding disaster, guaranteeing harvests, and protecting Yamato and uji clan interests. Many were awed by buddhism's material culture, including its sculptures, paintings, and temple architecture. They regarded Buddhism as a carrier of higher civilization and therefore highly desirable.
+
+### Empress Suiko and Shotoku Taishi
+
+592 Head of Soga clean orchestrates assassination of the emperor and replaces him with his niece Suiko
+
+581-618 Sui dynasty in China, the Reunification of Chinese empire utilizing Buddhist, Daoist, and Confucian ideology. Centralized military, effective legal code, new state bureaucracy, large scale public work projects
+
+Reforms under Shotoku Taishi in Japan as well: 
+
+603 - Cap rank system
+604 - Seventeen-articles constitution (mix of Confucian and Buddhist maxims)
+
+Diplomatic missions to China
