@@ -118,3 +118,13 @@ The five constant virtues
 - Propriety
 - Wisdom
 - Fidelity
+
+## Introduction to Buddhism
+
+Reportedly occurred in 552, a Paekche diplomatic mission presented a statue of the Buddha and several sutras to the Yamato court.
+
+Conflict breaks out in the 580s. Soga prove victorious. Court officially recognizes Buddhism in 594.
+
+Buddhism was at least a 1000 years old by the time it entered Japan. It had emerged in northern India with the teachings of Gautama Siddhartha, the historial Buddha, also known as Sakyamuni  meaning the sage of the Skaya clan. He became Buddha after attaining enlightment and teaching others to the path to enlightened lives.
+
+When buddihsm was first introduce
