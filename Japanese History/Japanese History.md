@@ -71,7 +71,7 @@ Many elements of later shinto appear
 Queen Himiko described as ruler of state called Yamatai. Shamanic ability to divie and communicate with spirits
 
 ### The Amaterasu Myth
-Amaterasu (sun godess) hides in cave after conflict with brother Susanoo, causing darkness to take over. There was no sunlight until she was lured out f
+Amaterasu (sun godess) hides in cave after conflict with brother Susanoo, causing darkness to take over. There was no sunlight until she was lured out of the cave with a mirror and dancing
 
 ### Motoori Norinaga on the Meaning of Kami
 
@@ -81,6 +81,6 @@ Society
 
 
 ### Kofun Ancient Tomb Period
+Mounded tombs begin to proliferate by the end of the Yayoi period most significantly in the Nara region- siginifies stratification of early Japanese society into rulers and ruled
 
-
-## Religious revolution?
+Haniwa burial ceremonies included burying the deceased emperor's personal attendants alive in the tomb. However this is pure fiction and there was no evidence that human sacrifices were ever a part of the burial ceremony
