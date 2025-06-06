@@ -87,4 +87,12 @@ Haniwa burial ceremonies included burying the deceased emperor's personal attend
 
 Militarization of early Japanese Rulership
 
-In the mid fourth century, Wa rulers were drawn into relations with similar emerging states on the korean peninsula. 
+In the mid fourth century, Wa rulers were drawn into relations with similar emerging states on the korean peninsula. The tombs in the fourth century are filled with armor and weaponry, while the fifth century had horse trappings- suggesting Japan was fighting with a horse dominant power
+
+The fifth century is marked by the construction of extremely large tombs on the Osaka coastal terraces. 
+
+### Early State Formation in Japan
+In struggles among regional rivals, the rulers of the Kinai region are increasingly predominant. By the fifth century, extremely large tombs in the Osaka coastal terraces
+
+### Introduction to Confucianism
+In the autumn of the fifteen year a prince from Paekche (korea) called Araki came before the court and presenmted two fine horses to the emperror. The emperor asked Araki if he knows a Confucian professor in Paekche. Araki introduced Wani and Wai arrived in the 16th year. The prince learned various classics from Wani. Wani became the first keeper of the imperial books.
