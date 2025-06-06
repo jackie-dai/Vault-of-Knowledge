@@ -84,3 +84,7 @@ Society
 Mounded tombs begin to proliferate by the end of the Yayoi period most significantly in the Nara region- siginifies stratification of early Japanese society into rulers and ruled
 
 Haniwa burial ceremonies included burying the deceased emperor's personal attendants alive in the tomb. However this is pure fiction and there was no evidence that human sacrifices were ever a part of the burial ceremony
+
+Militarization of early Japanese Rulership
+
+In the mid fourth century, Wa rulers were drawn into relations with similar emerging states on the korean peninsula. 
