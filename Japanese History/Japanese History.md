@@ -102,3 +102,19 @@ Confucianism has emphasis on rites.
 Confucius: "I am a transmitter not creator"
 
 Form of political languages: "a set of categories through which people saw their world"
+
+### Basic categories
+
+The five relations
+- Father son
+- Ruler-subject
+- Husband-wife
+- Elder-younger
+- Friends-friend
+
+The five constant virtues
+- Humanity/Benevolence
+- Righteousness
+- Propriety
+- Wisdom
+- Fidelity
