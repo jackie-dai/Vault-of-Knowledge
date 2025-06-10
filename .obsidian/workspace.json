@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese History/Japanese History.md",
+                "file": "Japanese/Learning Japanese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Japanese History"
+              "title": "Learning Japanese"
             }
           },
           {
@@ -301,9 +301,9 @@
   },
   "active": "f9599fc60906149e",
   "lastOpenFiles": [
+    "Japanese History/Japanese History.md",
     "Japanese/Useful Phrases.md",
     "Japanese/Learning Japanese.md",
-    "Japanese History/Japanese History.md",
     "Japanese History",
     "Pasted image 20250524202938.png",
     "Japanese/Particles.md",
