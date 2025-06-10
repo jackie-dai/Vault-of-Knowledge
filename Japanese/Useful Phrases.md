@@ -27,6 +27,7 @@ Welcome home
 Kochirakoso Dozo Yoroshiku
 Nice to meet you too
 
+おすまい わ?
 Osumai wa
 Where do you live?
 
