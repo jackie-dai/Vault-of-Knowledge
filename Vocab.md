@@ -22,3 +22,11 @@ fruit
 kaimono
 shopping
 
+yasui
+cheap
+
+yuki
+snow
+
+yoru
+night
