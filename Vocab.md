@@ -12,3 +12,13 @@ money
 hana
 flower
 
+mado 
+window
+
+
+kudamono 
+fruit
+
+kaimono
+shopping
+
