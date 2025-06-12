@@ -71,3 +71,18 @@ kokonotsu
 too
 10 counter
 とう
+
+
+*add de at the end*
+use if responding to given a option
+
+Eat here and takeaway
+
+koko/tennai
+here/eat in
+
+mochikaeri
+takeout
+
+Size
+esu/emu/eru
