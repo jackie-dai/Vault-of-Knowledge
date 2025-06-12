@@ -19,4 +19,6 @@ i
 
 
 
-
+Ya yu yo
+![[Pasted image 20250612044549.png]]
+Only these characters can be combined

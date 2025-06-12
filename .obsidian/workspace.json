@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Useful Phrases.md",
+                "file": "Japanese/Learning Japanese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful Phrases"
+              "title": "Learning Japanese"
             }
           },
           {
@@ -315,9 +315,10 @@
   },
   "active": "f9b332156d4512f0",
   "lastOpenFiles": [
+    "Pasted image 20250612044549.png",
+    "Japanese/Useful Phrases.md",
     "Pasted image 20250612044206.png",
     "Vocab.md",
-    "Japanese/Useful Phrases.md",
     "Japanese/Learning Japanese.md",
     "Japanese History/Japanese History.md",
     "Japanese History",
@@ -342,7 +343,6 @@
     "CS186/Concurrency & Transactions II.md",
     "CS186/img/Pasted image 20250503131459.png",
     "CS186/img/Pasted image 20250503130805.png",
-    "CS186/img/Pasted image 20250503115206.png",
     "Math 53/16.5 Curl and Divergence.md",
     "CS170/Randomized Algorithms.md",
     "CS170/Lecture 21 - Approximate Algorithms.md",
