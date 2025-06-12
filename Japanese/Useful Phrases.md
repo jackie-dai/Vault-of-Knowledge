@@ -47,3 +47,27 @@ I also like
 
 Amari suki ja nai desu 
 Not so like 
+
+
+Restaurant
+kore to onaji no 
+
+Counters for small items
+
+![[Pasted image 20250612044206.png]]
+
+muttsu
+6 counter
+
+nanatsu
+7 counter
+
+yattsu
+8 counter
+
+kokonotsu 
+9 counter
+
+too
+10 counter
+とう

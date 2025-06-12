@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocab.md",
+                "file": "Japanese/Useful Phrases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vocab"
+              "title": "Useful Phrases"
             }
           },
           {
@@ -315,8 +315,9 @@
   },
   "active": "f9b332156d4512f0",
   "lastOpenFiles": [
-    "Japanese/Useful Phrases.md",
+    "Pasted image 20250612044206.png",
     "Vocab.md",
+    "Japanese/Useful Phrases.md",
     "Japanese/Learning Japanese.md",
     "Japanese History/Japanese History.md",
     "Japanese History",
@@ -351,7 +352,6 @@
     "Math 53/15.9 Change of Variables.md",
     "Math 53/15.7 - Triple Integrals in Cylindrical Coordinates.md",
     "Untitled 1.md",
-    "Math 53/16.4 Green's Theorem.md",
     "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Plugins/Ink/Writing/2025.3.5 - 21.22pm.writing",
     "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",
