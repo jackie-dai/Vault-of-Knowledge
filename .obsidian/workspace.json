@@ -48,6 +48,20 @@
             }
           },
           {
+            "id": "f9b332156d4512f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocab"
+            }
+          },
+          {
             "id": "a1d63f435eab4694",
             "type": "leaf",
             "state": {
@@ -132,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -299,11 +313,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9599fc60906149e",
+  "active": "f9b332156d4512f0",
   "lastOpenFiles": [
+    "Japanese/Useful Phrases.md",
+    "Vocab.md",
     "Japanese/Learning Japanese.md",
     "Japanese History/Japanese History.md",
-    "Japanese/Useful Phrases.md",
     "Japanese History",
     "Pasted image 20250524202938.png",
     "Japanese/Particles.md",
