@@ -27,3 +27,11 @@ Only these characters can be combined
 o - used for Omizu
 
 wo - used for particles
+
+adding i elongates ee
+
+sensei
+sensee
+
+bentou
+bentoo
