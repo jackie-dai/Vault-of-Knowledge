@@ -37,3 +37,16 @@ bentou
 bentoo
 
 tsu - pause
+
+|Number|Kanji|Reading|Notes|
+|---|---|---|---|
+|1|一人|**ひとり** (_hitori_)|irregular|
+|2|二人|**ふたり** (_futari_)|irregular|
+|3|三人|**さんにん** (_sannin_)|regular pattern starts here|
+|4|四人|**よにん** (_yonin_)|not _shinin_ (sounds like "death")|
+|5|五人|**ごにん** (_gonin_)||
+|6|六人|**ろくにん** (_rokunin_)||
+|7|七人|**しちにん** (_shichinin_) or **ななにん** (_nananin_)||
+|8|八人|**はちにん** (_hachinin_)||
+|9|九人|**きゅうにん** (_kyuunin_)||
+|10|十人|**じゅうにん** (_juunin_)||
