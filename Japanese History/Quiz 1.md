@@ -43,4 +43,14 @@ Kami signifies the deities of heaven and earth that appear in the ancient record
 
 Emile Durkheim: religion is an eminently social thing. Religious representations are collective representations that express collective realities. Rites are ways of acting whose purpose is to evoke, maintain, or recreate certain mental states of those groups. In order to prevent dissidence [protest again official policy] , society weighs on its members with all its authority.
 
-The key to religion is not its beliefs but the social rituals that its members perform. Religion is a key to social solidarity, and religious beliefs are important, not in their own right, but as symbols of social groups. The analysis of religion leads us to understand social rituals and the way in which tehy create both moral feelings and symbolic ideas.  it helps us to explain politics and make political
+The key to religion is not its beliefs but the social rituals that its members perform. Religion is a key to social solidarity, and religious beliefs are important, not in their own right, but as symbols of social groups. The analysis of religion leads us to understand social rituals and the way in which they create both moral feelings and symbolic ideas.  it helps us to explain politics and make political ideologies, and the dynamics of solidarity that make conflicts possible among social groups. The one reality that has all the characteristics that people attribute to the divine is society itself. It has tremendous power over us. Virtually our whole material and symbolic world is given to us from society. God is a symbol of society. Society is the fundamental that religion is built on
+
+## Shinto 
+The concept of shinto revolves around the age of Japan's authenticity when it had not been corrupted by foreign influences. It was anchored in the idea of a nation united by a single religion.
+
+The two earliest shinto court chronicles
+- Kojiki
+- Nihon Shoki
+
+The Japan dicted in the chronicles is not an isolated place of unstained culture, but both works records countless links with Korea and China (multicultural and multireligion)
+
