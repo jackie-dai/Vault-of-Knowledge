@@ -54,3 +54,7 @@ The two earliest shinto court chronicles
 
 The Japan dicted in the chronicles is not an isolated place of unstained culture, but both works records countless links with Korea and China (multicultural and multireligion)
 
+
+## Culture and Technology along the Silk Roads
+
+Noodles from China, Italian, and Japan trace their origin to the Middle East. 
