@@ -108,4 +108,36 @@ Peak military technology was mounted archery. Difficult to create large cavalry 
 
 ## The Kenmon System
 
-- Each kenmon had their own headquarters in which they 
+- Each kenmon had their own headquarters in which they would issue commands from about land or internal disputes. Each Kenmon had loyal retainers or followers. The head of each elite had complete rights to self-rule, as well as exclusive control and jurisdiction over their assets.
+- The elites formed three large powers that performed administrative, military, and religious duties in a codependent arrangement of shared rulership.
+- The emperorship remained above the system as the untouchable symbol of the state
+
+Buddhism and the state under the Kenmon system.
+
+The third member of the temple shrine complexes supplied the state and its members with spiritual protection through a panoply of religious services and rituals. These ceremonies were important as status markers
+
+## Kamakura Shogunate
+
+Parallel structure of shogunal rule with imperial clan dominating civil affairs in Kyoto while shogunal government in Kamakura commands newly empowered warrior network.
+
+Shogunate rewarded its retainers with rights to income from land. There was no clearly defined warriro class.
+
+## The Kenmu Restoration
+
+
+## Ashikaga Shogunate
+
+Establishes new shogunate in Kyoto. Ended dual government but ultimately failed to gain firm grip on land.
+
+## New developments in Religion
+new forms of buddhism spread such as the popularization of Esoteric Buddhism.
+
+Spread of devotion to Amida
+- Focus on individual belief
+- Path to salvation open to commoners, rather than religious experts only
+
+Nichiren
+- Emphasis on collective belief
+Zen Buddhism
+- Support among warrior class
+- Chinese zen monks come to japan after Mongol conquest of CHina
