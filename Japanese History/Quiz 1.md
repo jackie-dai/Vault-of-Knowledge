@@ -26,4 +26,15 @@ Yoshinogari
 introduction of social classes where officials were separated by a moat. This era had a lot of commercial life and various trades. 
 
 ### Dotaku (bells)
-Made out of bronze, they were usually a ritual symbol of power. They most likely didn't function like regu
+Made out of bronze, they were usually a ritual symbol of power. They most likely didn't function like regular bells purely for making sound, but functioned as symbols of allegiance to some political authority.
+
+### History of the Kingdom of Wei
+
+At least thirty power countries engaged in war. Introduction of prominence of women in powerful positions.
+
+### Queen Himiko
+The first female ruler of the state called Yamatai, assisted by her younger brother. This was the first example of co-gendered rulership in early Japan. 
+
+### The Amaterasu Myth
+The sun goddess Amaterasu withdrew into a cave after being offended by her brother, the storm god Susanoo. The world was enveloped in darkness. In order to restore the sun. The goddess Ame no Uzume performs a lewd dance while a mirror is hung from a tree. She then comes out of the cave intrigued by the dance.
+
