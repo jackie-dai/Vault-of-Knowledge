@@ -88,8 +88,24 @@ The Japanese copied the Chinese's examination system to choose its bureaucratic 
 
 The imperial family's divine mandate was claimed via direct descent from the sun goddess, Amaterasu
 
+*Shoen* = landed estates exempt from public taxes
+
 ## Emperor Shomu and the Great Buddha of Nara
 
 First pernament capital was established at Nara in 710
 
-Severe epidemics of smallpox and other diseases, along with famine, killing 35 percent of the population betwe
+Severe epidemics of smallpox and other diseases, along with famine, killing 35 percent of the population
+
+Emperor commissioned the construction of the Great Buddha (53 ft statue)
+
+In 749, Emperor Shomu retired to become a Buddhist monk, appointing his unmarried daughter as heir, Empress Koken and Empress Shotoku
+
+## Fujiwara Rule
+By the Heian period, abdication of emperors had become common to avoid bloody fights
+
+Peak military technology was mounted archery. Difficult to create large cavalry force. The imperial court maintained neither an army nor a police force of its own. They relied on private warriors.
+
+
+## The Kenmon System
+
+- Each kenmon had their own headquarters in which they 
