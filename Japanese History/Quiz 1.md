@@ -9,3 +9,9 @@ Four phases of prehistory
 2. Jomon (Rope Pattern)
 3. Yayoi (named after excavation site)
 4. Kofun (Old tomb)
+
+## Jomon 
+
+There was no social distinction according to class or wealth. Everyone had to do work. There wasn't enough food if elites didn't perform labor
+
+Im

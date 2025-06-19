@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Learning Japanese.md",
+                "file": "Japanese History/Quiz 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Japanese"
+              "title": "Quiz 1"
             }
           },
           {
@@ -329,9 +329,9 @@
   },
   "active": "fd9b2f65041bf496",
   "lastOpenFiles": [
-    "Quiz 1.md",
     "Japanese History/Japanese History.md",
     "Japanese/Learning Japanese.md",
+    "Japanese History/Quiz 1.md",
     "Japanese/Useful Phrases.md",
     "Pasted image 20250612045458.png",
     "Vocab.md",
