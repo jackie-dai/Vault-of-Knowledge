@@ -66,3 +66,6 @@ I eat sweets
 の - connector (possesive)
 
 わたしに　の　しごと　わ　にほんご　の　せんせいです
+
+denwabangou wa nan ban desuka
+でんわばんごう　わ　なん　ばん　ですか
