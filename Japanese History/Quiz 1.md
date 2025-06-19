@@ -38,3 +38,5 @@ The first female ruler of the state called Yamatai, assisted by her younger brot
 ### The Amaterasu Myth
 The sun goddess Amaterasu withdrew into a cave after being offended by her brother, the storm god Susanoo. The world was enveloped in darkness. In order to restore the sun. The goddess Ame no Uzume performs a lewd dance while a mirror is hung from a tree. She then comes out of the cave intrigued by the dance.
 
+### The meaning of Kami
+Kami signifies the deities of heaven and earth that appear in the ancient records and also the spirit of the shrines where they are worshipped. It was said that anything whatsoever out of the ordinary, which possessed superior power, or which was awe-inspiring was called kami. Evil and mysterious things, if they are extradiona
