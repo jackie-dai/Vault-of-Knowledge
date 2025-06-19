@@ -61,3 +61,8 @@ To go to school
 
 おかし　を　たべます
 I eat sweets
+
+
+の - connector (possesive)
+
+わたしに　の　しごと　わ　にほんご　の　せんせいです
