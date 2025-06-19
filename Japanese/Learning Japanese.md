@@ -50,3 +50,10 @@ tsu - pause
 |8|八人|**はちにん** (_hachinin_)||
 |9|九人|**きゅうにん** (_kyuunin_)||
 |10|十人|**じゅうにん** (_juunin_)||
+
+
+お水おたべます
+to eat water
+
+
+gakko
