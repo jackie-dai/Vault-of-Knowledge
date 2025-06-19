@@ -67,4 +67,29 @@ Buddhism was at least a thousand years old by the time it entered Japan. When fi
 
 1. Harmony is to be valued, and contentiousness avoided. All men are inclined to partisanship and few are truly discerning. 
 2. The three treasures: buddha, law, and religious orders are the final refuge of all beings.
-3. When you receive imperial commands, fail not scrupulously to obey them. Heaven overspreads, and Earth upb
+3. When you receive imperial commands, fail not scrupulously to obey them. Heaven overspreads, and Earth upbears.
+4. The common people have rites the state will govern itself.
+5. Give clear appreciation to merit and demerit, and deal out to each out to each its sure reward and punishment.
+6. To turn away from what is private, and to set our faces to what is public
+
+There was alliance between Tang China and Korean state of Silla. Japanese came to the aid of Paekeche, but are defeated in 663.
+
+### The Design of the Ritsuryo State
+
+Administrative system in which all power flowed from the emperor.
+
+All landed belonged to the emperor
+
+Military conscription of all able-bodied adult males
+
+Provided a blueprint for the transformation of the government according to chinese models.
+
+The Japanese copied the Chinese's examination system to choose its bureaucratic leaders but in order to be qualified to even take the exam, you had to be part of the court family. The Japanese bureaucracy remained a hereditary system that preserved the privileges of the aristocrats.
+
+The imperial family's divine mandate was claimed via direct descent from the sun goddess, Amaterasu
+
+## Emperor Shomu and the Great Buddha of Nara
+
+First pernament capital was established at Nara in 710
+
+Severe epidemics of smallpox and other diseases, along with famine, killing 35 percent of the population betwe
