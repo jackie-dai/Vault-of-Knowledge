@@ -55,5 +55,9 @@ tsu - pause
 お水おたべます
 to eat water
 
+がっこう　へ　いきますす
+gakkoo e ikimmasu
+To go to school
 
-gakko
+おかし　を　たべます
+I eat sweets
