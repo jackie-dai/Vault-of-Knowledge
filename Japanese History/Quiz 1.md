@@ -58,3 +58,13 @@ The Japan dicted in the chronicles is not an isolated place of unstained culture
 ## Culture and Technology along the Silk Roads
 
 Noodles from China, Italian, and Japan trace their origin to the Middle East. 
+
+
+## Buddhism
+Buddhism was at least a thousand years old by the time it entered Japan. When first introduced, Buddhism was regarded by most as a source of powerful magic for healing, avoiding disaster, guaranteeing harvests, and protecting Yamato and uji clan interests.
+
+### Seventeen-Articles Constitution 
+
+1. Harmony is to be valued, and contentiousness avoided. All men are inclined to partisanship and few are truly discerning. 
+2. The three treasures: buddha, law, and religious orders are the final refuge of all beings.
+3. When you receive imperial commands, fail not scrupulously to obey them. Heaven overspreads, and Earth upb
