@@ -110,6 +110,12 @@ Structure: AM/PM + time + ji
 
 ぷｎ for 10 minute increments
 
-はん￥
+30 はん
 30 minutes
 
+About
+ぐらい・くらい・ごろ (only time)
+
+
+What time is it?
+済みません。いまなんじですか
