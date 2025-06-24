@@ -69,3 +69,47 @@ I eat sweets
 
 denwabangou wa nan ban desuka
 でんわばんごう　わ　なん　ばん　ですか
+
+
+
+### Math 
+
+たす
+plus
+
+は
+equals
+
+ひく
+minus
+
+## Clock 
+
+よじ
+4 o'clock
+
+しじじ
+7 o'clock
+
+はちじ
+
+
+くじ
+9 oclock
+
+ごぜｎ
+AM
+
+ごご
+PM
+minute
+
+Structure: AM/PM + time + ji
+
+ふｎ　for 5 minute increments
+
+ぷｎ for 10 minute increments
+
+はん￥
+30 minutes
+
