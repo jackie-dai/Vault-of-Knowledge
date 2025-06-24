@@ -92,7 +92,7 @@ minus
 7 o'clock
 
 はちじ
-
+8 oclock
 
 くじ
 9 oclock
@@ -119,3 +119,12 @@ About
 
 What time is it?
 済みません。いまなんじですか
+
+から
+Start
+
+まで
+End
+
+げんこ
+Opening
