@@ -128,3 +128,7 @@ End
 
 げんこ
 Opening
+
+11:30 start to 2:30 end
+
+ごぜｎじゅいちじから
