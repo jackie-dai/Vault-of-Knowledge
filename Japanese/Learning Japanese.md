@@ -132,3 +132,6 @@ Opening
 11:30 start to 2:30 end
 
 ごぜｎじゅいちじからdu
+
+なんじから　なんじまで　ですか？
+Open from
