@@ -118,7 +118,7 @@ About
 
 
 What time is it?
-済みません。いまなんじですか
+すみません。いまなんじですか
 
 から
 Start
