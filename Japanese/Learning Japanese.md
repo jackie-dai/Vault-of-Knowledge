@@ -142,16 +142,30 @@ dona wa supotsu ga suki desu?
 Counting
 300
 san byaku
+さんびやく
 
 600
 ro pyaku
+ろぴゃく
 
 800
 ha byaku
+はびやく
 
 3000
 san zen
+さんぜん
 
 8000
 ha (small tsu) sen
+はつせん
+
+100,000
+jyu man
+
+1,000,000
+hyaku man
+
+10,000,000
+sen man
 
