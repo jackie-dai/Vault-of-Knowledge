@@ -135,3 +135,5 @@ Opening
 
 なんじから　なんじまで　ですか？
 Open from
+
+dona wa supotsu ga suki desu?
