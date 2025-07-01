@@ -137,3 +137,21 @@ Opening
 Open from
 
 dona wa supotsu ga suki desu?
+
+
+Counting
+300
+san byaku
+
+600
+ro pyaku
+
+800
+ha byaku
+
+3000
+san zen
+
+8000
+ha (small tsu) sen
+
