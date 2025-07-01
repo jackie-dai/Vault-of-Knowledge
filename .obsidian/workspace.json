@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Learning Japanese.md",
+                "file": "Japanese/Useful Phrases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Japanese"
+              "title": "Useful Phrases"
             }
           },
           {
@@ -343,10 +343,10 @@
   },
   "active": "d51ac3ff7e596d26",
   "lastOpenFiles": [
+    "Japanese/Learning Japanese.md",
     "Quiz 2.md",
     "Japanese History/Quiz 1.md",
     "Japanese History/Japanese History.md",
-    "Japanese/Learning Japanese.md",
     "Japanese/Useful Phrases.md",
     "Pasted image 20250612045458.png",
     "Vocab.md",
