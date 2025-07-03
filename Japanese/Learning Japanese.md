@@ -172,3 +172,5 @@ hyaku man
 10,000,000
 sen man
 
+so cheap!/so expensive
+yasuidesune/takaidesuyo
