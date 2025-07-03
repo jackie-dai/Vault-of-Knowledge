@@ -156,6 +156,9 @@ ha byaku
 san zen
 さんぜん
 
+6000
+ro sen
+
 8000
 ha (small tsu) sen
 はつせん
