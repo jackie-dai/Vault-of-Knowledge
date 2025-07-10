@@ -174,3 +174,11 @@ sen man
 
 so cheap!/so expensive
 yasuidesune/takaidesuyo
+
+
+
+だれのペンですか
+whose pen ?
+
+わたしのぺんです
+its my pen
