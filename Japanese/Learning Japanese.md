@@ -182,3 +182,7 @@ whose pen ?
 
 わたしのぺんです
 its my pen
+
+
+に ni (movement verb)
+depato ni iki masu
