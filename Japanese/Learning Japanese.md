@@ -188,3 +188,7 @@ its my pen
 depato ni iki masu
 
 こんばん　うち　に　かえります
+
+
+こたけさん　は　さんじ　に　がこ　に　いきます
+kotake-san came to school at 3 o clock
