@@ -200,3 +200,5 @@ Same for asking the time/date
 Where and when?
 どこにいつ
 いつどこに
+
+しゅまつ
