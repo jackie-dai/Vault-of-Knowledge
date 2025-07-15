@@ -192,3 +192,11 @@ depato ni iki masu
 
 こたけさん　は　さんじ　に　がこ　に　いきます
 kotake-san came to school at 3 o clock
+
+Same for asking the time/date
+なんじに
+いつ
+
+Where and when?
+どこにいつ
+いつどこに
