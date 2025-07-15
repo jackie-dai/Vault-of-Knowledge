@@ -186,3 +186,5 @@ its my pen
 
 に ni (movement verb)
 depato ni iki masu
+
+こんばん　うち　に　かえります
