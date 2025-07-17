@@ -218,3 +218,6 @@ To hear
 Mary-san　は　ともだち　と　ばどみと　を　します
 
 へとりで (by yourself)
+
+しゅまつなにをしますか
+what are you doing over the weekend?
