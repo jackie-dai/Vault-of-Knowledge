@@ -202,3 +202,7 @@ Where and when?
 いつどこに
 
 しゅまつ
+
+
+Mary-san は　としょかんで　ざつしを　よみます
+Mary-san is reading magazine at the library
