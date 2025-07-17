@@ -204,7 +204,7 @@ Where and when?
 しゅまつ
 
 
-Mary-san は　としょかんで　ざつしを　よみます
+Mary-san 　は　としょかん　で　ざつし　を　よみます
 Mary-san is reading magazine at the library
 
 Actions
@@ -214,3 +214,7 @@ To look
 
 ききます
 To hear
+
+Mary-san　は　ともだち　と　ばどみと　を　します
+
+へとりで (by yourself)
