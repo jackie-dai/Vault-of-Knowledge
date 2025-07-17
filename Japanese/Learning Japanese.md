@@ -206,3 +206,11 @@ Where and when?
 
 Mary-san は　としょかんで　ざつしを　よみます
 Mary-san is reading magazine at the library
+
+Actions
+
+みます
+To look
+
+ききます
+To hear
