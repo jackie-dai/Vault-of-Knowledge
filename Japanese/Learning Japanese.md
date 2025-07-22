@@ -247,3 +247,22 @@ when
 さけ　を　たべます
 Eating sake
 
+
+ひとり　で　いま　うち　で　やさい　を　たべます
+Eating vegetables alone at home
+
+
+なにをしますか
+What doing?
+
+
+Question words
+どこに
+いつ
+なんじに
+だれと
+なにょうびに
+
+なにを
+
+なにをします
