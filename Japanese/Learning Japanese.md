@@ -221,3 +221,29 @@ Mary-san　は　ともだち　と　ばどみと　を　します
 
 しゅまつなにをしますか
 what are you doing over the weekend?
+
+
+Food Vocab
+
+Fruit
+くだもの
+
+Vegetable
+やさい
+
+Movement verbs
+ いきます
+ to go to 
+ 
+ きます
+ to come to
+  
+かえります
+to return
+
+いつ
+when
+
+さけ　を　たべます
+Eating sake
+
