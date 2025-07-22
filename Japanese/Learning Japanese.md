@@ -286,5 +286,8 @@ Frequently (routine)
 ときどき
 Sometimes
 
+あまり
+not often
+
 ぜんぜんなとうをたべますｎ
 never eat 
