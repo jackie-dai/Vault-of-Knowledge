@@ -270,3 +270,21 @@ with who
 なにを
 
 なにをします
+
+
+Frequency words
+
+まいにち
+Everyday
+
+よく
+Often
+
+たいてい
+Frequently (routine)
+
+ときどき
+Sometimes
+
+ぜんぜんなとうをたべますｎ
+never eat 
