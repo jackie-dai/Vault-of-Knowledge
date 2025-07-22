@@ -259,8 +259,12 @@ What doing?
 Question words
 どこに
 いつ
+
 なんじに
+
 だれと
+with who
+
 なにょうびに
 
 なにを
