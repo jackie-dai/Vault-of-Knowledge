@@ -292,3 +292,11 @@ not often
 
 ぜんぜんなとうをたべますｎ
 never eat 
+
+
+object + おかわり
+Refill of object (rice)
+
+ふつう
+Regular amount
+if you're given choice of rice amount
