@@ -79,14 +79,26 @@
             "id": "d51ac3ff7e596d26",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250524202938.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250524202938"
+            }
+          },
+          {
+            "id": "20c24f94bd73a7ed",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Learning Japanese.md",
+                "file": "Stat20/Hypothesis Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Japanese"
+              "title": "Hypothesis Testing"
             }
           },
           {
@@ -174,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -341,20 +353,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d51ac3ff7e596d26",
+  "active": "20c24f94bd73a7ed",
   "lastOpenFiles": [
-    "Japanese/Useful Phrases.md",
-    "Japanese/Learning Japanese.md",
+    "Pasted image 20250524202938.png",
+    "Stat20/Hypothesis Testing.md",
+    "Stat20",
+    "Japanese/Vocab.md",
     "Quiz 2.md",
+    "Japanese/img/Pasted image 20250612044206.png",
+    "Japanese/img",
+    "Japanese/img/Pasted image 20250612045458.png",
+    "Japanese/img/Pasted image 20250612044549.png",
+    "Japanese/img/Learning Japanese.md",
+    "Japanese/Useful Phrases.md",
     "Japanese History/Quiz 1.md",
     "Japanese History/Japanese History.md",
-    "Pasted image 20250612045458.png",
-    "Vocab.md",
-    "Pasted image 20250612044549.png",
-    "Pasted image 20250612044206.png",
     "Japanese History",
-    "Pasted image 20250524202938.png",
-    "Japanese/Particles.md",
+    "Japanese/img/Particles.md",
     "CS186/img/Pasted image 20250511211117.png",
     "CS186/img/Pasted image 20250513141510.png",
     "CS186/img/Pasted image 20250513134621.png",
@@ -378,8 +393,6 @@
     "CS170/Lecture 17 - Duality.md",
     "CS170/P vs NP.md",
     "CS186/Distributed Transactions.md",
-    "Math 53/15.9 Change of Variables.md",
-    "Math 53/15.7 - Triple Integrals in Cylindrical Coordinates.md",
     "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Plugins/Ink/Writing/2025.3.5 - 21.22pm.writing",
     "Plugins/Ink/Drawing/2025.3.6 - 15.11pm.drawing",
@@ -387,8 +400,6 @@
     "Plugins/Ink/Drawing/2025.3.5 - 21.46pm.drawing",
     "Plugins/Ink/Drawing/2025.3.5 - 21.33pm.drawing",
     "Plugins/Ink/Drawing/2025.3.5 - 21.32pm.drawing",
-    "Plugins/Ink/Drawing/2025.3.5 - 21.28pm.drawing",
-    "Plugins/Ink/Drawing/2025.3.5 - 21.24pm.drawing",
     "Untitled.canvas"
   ]
 }
