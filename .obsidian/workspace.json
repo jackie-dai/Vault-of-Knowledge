@@ -173,12 +173,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japan 1A.md",
+                "file": "Japanese/Japan 1A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Japan 1A"
+            }
+          },
+          {
+            "id": "7b75028a0292b257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS189 - Introduction to Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CS189 - Introduction to Machine Learning"
             }
           },
           {
@@ -266,7 +280,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -434,13 +448,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bcea1f662afa398",
+  "active": "7b75028a0292b257",
   "lastOpenFiles": [
+    "Japanese/Japan 1A.md",
+    "CS189 - Introduction to Machine Learning.md",
+    "CS189",
     "CS169/CS169 - Software Engineering.md",
-    "Japan 1A.md",
     "CS169",
     "EECS127 Optimization/Linear Algebra Review.md",
-    "Untitled.md",
     "Ink/Drawing/2025.8.24 - 21.53pm.drawing",
     "Ink/Drawing",
     "Ink",
@@ -478,10 +493,8 @@
     "CS186/img/Pasted image 20250511233814.png",
     "Math 53/Multivariable Calculus.md",
     "Math 53/Derivative Rules.md",
-    "Math 53/16.4 Green's Theorem 1.md",
     "CS186/img/Pasted image 20250504095603.png",
     "CS186/img/Pasted image 20250503104138.png",
-    "Plugins/Ink/Writing/2025.3.5 - 21.26pm.writing",
     "Untitled.canvas"
   ]
 }
