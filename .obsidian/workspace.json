@@ -196,6 +196,18 @@
             }
           },
           {
+            "id": "1396d979a9317957",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
             "id": "a1d63f435eab4694",
             "type": "leaf",
             "state": {
@@ -280,7 +292,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -448,7 +460,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b75028a0292b257",
+  "active": "1396d979a9317957",
   "lastOpenFiles": [
     "Japanese/Japan 1A.md",
     "CS189 - Introduction to Machine Learning.md",
