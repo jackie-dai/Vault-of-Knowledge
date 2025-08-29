@@ -68,3 +68,5 @@ book
 えさ
 feed (dog food)
 
+むし
+insect
