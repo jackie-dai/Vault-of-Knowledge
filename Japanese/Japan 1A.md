@@ -14,7 +14,8 @@ Excuse me
 
 
 
-Vocab
+**Vocab**
+
 あか 
 red
 
@@ -30,27 +31,40 @@ station
 さけ
 sake
 
-あお
+あお　
+blue
 
 くに
+country
 
 いぬ
 inu (dog)
 
 
-はなflower
+はな
+flower
 
 たて
+length
 
 にく
+meat
 
 ねこ
+cat
 
 ひふ
+skin
 
 ほそい
+narrow
 
 いぬ
+dog
 
-ほm.
+ほｎ
+book
+
+えさ
+feed (dog food)
 
