@@ -229,12 +229,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability Theory/Lecture 1 - I.md",
+                "file": "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - I"
+              "title": "Lecture 1 - axioms, rules, approximation"
             }
           },
           {
@@ -493,7 +493,7 @@
   "active": "15f472d1a805b4c3",
   "lastOpenFiles": [
     "Probability Theory/Data 140.md",
-    "Probability Theory/Lecture 1 - I.md",
+    "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
     "CS189/CS189 - Introduction to Machine Learning.md",
     "Probability Theory",
     "Japanese/Japan 1A.md",
