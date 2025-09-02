@@ -37,4 +37,10 @@ df[(df["Landmark"] > 50) & (df["height] < 80)]
 .dropna()
 
 
+**Joins**
+inner join: returns only the rows with matching keys in both dataframes
+outer join: returns all rows from both Dataframes, filling with NaN where there is no match
+Left join: returns all rows from the left dataFrame and matching rows from the right dataframe
+Right join: returns all rows from the right Dataframe and matching rows from the left Dataframe
+
 
