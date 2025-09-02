@@ -34,7 +34,7 @@ df.iloc[/[1,2]] -> returns rows 1 and 2
 **Boolean Expressions**
 df[(df["Landmark"] > 50) & (df["height] < 80)]
 
-
+.dropna()
 
 
 
