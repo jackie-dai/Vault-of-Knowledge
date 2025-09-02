@@ -28,7 +28,8 @@ arguments:
 - a list
 - a slice
 - a single value
-
+example
+df.iloc[/[1,2]] -> returns rows 1 and 2
 
 
 
