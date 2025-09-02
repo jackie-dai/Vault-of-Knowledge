@@ -70,3 +70,12 @@ feed (dog food)
 
 むし
 insect
+
+でぐち
+exit
+
+きて
+to listen
+
+みて
+to take a look
