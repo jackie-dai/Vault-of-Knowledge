@@ -79,3 +79,7 @@ to listen
 
 みて
 to take a look
+
+
+はなち
+nose bleed
