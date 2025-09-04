@@ -23,4 +23,6 @@ to obtain the new feature z with zero mean and unit variance
 
 Encoding image (we will do this in the homework)
 
+**Regularization is the process of adding constraints or penalties to the learning process to improve generalization
+
 
