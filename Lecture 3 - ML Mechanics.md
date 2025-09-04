@@ -21,5 +21,6 @@ Using the training data to compute the mean and variance of the feature x and th
 ![[Pasted image 20250904144904.png]]
 to obtain the new feature z with zero mean and unit variance
 
-Encoding image (we will do this in )
+Encoding image (we will do this in the homework)
+
 
