@@ -23,6 +23,18 @@ to obtain the new feature z with zero mean and unit variance
 
 Encoding image (we will do this in the homework)
 
-**Regularization is the process of adding constraints or penalties to the learning process to improve generalization
+**Regularization** is the process of adding constraints or penalties to the learning process to improve generalization
 
+## Logistic Regression Model
 
+Logistic regression is a linear model for classification
+
+**Hyperparameters** are the parameters held constant during optimization (training) algorithm
+
+## Making Predictions
+
+**Inference* is the process of making predictions with a model
+
+Label prediction
+
+Predicted distribution
