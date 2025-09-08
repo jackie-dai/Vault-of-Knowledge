@@ -83,3 +83,11 @@ to take a look
 
 はなち
 nose bleed
+
+にほんごのofficeになにがありますか？
+
+あります - to exist for objects
+
+にほんごのofficeにだれがいますか
+
+います - to exist for living things
