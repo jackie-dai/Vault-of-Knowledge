@@ -18,4 +18,12 @@ Llyods algorithm is a k-means algorithm
 Steps
 1. Compute assignments
 2. Update assignments
+3. Loop until centers no longer change
+
 insert algorithm
+
+**Choosing the Number of Clusters**
+- Using domain understanding
+- the elbow method
+
+**int
