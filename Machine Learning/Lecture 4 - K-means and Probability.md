@@ -37,4 +37,12 @@ Average all colors to 8 average colors to recolor image. This reduces the need f
 Probability provides a framework for quantifying and manipulating uncertainty
 
 The probability of an event is 
-- Frequenist View: the long-run relative frequency of an event in identical repeated e
+- Frequentist View: the long-run relative frequency of an event in identical repeated trials
+- Bayesian View: is the degree of belief (or plausibility) assigned to it given the availiable information
+
+### Joint Distributions
+
+### Conditional Probability
+
+### Empirical Probability Distributions
+
