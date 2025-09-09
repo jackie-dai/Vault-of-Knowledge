@@ -14,3 +14,8 @@ Objective: Each data point should be close to its assigned center
 ## LLyods Algorithm
 
 Llyods algorithm is a k-means algorithm
+
+Steps
+1. Compute assignments
+2. Update assignments
+insert algorithm
