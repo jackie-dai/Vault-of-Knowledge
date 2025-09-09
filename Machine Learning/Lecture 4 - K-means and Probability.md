@@ -26,4 +26,15 @@ insert algorithm
 - Using domain understanding
 - the elbow method
 
-**int
+## Use case: Using k-mean clustering to recolor images
+
+Choose k=8 colors
+
+Average all colors to 8 average colors to recolor image. This reduces the need for certain inks
+
+
+## Probability
+Probability provides a framework for quantifying and manipulating uncertainty
+
+The probability of an event is 
+- Frequenist View: the long-run relative frequency of an event in identical repeated e
