@@ -1,8 +1,6 @@
 
 ## K-means clustering
 
-Lyodds algorithm is a k-means algorithm
-
 Input: a collection of data points
 Output: K cluster centers and an assignment of each data point to one of the cluster centerse
 
@@ -12,3 +10,7 @@ Output: K cluster centers and an assignment of each data point to one of the clu
 Objective: Each data point should be close to its assigned center
 
 **Eucldian Distance Squared
+
+## LLyods Algorithm
+
+Llyods algorithm is a k-means algorithm
