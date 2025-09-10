@@ -84,6 +84,8 @@ to take a look
 はなち
 nose bleed
 
+**Grammar structures**
+
 にほんごのofficeになにがありますか？
 
 あります - to exist for objects
@@ -91,3 +93,8 @@ nose bleed
 にほんごのofficeにだれがいますか
 
 います - to exist for living things
+
+**Direction**
+
+えすのしたにほんがあります
+There is a book below the chair
