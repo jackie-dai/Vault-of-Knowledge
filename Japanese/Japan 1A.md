@@ -103,4 +103,4 @@ There is a newspaper under the chair
 Is there something on the desk?
 
 つくえのうえにだれかありますか？
-Is there someone on the desk?
+	Is there someone on the desk?zz
