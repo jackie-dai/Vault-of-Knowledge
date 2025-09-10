@@ -96,5 +96,5 @@ nose bleed
 
 **Direction**
 
-えすのしたにほんがあります
-There is a book below the chair
+えす **の** した **に** しんぶん **が** あります
+There is a newspaper under the chair
