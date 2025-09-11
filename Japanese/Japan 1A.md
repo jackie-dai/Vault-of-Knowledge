@@ -126,7 +126,12 @@ Where is Yamada?
 やまださんはつくえのまいにいます。
 Yamada is in front of the desk
 
-が - emphasizes the noun (s)
+が - emphasizes the noun/subject (person, animal, something) before it.
+
+なにが (works)
+なんが (doesn't work)
+
+は - highlights the topic (usually used in questions)　
 
 
 
