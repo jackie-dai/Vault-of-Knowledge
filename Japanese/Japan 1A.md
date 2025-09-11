@@ -99,8 +99,12 @@ nose bleed
 えす **の** した **に** しんぶん **が** あります
 There is a newspaper under the chair
 
-つくえのうえになにかありますか？
+Q: つくえのうえになにかありますか？
 Is there something on the desk?
+
+A1: ええい、なにもありますん。
+
+A2: はい、あります。
 
 つくえのうえにだれかありますか？
 	Is there someone on the desk?
