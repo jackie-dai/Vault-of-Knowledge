@@ -110,8 +110,23 @@ A2: はい、あります。
 	Is there someone on the desk?
 
 ええい、なにもいま
+no, there is no one.
+
+**Location grammar structure**
+
+へやにやまださんがいますか？
+Is Yamada in the room?
+
+はい、やまださんがいます。
+yes, Yamada is in the room
 
 やまだはどこにいますか？
+Where is Yamada?
 
 やまださんはつくえのまいにいます。
+Yamada is in front of the desk
+
+が - emphasizes the noun (s)
+
+
 
