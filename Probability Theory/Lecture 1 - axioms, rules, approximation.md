@@ -11,3 +11,14 @@ We can add *n* mutually exclusive or disjoint events
 
 It is a bit more complicated if the events are disjoint
 
+
+### Multiplication Rule
+
+To find the intersection of two events, we need to find the outcomes that lie in the intersection
+
+Drawing without replacement
+We have
+To find the probability where both events happen 
+
+### Conditional Probability
+

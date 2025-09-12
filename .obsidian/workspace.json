@@ -299,12 +299,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Japan 1A.md",
+                "file": "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Japan 1A"
+              "title": "Lecture 1 - axioms, rules, approximation"
             }
           },
           {
@@ -562,10 +562,10 @@
   },
   "active": "bdde7cfbe883db6a",
   "lastOpenFiles": [
-    "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
     "Probability Theory/Data 140.md",
-    "Machine Learning/Lecture 4 - K-means and Probability.md",
     "Japanese/Japan 1A.md",
+    "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
+    "Machine Learning/Lecture 4 - K-means and Probability.md",
     "Probability Theory/Lecture 3 - Symmetry and Collection of Events.md",
     "Probability Theory/Lecture 2 - Random Variables.md",
     "Machine Learning/Lecture 3 - ML Mechanics.md",
