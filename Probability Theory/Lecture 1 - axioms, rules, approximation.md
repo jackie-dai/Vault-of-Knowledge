@@ -22,3 +22,12 @@ To find the probability where both events happen
 
 ### Conditional Probability
 
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2025.9.12 - 10.28am.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
