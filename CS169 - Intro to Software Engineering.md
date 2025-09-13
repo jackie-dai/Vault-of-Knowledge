@@ -13,7 +13,7 @@ There are series of error codes such as the 200, 300, 400, and 500 series, often
 ### Cookies
 HTTP is stateless, it cannot remember your credentials or if you've logged in before.
 
-We can implement states by using cookies to store our data and state
+We can implement states by using cookies to store our data and state so that the http pulls this information each time.
 
 ### CURL Commands
 
