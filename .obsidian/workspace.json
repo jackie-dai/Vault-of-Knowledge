@@ -308,6 +308,20 @@
             }
           },
           {
+            "id": "eadf94fa278e196b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS169 - Intro to Software Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CS169 - Intro to Software Engineering"
+            }
+          },
+          {
             "id": "a1d63f435eab4694",
             "type": "leaf",
             "state": {
@@ -392,7 +406,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -560,14 +574,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdde7cfbe883db6a",
+  "active": "eadf94fa278e196b",
   "lastOpenFiles": [
+    "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
+    "CS169 - Intro to Software Engineering.md",
     "Pasted image 20250912104017.png",
     "Pasted image 20250912104003.png",
     "Ink/Drawing/2025.9.12 - 10.28am.drawing",
     "Probability Theory/Data 140.md",
     "Japanese/Japan 1A.md",
-    "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
     "Machine Learning/Lecture 4 - K-means and Probability.md",
     "Probability Theory/Lecture 3 - Symmetry and Collection of Events.md",
     "Probability Theory/Lecture 2 - Random Variables.md",
@@ -607,7 +622,6 @@
     "Japanese/img/Pasted image 20250612044549.png",
     "CS186/img/Pasted image 20250511211117.png",
     "CS186/img/Pasted image 20250513141510.png",
-    "CS186/img/Pasted image 20250513134621.png",
     "Untitled.canvas"
   ]
 }
