@@ -327,7 +327,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson 4.md",
+                "file": "Japanese/Lesson 4.md",
                 "mode": "source",
                 "source": false
               },
@@ -503,7 +503,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson 4.md",
+                "file": "Japanese/Lesson 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -587,10 +587,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a1900dc699d1c59",
+  "active": "1a93259cabede32e",
   "lastOpenFiles": [
     "Japanese/Japan 1A.md",
-    "Lesson 4.md",
+    "Japanese/Lesson 4.md",
     "CS169 - Intro to Software Engineering.md",
     "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
     "Pasted image 20250912104017.png",
