@@ -18,3 +18,6 @@ How much will my output change if I change my input by a small amount
 $$
 \Delta y = \frac{\partial{f}}{\partial{x_1}}(x) * \Delta{x_1}
 $$
+If the function is simple, partial derivatives is enough.
+
+However, if the function is composed of multiple layers or steps then we need to use the **Chain Rule**
