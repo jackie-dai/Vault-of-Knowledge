@@ -21,3 +21,11 @@ $$
 If the function is simple, partial derivatives is enough.
 
 However, if the function is composed of multiple layers or steps then we need to use the **Chain Rule**
+
+$$
+\Delta y = \frac{\partial{f}}{\partial{x_1}}f_2(f_1(x)) * \Delta{x_1}
+$$
+Apply chain rule. let f1 = z1
+$$
+\Delta y = \frac{\partial{f_2}}{\partial{z_1}}f_2(f_1(x)) * \frac{\partial{f_1}}{\partial{x_1}}f_1(x)* \Delta{x_1}
+$$
