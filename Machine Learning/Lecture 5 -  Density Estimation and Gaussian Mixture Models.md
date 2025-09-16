@@ -38,3 +38,9 @@ $$
 p(D|w) = \prod_{n=1}p(x_n|w)
 $$
 x is the observation and the w is the parameter. We are trying to find a w that maximizes the chance of success 
+
+We usually take the log of the likelihood function, so we can work with summations
+
+$$
+ln p(D|w) = ln\Sigma{p(x_n | w)}
+$$
