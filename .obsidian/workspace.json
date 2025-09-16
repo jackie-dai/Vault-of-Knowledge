@@ -369,12 +369,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
+                "file": "Japanese/Japan 1A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5 -  Density Estimation and Gaussian Mixture Models"
+              "title": "Japan 1A"
             }
           },
           {
@@ -545,7 +545,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
+                "file": "Japanese/Japan 1A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -555,7 +555,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 5 -  Density Estimation and Gaussian Mixture Models"
+              "title": "Backlinks for Japan 1A"
             }
           },
           {
@@ -630,13 +630,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "06d8b39861dafb78",
   "lastOpenFiles": [
+    "Japanese/Learning Japanese.md",
+    "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
     "Untitled.md",
     "Machine Learning/Lecture 4 - K-means and Probability.md",
     "Japanese/Lesson 4.md",
-    "Japanese/Learning Japanese.md",
-    "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
     "Machine Learning/Math Prerequisites for ML.md",
     "Machine Learning/Lecture 2 - Data Tools.md",
     "Mat",

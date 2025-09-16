@@ -135,3 +135,9 @@ Yamada is in front of the desk
 
 
 
+
+にほんごははなします
+I (can) speak japanese
+
+にほんごではんします
+I am speaking using japanese
