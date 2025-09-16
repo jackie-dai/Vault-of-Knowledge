@@ -17,3 +17,15 @@ $$
 var[aX + b] = a^2 var[X]
 $$
 
+**Covariance**
+
+
+## Density Estimation
+
+Methods for estimating the best parameters for a distribution
+
+Maximum Likelihood Estimation (MLE): choosing the parameters that maximize the likelihood of the data (frequentist)
+
+
+Maximum A Posteriori (MAP) Estimation: choose the parameters that maximize the posterior given the data and the prior (Bayesian)
+- recommended when you don't have a lot of data
