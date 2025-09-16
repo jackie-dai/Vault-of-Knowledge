@@ -355,12 +355,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Prerequisites for ML.md",
+                "file": "Machine Learning/Lecture 4 - K-means and Probability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math Prerequisites for ML"
+              "title": "Lecture 4 - K-means and Probability"
+            }
+          },
+          {
+            "id": "06d8b39861dafb78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 5 -  Density Estimation and Gaussian Mixture Models"
             }
           },
           {
@@ -448,7 +462,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -531,7 +545,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Prerequisites for ML.md",
+                "file": "Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -541,7 +555,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Math Prerequisites for ML"
+              "title": "Backlinks for Lecture 5 -  Density Estimation and Gaussian Mixture Models"
             }
           },
           {
@@ -615,13 +629,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b9ae966f73204b1",
+  "active": "06d8b39861dafb78",
   "lastOpenFiles": [
+    "Machine Learning/Lecture 4 - K-means and Probability.md",
+    "Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
+    "Machine Learning/Math Prerequisites for ML.md",
     "Machine Learning/Lecture 2 - Data Tools.md",
-    "Math Prerequisites for ML.md",
     "Mat",
     "Machine Learning/Lecture 3 - ML Mechanics.md",
-    "Machine Learning/Lecture 4 - K-means and Probability.md",
     "Machine Learning/img/Pasted image 20250904142758.png",
     "Machine Learning/img/Pasted image 20250904144904.png",
     "Machine Learning/img",
@@ -657,7 +672,6 @@
     "Math 53/16.4 Green's Theorem.md",
     "Math 53/16.1 Vector Fields.md",
     "Math 53/14.8 Lagrange Multipliers.md",
-    "Math 53/14.2 Limits and Continuity.md",
     "Japanese/img/Pasted image 20250612044206.png",
     "Japanese/img/Pasted image 20250612045458.png",
     "Japanese/img/Pasted image 20250612044549.png",
