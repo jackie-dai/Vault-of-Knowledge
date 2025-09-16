@@ -29,3 +29,5 @@ Maximum Likelihood Estimation (MLE): choosing the parameters that maximize the l
 
 Maximum A Posteriori (MAP) Estimation: choose the parameters that maximize the posterior given the data and the prior (Bayesian)
 - recommended when you don't have a lot of data
+
+Most of ML uses MLE because there is usually abundant amount of data.
