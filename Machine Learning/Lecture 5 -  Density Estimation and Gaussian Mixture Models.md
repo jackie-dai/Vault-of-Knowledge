@@ -31,3 +31,10 @@ Maximum A Posteriori (MAP) Estimation: choose the parameters that maximize the p
 - recommended when you don't have a lot of data
 
 Most of ML uses MLE because there is usually abundant amount of data.
+
+**The Likelihood Function** describes the probability of the observed data under a particular distribution.
+
+$$
+p(D|w) = \prod_{n=1}p(x_n|w)
+$$
+x is the observation and the w is the parameter. We are trying to find a w that maximizes the chance of success 

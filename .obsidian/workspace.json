@@ -369,12 +369,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Lesson 4.md",
+                "file": "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 4"
+              "title": "Lecture 5 -  Density Estimation and Gaussian Mixture Models"
             }
           },
           {
@@ -545,7 +545,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Lesson 4.md",
+                "file": "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -555,7 +555,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lesson 4"
+              "title": "Backlinks for Lecture 5 -  Density Estimation and Gaussian Mixture Models"
             }
           },
           {
@@ -632,9 +632,11 @@
   },
   "active": "1a93259cabede32e",
   "lastOpenFiles": [
-    "Japanese/Learning Japanese.md",
-    "Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
+    "Untitled.md",
     "Machine Learning/Lecture 4 - K-means and Probability.md",
+    "Japanese/Lesson 4.md",
+    "Japanese/Learning Japanese.md",
+    "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
     "Machine Learning/Math Prerequisites for ML.md",
     "Machine Learning/Lecture 2 - Data Tools.md",
     "Mat",
@@ -648,7 +650,6 @@
     "CS169/Lecture 4 - Intro to Rails.md",
     "CS169/CS169 - Intro to Software Engineering.md",
     "CS169/CS169 - Software Engineering.md",
-    "Japanese/Lesson 4.md",
     "Japanese/Japan 1A.md",
     "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
     "Ink/Drawing/2025.9.12 - 10.28am.drawing",
@@ -672,7 +673,6 @@
     "Math 53/14.5 The Chain Rule.md",
     "Math 53/16.5 Curl and Divergence.md",
     "Math 53/16.4 Green's Theorem.md",
-    "Math 53/16.1 Vector Fields.md",
     "Japanese/img/Pasted image 20250612044206.png",
     "Japanese/img/Pasted image 20250612045458.png",
     "Japanese/img/Pasted image 20250612044549.png",
