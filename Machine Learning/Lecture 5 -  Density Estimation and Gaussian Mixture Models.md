@@ -53,4 +53,4 @@ X-N(x|\mu, \sigma^2)
 $$
 
 
-$E[X] = \mu$, $var[X] = \sigma
+$E[X] = \mu$, $Var[X] = \sigma^2$
