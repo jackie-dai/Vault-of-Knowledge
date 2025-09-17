@@ -44,3 +44,13 @@ We usually take the log of the likelihood function, so we can work with summatio
 $$
 ln p(D|w) = ln\Sigma{p(x_n | w)}
 $$
+
+
+### Normal (Gaussian) Distribution
+
+$$
+X-N(x|\mu, \sigma^2)
+$$
+
+
+$E[X] = \mu$, $var[X] = \sigma
