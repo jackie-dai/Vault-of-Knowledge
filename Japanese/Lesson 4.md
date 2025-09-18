@@ -1,5 +1,6 @@
 
 
+
 こひをのみます
 
 ごほんをたべます
@@ -36,3 +37,5 @@ fun
 subject は time に place で object を verb/action
 
 place へ(e) action
+
+だれといしょに？たべますか
