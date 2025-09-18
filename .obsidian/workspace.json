@@ -411,12 +411,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Lesson 4.md",
+                "file": "Japanese/Japan 1A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 4"
+              "title": "Japan 1A"
             }
           },
           {
@@ -587,7 +587,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Lesson 4.md",
+                "file": "Japanese/Japan 1A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -597,7 +597,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lesson 4"
+              "title": "Backlinks for Japan 1A"
             }
           },
           {
@@ -674,8 +674,8 @@
   },
   "active": "f801e79063eeaadd",
   "lastOpenFiles": [
-    "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
     "Japanese/Lesson 4.md",
+    "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
     "Japanese/Japan 1A.md",
     "Japanese/Learning Japanese.md",
     "Probability Theory/Lecture 6 - Expected Values.md",
