@@ -411,12 +411,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Japan 1A.md",
+                "file": "Japanese/Lesson 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Japan 1A"
+              "title": "Lesson 4"
             }
           },
           {
@@ -674,9 +674,9 @@
   },
   "active": "f801e79063eeaadd",
   "lastOpenFiles": [
+    "Japanese/Japan 1A.md",
     "Japanese/Lesson 4.md",
     "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
-    "Japanese/Japan 1A.md",
     "Japanese/Learning Japanese.md",
     "Probability Theory/Lecture 6 - Expected Values.md",
     "CS186/Concurrency & Transactions I.md",

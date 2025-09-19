@@ -39,3 +39,13 @@ subject は time に place で object を verb/action
 place へ(e) action
 
 だれといしょに？たべますか
+
+
+Never use two を in the same sentence
+にほんごをべんきょ（を）します。
+- drop the を
+
+or you can use this 
+にほんごのべんきょをします
+
+なにかたべましよう
