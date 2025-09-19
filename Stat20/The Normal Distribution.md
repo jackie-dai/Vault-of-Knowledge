@@ -38,3 +38,5 @@ Z tables hold the positive z score. since the normal distribution is symmetric w
 
 ### IQR
 The IQR is equal to the **Upper Quartile (75th Percentile)** - **Lower Quartile (25th Percentile)** --in order words the range of the upper and lower quartiles
+
+![[Pasted image 20250919141031.png]]
