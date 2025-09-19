@@ -425,12 +425,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Lecture 4 - K-means and Probability.md",
+                "file": "Stat20/The Normal Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 - K-means and Probability"
+              "title": "The Normal Distribution"
             }
           },
           {
@@ -688,6 +688,7 @@
   },
   "active": "6d7df489af3f6c66",
   "lastOpenFiles": [
+    "Machine Learning/Lecture 4 - K-means and Probability.md",
     "Stat20/The Normal Distribution.md",
     "Stat20/img/Pasted image 20250919141409.png",
     "Stat20/img",
@@ -706,7 +707,6 @@
     "Software Engineering/CS169 - Intro to Software Engineering.md",
     "Probability Theory/img/Lecture 4 - Binomial and Related Counts; a Poisson Limit.md",
     "Probability Theory/Lecture 5 - Independence and Poissonization.md",
-    "Machine Learning/Lecture 4 - K-means and Probability.md",
     "Machine Learning/Math Prerequisites for ML.md",
     "Machine Learning/Lecture 2 - Data Tools.md",
     "Mat",
