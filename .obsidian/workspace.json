@@ -425,12 +425,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat20/The Normal Distribution.md",
+                "file": "Machine Learning/Lecture 4 - K-means and Probability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Normal Distribution"
+              "title": "Lecture 4 - K-means and Probability"
             }
           },
           {
@@ -688,11 +688,11 @@
   },
   "active": "6d7df489af3f6c66",
   "lastOpenFiles": [
+    "Stat20/The Normal Distribution.md",
     "Stat20/img/Pasted image 20250919141409.png",
     "Stat20/img",
     "Stat20/img/Pasted image 20250919141031.png",
     "Stat20/Hypothesis Testing.md",
-    "Stat20/The Normal Distribution.md",
     "Japanese/Lesson 4.md",
     "Japanese/Japan 1A.md",
     "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
@@ -733,7 +733,6 @@
     "Japanese/img/Pasted image 20250612044206.png",
     "Japanese/img/Pasted image 20250612045458.png",
     "Japanese/img/Pasted image 20250612044549.png",
-    "CS186/img/Pasted image 20250511211117.png",
     "Untitled.canvas"
   ]
 }
