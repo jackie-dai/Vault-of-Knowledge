@@ -48,4 +48,5 @@ Never use two を in the same sentence
 or you can use this 
 にほんごのべんきょをします
 
-なにかたべましよう
+何かたべましよう！
+lets go out to eat!
