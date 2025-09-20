@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f72bdd2417c51631",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "CS186/img/Pasted image 20250511211117.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250511211117"
-            }
-          },
-          {
             "id": "1db307a06096b8b9",
             "type": "leaf",
             "state": {
@@ -32,493 +20,8 @@
               "icon": "lucide-file",
               "title": "Learning Japanese"
             }
-          },
-          {
-            "id": "f9599fc60906149e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Useful Phrases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Useful Phrases"
-            }
-          },
-          {
-            "id": "f9b332156d4512f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese History/Japanese History.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Japanese History"
-            }
-          },
-          {
-            "id": "fd9b2f65041bf496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese History/Quiz 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quiz 1"
-            }
-          },
-          {
-            "id": "d51ac3ff7e596d26",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250524202938.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250524202938"
-            }
-          },
-          {
-            "id": "20c24f94bd73a7ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Skincare.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skincare"
-            }
-          },
-          {
-            "id": "1ca555423fceee64",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Chinese/Tones.png"
-              },
-              "icon": "lucide-image",
-              "title": "Tones"
-            }
-          },
-          {
-            "id": "4bf7aad813ca968a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
-          },
-          {
-            "id": "86c3c1c5e21ecc5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EECS127 Optimization/1. Optimization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Optimization"
-            }
-          },
-          {
-            "id": "50261de1313aa0f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EECS127 Optimization/Linear Algebra Review.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linear Algebra Review"
-            }
-          },
-          {
-            "id": "1c23bc0f8e9260b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS169/CS169 - Software Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CS169 - Software Engineering"
-            }
-          },
-          {
-            "id": "0bcea1f662afa398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Japan 1A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Japan 1A"
-            }
-          },
-          {
-            "id": "7b75028a0292b257",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS189/CS189 - Introduction to Machine Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CS189 - Introduction to Machine Learning"
-            }
-          },
-          {
-            "id": "1396d979a9317957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS189/CS189 - Introduction to Machine Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CS189 - Introduction to Machine Learning"
-            }
-          },
-          {
-            "id": "7e908ade40f22fa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability Theory/Data 140.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data 140"
-            }
-          },
-          {
-            "id": "15f472d1a805b4c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS189/CS189 - Introduction to Machine Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CS189 - Introduction to Machine Learning"
-            }
-          },
-          {
-            "id": "a3a0700d4a08427e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS189/Lecture 2 - Data Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 2 - Data Tools"
-            }
-          },
-          {
-            "id": "e8e88e82538ef26f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 3 - ML Mechanics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 3 - ML Mechanics"
-            }
-          },
-          {
-            "id": "521c919dcdef2ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability Theory/Lecture 2 - Random Variables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 2 - Random Variables"
-            }
-          },
-          {
-            "id": "4df569e3fab38a5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Japan 1A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Japan 1A"
-            }
-          },
-          {
-            "id": "bdde7cfbe883db6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 1 - axioms, rules, approximation"
-            }
-          },
-          {
-            "id": "eadf94fa278e196b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Japan 1A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Japan 1A"
-            }
-          },
-          {
-            "id": "83c960b723d6d956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/CS169 - Intro to Software Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CS169 - Intro to Software Engineering"
-            }
-          },
-          {
-            "id": "40b49bfb1c0cd9f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Lecture 2 - Data Tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 2 - Data Tools"
-            }
-          },
-          {
-            "id": "6b9ae966f73204b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Lecture 4 - K-means and Probability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 4 - K-means and Probability"
-            }
-          },
-          {
-            "id": "06d8b39861dafb78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Japan 1A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Japan 1A"
-            }
-          },
-          {
-            "id": "7ed1ed09a2da688c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability Theory/Lecture 6 - Expected Values.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 6 - Expected Values"
-            }
-          },
-          {
-            "id": "6876f9f27563ff5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability Theory/Lecture 5 - Independence and Poissonization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 5 - Independence and Poissonization"
-            }
-          },
-          {
-            "id": "f801e79063eeaadd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat20/Hypothesis Testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypothesis Testing"
-            }
-          },
-          {
-            "id": "6d7df489af3f6c66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat20/The Normal Distribution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Normal Distribution"
-            }
-          },
-          {
-            "id": "a1d63f435eab4694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16.4 Green's Theorem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16.4 Green's Theorem"
-            }
-          },
-          {
-            "id": "0d64a4bb2b39a10b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16.3 The Fundamental Theorem of Line Integrals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16.3 The Fundamental Theorem of Line Integrals"
-            }
-          },
-          {
-            "id": "a5b70e4bd168fb9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16.1 Vector Fields.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16.1 Vector Fields"
-            }
-          },
-          {
-            "id": "b0ab0e081005eba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16.2 Line Integrals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16.2 Line Integrals"
-            }
-          },
-          {
-            "id": "dfae9109b4e4bc8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS186/NoSQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NoSQL"
-            }
-          },
-          {
-            "id": "fb703a607032d8d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 53/14.6 Directional Derivatives and Gradient Vector.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14.6 Directional Derivatives and Gradient Vector"
-            }
           }
-        ],
-        "currentTab": 30
+        ]
       }
     ],
     "direction": "vertical"
@@ -686,48 +189,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d7df489af3f6c66",
+  "active": "1db307a06096b8b9",
   "lastOpenFiles": [
+    "Japanese/Useful Phrases.md",
+    "Japanese History/Japanese History.md",
+    "Japanese History/Quiz 1.md",
+    "Misc/Skincare.md",
+    "Chinese/Tones.png",
+    "EECS127 Optimization/1. Optimization.md",
+    "EECS127 Optimization/Linear Algebra Review.md",
+    "Japanese/Japan 1A.md",
+    "Probability Theory/Data 140.md",
+    "Probability Theory/Lecture 2 - Random Variables.md",
+    "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
+    "Software Engineering/CS169 - Intro to Software Engineering.md",
+    "Machine Learning/Lecture 2 - Data Tools.md",
     "Machine Learning/Lecture 4 - K-means and Probability.md",
+    "Probability Theory/Lecture 6 - Expected Values.md",
+    "Probability Theory/Lecture 5 - Independence and Poissonization.md",
+    "Stat20/Hypothesis Testing.md",
     "Stat20/The Normal Distribution.md",
+    "CS186/NoSQL.md",
+    "Math 53/14.6 Directional Derivatives and Gradient Vector.md",
     "Stat20/img/Pasted image 20250919141409.png",
     "Stat20/img",
     "Stat20/img/Pasted image 20250919141031.png",
-    "Stat20/Hypothesis Testing.md",
     "Japanese/Lesson 4.md",
-    "Japanese/Japan 1A.md",
     "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
     "Japanese/Learning Japanese.md",
-    "Probability Theory/Lecture 6 - Expected Values.md",
     "CS186/Concurrency & Transactions I.md",
     "CS186/CS186 - Intro to Database Systems.md",
     "CS186/Concurrency & Transactions II.md",
     "Software Engineering/Lecture 4 - Intro to Rails.md",
-    "Software Engineering/CS169 - Software Engineering.md",
-    "Software Engineering/CS169 - Intro to Software Engineering.md",
-    "Probability Theory/img/Lecture 4 - Binomial and Related Counts; a Poisson Limit.md",
-    "Probability Theory/Lecture 5 - Independence and Poissonization.md",
-    "Machine Learning/Math Prerequisites for ML.md",
-    "Machine Learning/Lecture 2 - Data Tools.md",
     "Mat",
-    "Machine Learning/Lecture 3 - ML Mechanics.md",
     "Machine Learning/img/Pasted image 20250904142758.png",
     "Machine Learning/img/Pasted image 20250904144904.png",
     "Machine Learning/img",
     "Probability Theory/img/Pasted image 20250912104017.png",
     "Probability Theory/img/Pasted image 20250912104003.png",
     "Probability Theory/img",
-    "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
     "Ink/Drawing/2025.9.12 - 10.28am.drawing",
-    "Probability Theory/Data 140.md",
-    "Probability Theory/Lecture 3 - Symmetry and Collection of Events.md",
-    "Probability Theory/Lecture 2 - Random Variables.md",
-    "Machine Learning/CS189 - Introduction to Machine Learning.md",
-    "Chinese/Tones.png",
     "Probability Theory",
     "Machine Learning",
     "Software Engineering",
-    "EECS127 Optimization/Linear Algebra Review.md",
     "Ink/Drawing/2025.8.24 - 21.53pm.drawing",
     "Ink/Drawing",
     "Japanese/img/Pasted image 20250612044206.png",
