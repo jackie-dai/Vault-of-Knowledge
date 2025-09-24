@@ -25,14 +25,12 @@
             "id": "ae1664604f87b564",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Software Engineering/Ruby on Rails.md",
-                "mode": "source",
-                "source": false
+                "file": "Chinese/Tones.png"
               },
-              "icon": "lucide-file",
-              "title": "Ruby on Rails"
+              "icon": "lucide-image",
+              "title": "Tones"
             }
           }
         ],
@@ -204,11 +202,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "ae1664604f87b564",
   "lastOpenFiles": [
+    "Chinese/Cantonese.md",
+    "Software Engineering/Ruby on Rails.md",
     "Software Engineering/Pasted image 20250920230059.png",
     "Japanese/Learning Japanese.md",
-    "Software Engineering/Ruby on Rails.md",
     "Japanese/Useful Phrases.md",
     "Japanese History/Japanese History.md",
     "Japanese History/Quiz 1.md",
@@ -251,7 +250,6 @@
     "Ink/Drawing",
     "Japanese/img/Pasted image 20250612044206.png",
     "Japanese/img/Pasted image 20250612045458.png",
-    "Japanese/img/Pasted image 20250612044549.png",
     "Untitled.canvas"
   ]
 }
