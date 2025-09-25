@@ -25,12 +25,14 @@
             "id": "ae1664604f87b564",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Chinese/Tones.png"
+                "file": "Japanese/Useful Phrases.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Tones"
+              "icon": "lucide-file",
+              "title": "Useful Phrases"
             }
           }
         ],
@@ -204,18 +206,19 @@
   },
   "active": "ae1664604f87b564",
   "lastOpenFiles": [
+    "Japanese/Lesson 4.md",
+    "Japanese/Learning Japanese.md",
+    "Japanese/Japan 1A.md",
+    "Chinese/Tones.png",
     "Chinese/Cantonese.md",
     "Software Engineering/Ruby on Rails.md",
     "Software Engineering/Pasted image 20250920230059.png",
-    "Japanese/Learning Japanese.md",
     "Japanese/Useful Phrases.md",
     "Japanese History/Japanese History.md",
     "Japanese History/Quiz 1.md",
     "Misc/Skincare.md",
-    "Chinese/Tones.png",
     "EECS127 Optimization/1. Optimization.md",
     "EECS127 Optimization/Linear Algebra Review.md",
-    "Japanese/Japan 1A.md",
     "Probability Theory/Data 140.md",
     "Probability Theory/Lecture 2 - Random Variables.md",
     "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
@@ -231,10 +234,8 @@
     "Stat20/img/Pasted image 20250919141409.png",
     "Stat20/img",
     "Stat20/img/Pasted image 20250919141031.png",
-    "Japanese/Lesson 4.md",
     "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
     "CS186/Concurrency & Transactions I.md",
-    "CS186/CS186 - Intro to Database Systems.md",
     "Mat",
     "Machine Learning/img/Pasted image 20250904142758.png",
     "Machine Learning/img/Pasted image 20250904144904.png",
