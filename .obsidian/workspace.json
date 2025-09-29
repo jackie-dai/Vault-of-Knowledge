@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability Theory/Lecture 5 - Independence and Poissonization.md",
+                "file": "Probability Theory/Lecture 6 - Expected Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5 - Independence and Poissonization"
+              "title": "Lecture 6 - Expected Values"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "da1e3d0063f66abb",
   "lastOpenFiles": [
-    "Probability Theory/Lecture 3 - Symmetry and Collection of Events.md",
     "Probability Theory/Lecture 5 - Independence and Poissonization.md",
+    "Probability Theory/Lecture 3 - Symmetry and Collection of Events.md",
     "Probability Theory/Lecture 6 - Expected Values.md",
     "Japanese/Learning Japanese.md",
     "Japanese/Useful Phrases.md",
