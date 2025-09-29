@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f4fab3f5d07afc10",
+        "id": "8d07ea65c65b4015",
         "type": "tabs",
         "children": [
           {
-            "id": "1db307a06096b8b9",
+            "id": "da1e3d0063f66abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Learning Japanese.md",
+                "file": "Probability Theory/Lecture 6 - Expected Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Japanese"
-            }
-          },
-          {
-            "id": "ae1664604f87b564",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Useful Phrases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Useful Phrases"
+              "title": "Lecture 6 - Expected Values"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,16 +189,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae1664604f87b564",
+  "active": "da1e3d0063f66abb",
   "lastOpenFiles": [
-    "Japanese/Lesson 4.md",
     "Japanese/Learning Japanese.md",
+    "Japanese/Useful Phrases.md",
+    "Japanese/Lesson 4.md",
     "Japanese/Japan 1A.md",
     "Chinese/Tones.png",
     "Chinese/Cantonese.md",
     "Software Engineering/Ruby on Rails.md",
     "Software Engineering/Pasted image 20250920230059.png",
-    "Japanese/Useful Phrases.md",
     "Japanese History/Japanese History.md",
     "Japanese History/Quiz 1.md",
     "Misc/Skincare.md",

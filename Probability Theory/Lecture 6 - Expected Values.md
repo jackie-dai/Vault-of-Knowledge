@@ -18,3 +18,13 @@ TODO: the algebra after plugging in the Poisson formula into the expected value 
 
 Final answer: u
 
+## Tail Sum Formula
+
+
+## Geometric
+In a sequence of i.i.d Bernoulli trials, we can use the geometric series to find E(X) , where X is the number of trials till the first success
+
+$$
+E[X] = \sum_{k=0}^{\infty}q^k = \frac{1}{1-q} = \frac{1}{p}
+$$
+where $$q = 1-p$$
