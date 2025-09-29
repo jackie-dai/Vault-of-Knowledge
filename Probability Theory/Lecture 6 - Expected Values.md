@@ -28,3 +28,9 @@ $$
 E[X] = \sum_{k=0}^{\infty}q^k = \frac{1}{1-q} = \frac{1}{p}
 $$
 where $$q = 1-p$$
+
+## Linearity of Expectation
+
+### Linearity of functions
+
+### Non-linearity of functions
