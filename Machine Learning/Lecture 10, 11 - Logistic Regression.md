@@ -12,7 +12,19 @@ kinds of classifications
 
 
 **Setup**
-Map input vector x to one of the k discrete classes                                                                                                                                                                                                                                                                                                                                                                                                                    
+Map input vector x to one of the k discrete classes               
+
+**3 Approaches in solving classification**
+1. Discriminant functions
+	1. direct mapping (SVM)
+2. Generative probabilistic models
+	1. Model conditional probability and apply bayes rule
+	2. i.e. ChatGPT
+3. Discriminative probabilistic models
+	1. Model conditional probability directly
+	2. Ex. Logistic regression
+
+
 
 
 
