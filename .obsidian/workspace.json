@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Studio"
             }
+          },
+          {
+            "id": "0f0fce24339348bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 10, 11 - Logistic Regression"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,11 +218,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2426bd3e1e55951e",
+  "active": "0f0fce24339348bf",
   "lastOpenFiles": [
-    "Pasted image 20250929182034.png",
-    "Probability Theory/Lecture 6 - Expected Values.md",
+    "Photography/Img/Pasted image 20250929182034.png",
+    "Photography/Img",
+    "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
     "Photography/Studio.md",
+    "Probability Theory/Lecture 6 - Expected Values.md",
     "Photography",
     "Probability Theory/Lecture 5 - Independence and Poissonization.md",
     "Probability Theory/Lecture 3 - Symmetry and Collection of Events.md",
@@ -234,7 +250,6 @@
     "Stat20/Hypothesis Testing.md",
     "Stat20/The Normal Distribution.md",
     "CS186/NoSQL.md",
-    "Math 53/14.6 Directional Derivatives and Gradient Vector.md",
     "Stat20/img/Pasted image 20250919141409.png",
     "Stat20/img",
     "Stat20/img/Pasted image 20250919141031.png",
@@ -249,9 +264,7 @@
     "Probability Theory",
     "Machine Learning",
     "Software Engineering",
-    "Ink/Drawing/2025.8.24 - 21.53pm.drawing",
     "Japanese/img/Pasted image 20250612044206.png",
-    "Japanese/img/Pasted image 20250612045458.png",
     "Untitled.canvas"
   ]
 }
