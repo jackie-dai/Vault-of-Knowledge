@@ -24,13 +24,15 @@ Map input vector x to one of the k discrete classes
 	1. Model conditional probability directly
 	2. Ex. Logistic regression
 
+Finding
+$$
+p(C_1|X) = \frac{1}{1+exp(-w^Tx)}
+$$
 
-
-
-
-
-
-
+Sigmoid function *or logistic function*
+$$
+\frac{1}{1+e^-a}
+$$
 
 
 
