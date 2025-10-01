@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
+                "file": "Japanese/Lesson 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 10, 11 - Logistic Regression"
+              "title": "Lesson 4"
+            }
+          },
+          {
+            "id": "92c83c41d401984d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 6"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,10 +232,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f0fce24339348bf",
+  "active": "92c83c41d401984d",
   "lastOpenFiles": [
-    "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
+    "Japanese/Lesson 4.md",
+    "Lesson 6.md",
+    "Japanese History/Japanese History.md",
     "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
+    "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
     "Photography/Img/Pasted image 20250929182034.png",
     "Photography/Img",
     "Photography/Studio.md",
@@ -231,13 +248,11 @@
     "Probability Theory/Lecture 3 - Symmetry and Collection of Events.md",
     "Japanese/Learning Japanese.md",
     "Japanese/Useful Phrases.md",
-    "Japanese/Lesson 4.md",
     "Japanese/Japan 1A.md",
     "Chinese/Tones.png",
     "Chinese/Cantonese.md",
     "Software Engineering/Ruby on Rails.md",
     "Software Engineering/Pasted image 20250920230059.png",
-    "Japanese History/Japanese History.md",
     "Japanese History/Quiz 1.md",
     "Misc/Skincare.md",
     "EECS127 Optimization/1. Optimization.md",
@@ -250,7 +265,6 @@
     "Machine Learning/Lecture 4 - K-means and Probability.md",
     "Stat20/Hypothesis Testing.md",
     "Stat20/The Normal Distribution.md",
-    "CS186/NoSQL.md",
     "Stat20/img/Pasted image 20250919141409.png",
     "Stat20/img",
     "Stat20/img/Pasted image 20250919141031.png",
