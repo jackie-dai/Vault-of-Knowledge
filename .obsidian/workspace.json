@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability Theory/Lecture 10, 11 - Markov Chains.md",
+                "file": "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 10, 11 - Markov Chains"
+              "title": "Lecture 1 - axioms, rules, approximation"
             }
           }
         ],
@@ -248,9 +248,10 @@
   },
   "active": "c56a794e70a00e5f",
   "lastOpenFiles": [
+    "Stat20/The Normal Distribution.md",
+    "Probability Theory/Lecture 10, 11 - Markov Chains.md",
     "Pasted image 20251003121412.png",
     "Probability Theory/Lecture 6 - Expected Values.md",
-    "Probability Theory/Lecture 10, 11 - Markov Chains.md",
     "Lesson 6.md",
     "Japanese/Lesson 4.md",
     "Japanese History/Japanese History.md",
@@ -293,7 +294,6 @@
     "Probability Theory",
     "Machine Learning",
     "Software Engineering",
-    "Japanese/img/Pasted image 20250612044206.png",
     "Untitled.canvas"
   ]
 }

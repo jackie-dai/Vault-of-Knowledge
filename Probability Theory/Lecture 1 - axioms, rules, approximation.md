@@ -33,6 +33,7 @@ $$
 $$
 P(\texttt{B on second draw}) = \frac{n\texttt{num of favorable outcomes}} {\texttt{total num of outcomes}} = \frac{1}{2}
 $$
+
 ### Conditional Probability
 P(B | A) ~ the probability that B happens given that A happened
 

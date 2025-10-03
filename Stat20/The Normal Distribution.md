@@ -52,3 +52,18 @@ $$
 L= \frac{p}{100} * (n+1)
 $$
 
+## Correlation Coefficient
+To find the correlation coefficient r
+
+r = average of (standard units of x * standard units of y)
+
+To find standard units, we need to first compute the SD
+
+1. Find average of list x
+2. RMS of deviations of x
+
+Next, we take the deviations and divide by the SD
+
+Finally, we take the product of the standard units of x and standard units of y and average to get r.
+
+
