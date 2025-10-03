@@ -7,6 +7,13 @@
 i communicates with j if  i->j and j->i 
 
 If all chains communicate with each other, then the chain is irreducible.
+## Aperiodicity
+Periodicity is the return time for i
+
+*In a irreducible chain, all states have the same period.*
+
+An aperiodic chain  is in which all 
+
 
 ### Metropolis - Hastings Algorithm
 
