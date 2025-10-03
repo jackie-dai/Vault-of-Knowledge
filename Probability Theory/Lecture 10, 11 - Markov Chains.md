@@ -1,4 +1,12 @@
 
+## Transition matrix
+
+## Irreducibility
+ i -> j indicates there is a path from state i to state j
+ 
+i communicates with j if  i->j and j->i 
+
+If all chains communicate with each other, then the chain is irreducible.
 
 ### Metropolis - Hastings Algorithm
 
@@ -18,3 +26,5 @@ Algorithm:
 			1. compute acceptance ratio
 				1. r(x_i,y) = score(Y) / score(X_i)
 			2. accept the step with probability = r(X_i->Y), reject otherwise
+
+
