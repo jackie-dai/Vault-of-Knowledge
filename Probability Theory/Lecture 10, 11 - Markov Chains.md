@@ -12,7 +12,7 @@ Periodicity is the return time for i
 
 *In a irreducible chain, all states have the same period.*
 
-An aperiodic chain  is in which all 
+An aperiodic chain is one in which return times are not multiples of some d > 1.
 
 
 ### Metropolis - Hastings Algorithm
