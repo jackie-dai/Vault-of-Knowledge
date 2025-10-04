@@ -27,13 +27,15 @@ Drawing two cards w/o replacement, what is the probability we 1st draw = red and
 To find the probability that both events occur we first find the probability of the first event draw 1 = red
 
 $$
-P(\texttt{R on first draw}) = \frac{n\texttt{um of favorable outcomes}} {\texttt{total num of outcomes}} = \frac{2}{6}
+P(\texttt{R on first draw}) = \frac{n\texttt{um of favorable outcomes}} {\texttt{total num of outcomes}} = \frac{2}{6} = \frac{1}{3}
 $$
 
 $$
-P(\texttt{B on second draw}) = \frac{n\texttt{num of favorable outcomes}} {\texttt{total num of outcomes}} = \frac{1}{2}
+P(\texttt{B on second draw | R on first draw}) = \frac{n\texttt{num of favorable outcomes}} {\texttt{total num of outcomes}} = \frac{1}{2}
 $$
-
+$$
+P(\texttt{RB}) = \frac{1}{3} * \frac{1}{2} = \frac{1}{6}
+$$
 ### Conditional Probability
 P(B | A) ~ the probability that B happens given that A happened
 
