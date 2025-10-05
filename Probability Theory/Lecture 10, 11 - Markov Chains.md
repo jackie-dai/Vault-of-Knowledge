@@ -27,6 +27,17 @@ $$
 Balance is defined as the proportion leaving j equals the proportion entering j.
 
 
+$$
+\pi=\pi*P
+$$
+where P = transition matrix
+
+and
+
+$$
+\pi=[\pi(1),\pi(2),...,\pi(n)]
+$$
+$\pi$ = 1
 
 
 
