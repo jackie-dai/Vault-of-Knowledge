@@ -41,7 +41,9 @@ $\pi$ = 1
 
 The detailed balance equations might not have a solution. But if they do, then it is the stationary distribution of the chain
 
-
+For all irreducible birth and death chains,
+![[Pasted image 20251005123550.png]]
+after finding the stationary probability for one, we can find the rest with this equation
 
 ### Metropolis - Hastings Algorithm
 
