@@ -39,7 +39,7 @@ $$
 $$
 $\pi$ = 1
 
-
+The detailed balance equations might not have a solution. But if they do, then it is the stationary distribution of the chain
 
 
 
