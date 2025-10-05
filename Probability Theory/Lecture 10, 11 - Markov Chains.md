@@ -45,6 +45,10 @@ For all irreducible birth and death chains,
 ![[Pasted image 20251005123550.png]]
 after finding the stationary probability for one, we can find the rest with this equation
 
+We can only apply this if the chain is irreducible AND birth and death chain
+
+irreducible: all states communicate with each other
+birth and death rate: transitions are only between neighbors (state 4 can't go to state 1)
 ### Metropolis - Hastings Algorithm
 
 Goal: design a procedure for sampling from any distribution, without enumerating P, only knowing pi up to some scaling constant
