@@ -15,6 +15,19 @@ Periodicity is the return time for i
 An aperiodic chain is one in which return times are not multiples of some d > 1.
 
 
+### Long Run Behavior
+
+### Balance
+
+$$
+	\pi(k) * P(k, j)
+$$
+= the proportion of 
+
+
+
+
+
 ### Metropolis - Hastings Algorithm
 
 Goal: design a procedure for sampling from any distribution, without enumerating P, only knowing pi up to some scaling constant
