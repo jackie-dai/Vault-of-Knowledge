@@ -2,8 +2,15 @@
 ### Vocab
 古い
 ふるい
+old
 
 
+
+むずかしい
+difficult
+
+おもしろい
+Interesting
 
 ### Grammar Structures
 
@@ -13,6 +20,9 @@ Adjective +くありません
 *take the i out of the end of the adjective*
 
 
-おいしくて高い
+Joining two positive or two negatives adjectives together
+おいしくて安いです
 
+Joining a positive and negative adjective
 おいしいですが、高いです
+
