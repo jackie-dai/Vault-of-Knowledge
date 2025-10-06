@@ -69,3 +69,19 @@ Algorithm:
 			2. accept the step with probability = r(X_i->Y), reject otherwise
 
 
+### Metropolis Algorithm (from textbook)
+
+S = all decoders
+Q = transition matrix on state space S
+
+The acceptance ratio
+$$
+r(i, j) = \frac{\pi(j)}{\pi(i)}
+$$
+
+	if r(i, j) >= 1 
+		then move to j
+	otherwise r(i, j) < 1,
+		stay at i
+
+Repeat this algorithm into we arrive at the best decoder
