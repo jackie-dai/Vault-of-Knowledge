@@ -28,3 +28,5 @@ Joining two positive or two negatives adjectives together
 Joining a positive and negative adjective
 おいしいですが、高いです
 
+
+Topic は subject が adjective
