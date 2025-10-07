@@ -36,6 +36,11 @@ Joining a positive and negative adjective
 
 うるさくてきらいでしがべんりです。
 
+
+日本語のせんせいはきれい**で**いいです。
+
+negating なadjectives
+ふるくありません。
 #### Topic は subject が adjective
 
 #### な
