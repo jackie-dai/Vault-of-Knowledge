@@ -5,12 +5,14 @@
 old
 
 
-
 むずかしい
 difficult
 
 おもしろい
 Interesting
+
+どうですか
+What do you think?
 
 ### Grammar Structures
 
