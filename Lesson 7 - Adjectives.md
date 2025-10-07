@@ -16,6 +16,9 @@ What do you think?
 べんり
 Convenient 
 
+うるさい
+noisy
+
 ### Grammar Structures
 
 It is not + adjective
@@ -31,9 +34,10 @@ drop the い
 Joining a positive and negative adjective
 おいしいですが、高いです
 
+うるさくてきらいでしがべんりです。
 
-Topic は subject が adjective
+#### Topic は subject が adjective
 
-な
+#### な
+げんきなです
 
-げんきなですか
