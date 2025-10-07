@@ -39,7 +39,11 @@ Joining a positive and negative adjective
 
 日本語のせんせいはきれい**で**いいです。
 
-negating なadjectives
+negating な adjectives
+じゃありません。
+
+
+negating い adjectives
 ふるくありません。
 #### Topic は subject が adjective
 
