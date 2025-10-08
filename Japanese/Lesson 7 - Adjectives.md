@@ -25,8 +25,16 @@ tall (in height)
 せが ひくい
 short (in height)
 
-**Body Parts**
+ながい
+long
 
+**Body Parts**
+み
+はな
+みみ
+かみ
+あたみ
+くち
 ### Grammar Structures
 
 It is not + adjective
