@@ -19,6 +19,14 @@ Convenient
 うるさい
 noisy
 
+せが たかい
+tall (in height)
+
+せが ひくい
+short (in height)
+
+**Body Parts**
+
 ### Grammar Structures
 
 It is not + adjective

@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability Theory/Lecture 12 - Standard Deviation and Variance.md",
+                "file": "Japanese/Lesson 7 - Adjectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 12 - Standard Deviation and Variance"
+              "title": "Lesson 7 - Adjectives"
             }
           }
         ],
@@ -288,10 +288,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "de9ef171a2faa0d9",
   "lastOpenFiles": [
-    "Machine Learning/Lecture 12 - Optimization and Gradient Descent.md",
     "Probability Theory/Lecture 12 - Standard Deviation and Variance.md",
+    "Machine Learning/Lecture 12 - Optimization and Gradient Descent.md",
     "Japanese/Lesson 6.md",
     "Japanese/Lesson 7 - Adjectives.md",
     "Pasted image 20251006133823.png",
