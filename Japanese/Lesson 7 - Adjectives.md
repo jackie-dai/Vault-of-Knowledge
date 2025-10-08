@@ -66,3 +66,6 @@ negating い adjectives
 #### な
 げんきなです
 
+Using quantitative adjectives
+にほんりょりは{とても, あぜんぜんぜんぜん}たきです。
+
