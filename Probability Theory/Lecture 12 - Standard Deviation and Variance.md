@@ -18,3 +18,7 @@ $$
 Interpretation fo the standard deviation
 - The spread breadth, width of y's distribtion
 - a measure of how "uncertain" I would be aboutthe value of Y, before sampling, how much y varies
+
+
+## Chebyshev's Inequality
+
