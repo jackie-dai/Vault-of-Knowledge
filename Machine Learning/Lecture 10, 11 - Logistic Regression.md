@@ -38,12 +38,13 @@ $$
 
 
 
+### Accuracy, Precision, and Recall
 
+Accuracy: overall percentage of correct predictions (diagonal)
+Predictions: Out of the predicted positives, how many are correct? (vertical)
+Recall: Out of all actual positives, how often was the model correct? (horizontal)
 
-
-
-
-
+![[Pasted image 20251008193417.png]]
 
 
 
