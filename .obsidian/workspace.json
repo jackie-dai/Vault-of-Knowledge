@@ -147,8 +147,7 @@
               "title": "Lecture 13 - Covariance"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,10 +315,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b05943e7316186c7",
+  "active": "da1e3d0063f66abb",
   "lastOpenFiles": [
-    "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
     "Probability Theory/Lecture 13 - Covariance.md",
+    "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
     "Pasted image 20251008193417.png",
     "Machine Learning/Lecture 12 - Optimization and Gradient Descent.md",
     "Japanese/Lesson 7 - Adjectives.md",
