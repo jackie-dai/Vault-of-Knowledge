@@ -12,12 +12,16 @@ Instead use covariance properties.
 There are two uses for covariances
 1. Normalizing units (correlation)
 	$$
-	\frac{Cov[X,Y]}{\sigma_x \sigma_y} = E[(\frac{X-u_x}{\sigma_y})(\frac{Y-u_y}{\sigma_y})] \newline \frac{Cov[X,Y]}{\sigma_x \sigma_y} =
+	\frac{Cov[X,Y]}{\sigma_x \sigma_y} = E[(\frac{X-u_x}{\sigma_y})(\frac{Y-u_y}{\sigma_y})]
 		
+	$$
+	The expected product of the standard units
+	$$
+	r(X, Y) = \frac{Cov[X,Y]}{\sigma_x \sigma_y}
 	$$
 2. Calculating the variances of sums
 	$$
-	1 +  
+	Var(X+Y) = Var(X) + Var(Y) + 2Cov(X, Y)  
 	 $$
 ### Covariance Properties
 
