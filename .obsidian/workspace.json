@@ -132,9 +132,21 @@
               "icon": "lucide-file",
               "title": "Lecture 13 - Covariance"
             }
+          },
+          {
+            "id": "b05943e7316186c7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -302,7 +314,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dccb26cce57c2ab",
+  "active": "b05943e7316186c7",
   "lastOpenFiles": [
     "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
     "Probability Theory/Lecture 13 - Covariance.md",
