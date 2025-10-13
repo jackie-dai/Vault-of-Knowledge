@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Lesson 8.md",
+                "file": "Probability Theory/Lecture 13 - Covariance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 8"
+              "title": "Lecture 13 - Covariance"
             }
           }
         ],
@@ -332,8 +332,8 @@
   },
   "active": "b05943e7316186c7",
   "lastOpenFiles": [
-    "Probability Theory/Lecture 13 - Covariance.md",
     "Japanese/Lesson 8.md",
+    "Probability Theory/Lecture 13 - Covariance.md",
     "Probability Theory/Lecture 6 - Expected Values.md",
     "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
     "Pasted image 20251008193417.png",

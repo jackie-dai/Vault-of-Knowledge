@@ -52,3 +52,22 @@ $$
 $$
 Cov[X, Y] = E[XY] - u_x u_y
 $$
+
+### Addition Rule
+If X are independent random variables
+$$
+ Var(S_n) = \Sigma_{i=1}^{n} Var(X_i)
+$$
+Directly take the sum of the variances
+
+### Variance of IID Sum
+S_n = X_1 + X_2 + ... + X_n
+
+E(S_n) = nu
+$$
+Var(S_n) = n\sigma^2 
+$$
+
+$$
+SD(S_n) = \sqr{n\sigma}
+$$
