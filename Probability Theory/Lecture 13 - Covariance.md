@@ -3,12 +3,22 @@ $$
 Var[X+Y] + Var[X] + Var[Y] + 2E[D_X,D_y]
 $$
 $$
-2E[D_X,D_y] = Cov[X,Y]
+ Cov[X,Y] = 2E[D_X,D_y]
 $$
 Covariances are difficult to directly calculate.
 
 Instead use covariance properties.
 
+There are two uses for covariances
+1. Normalizing units (correlation)
+	$$
+	\frac{Cov[X,Y]}{\sigma_x \sigma_y} = E[(\frac{X-u_x}{\sigma_y})(\frac{Y-u_y}{\sigma_y})] \newline \frac{Cov[X,Y]}{\sigma_x \sigma_y} =
+		
+	$$
+2. Calculating the variances of sums
+	$$
+	1 +  
+	 $$
 ### Covariance Properties
 
 covariances are symmetric

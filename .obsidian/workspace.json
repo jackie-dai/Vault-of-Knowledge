@@ -137,12 +137,14 @@
             "id": "b05943e7316186c7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Probability Theory/Lecture 13 - Covariance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Lecture 13 - Covariance"
             }
           }
         ],
