@@ -69,5 +69,5 @@ Var(S_n) = n\sigma^2
 $$
 
 $$
-SD(S_n) = \sqr{n\sigma}
+SD(S_n) = \sqrt{n\sigma}
 $$
