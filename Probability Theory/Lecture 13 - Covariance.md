@@ -72,10 +72,22 @@ $$
 SD(S_n) = \sqrt{n\sigma}
 $$
 
+
+
+## Indicators
+
 ### Covariance of indicators
 
-if i = j
+if i != j
 $$
-Cov(I_a, I_a) = 0 
+Cov(I_a, I_b) = E[I_aI_b] = E[I_a]E[I_b] = P(I_aI_b)-P(I_a)P(I_b)
+$$
+
+
+### Symmetry
+For the variance of a sum, if each X is symmetric, that is, $E(X_1) = E(X_2)$
+
+$$
+	Var(S_n) = nVar(X_1) + n(n-1)Cov(X_1, X_2)
 $$
 
