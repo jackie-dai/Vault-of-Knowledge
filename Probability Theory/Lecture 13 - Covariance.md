@@ -71,3 +71,11 @@ $$
 $$
 SD(S_n) = \sqrt{n\sigma}
 $$
+
+### Covariance of indicators
+
+if i = j
+$$
+Cov(I_a, I_a) = 0 
+$$
+
