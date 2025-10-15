@@ -14,3 +14,7 @@ Take the ending character of a verb and map it to the て form
 
 
 テニスをしています。
+
+
+やまださんはおいもとがいらっしやいますか？
+How many siblings does 
