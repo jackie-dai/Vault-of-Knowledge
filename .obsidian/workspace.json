@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 14 - Concentration.md",
+                "file": "Japanese/Lesson 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 14 - Concentration"
+              "title": "Lesson 8"
             }
           }
         ],
@@ -346,8 +346,8 @@
   },
   "active": "39bd372e499f31dc",
   "lastOpenFiles": [
-    "Probability Theory/Lecture 13 - Covariance.md",
     "Lecture 14 - Concentration.md",
+    "Probability Theory/Lecture 13 - Covariance.md",
     "Japanese/Lesson 8.md",
     "Probability Theory/Lecture 6 - Expected Values.md",
     "Machine Learning/Lecture 10, 11 - Logistic Regression.md",

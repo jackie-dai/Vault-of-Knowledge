@@ -10,3 +10,7 @@ Take the ending character of a verb and map it to the て form
 
 つくる　⇒　つくって
 つかう　⇒　つかって
+
+
+
+テニスをしています。
