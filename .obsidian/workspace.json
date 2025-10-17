@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 15 - Continuous Random Variables.md",
+                "file": "Machine Learning/Lecture 4 - K-means and Probability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 15 - Continuous Random Variables"
+              "title": "Lecture 4 - K-means and Probability"
             }
           }
         ],
@@ -360,14 +360,17 @@
   },
   "active": "490cf7948fe71827",
   "lastOpenFiles": [
+    "Machine Learning/Lecture 3 - ML Mechanics.md",
+    "Machine Learning/Lecture 4 - K-means and Probability.md",
+    "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
+    "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
+    "Machine Learning/Lecture 12 - Optimization and Gradient Descent.md",
+    "Probability Theory/Lecture 15 - Continuous Random Variables.md",
     "Probability Theory/Lecture 14 - Concentration.md",
-    "Lecture 15 - Continuous Random Variables.md",
     "Japanese/Lesson 8.md",
     "Probability Theory/Lecture 13 - Covariance.md",
     "Probability Theory/Lecture 6 - Expected Values.md",
-    "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
     "Pasted image 20251008193417.png",
-    "Machine Learning/Lecture 12 - Optimization and Gradient Descent.md",
     "Japanese/Lesson 7 - Adjectives.md",
     "Probability Theory/Lecture 12 - Standard Deviation and Variance.md",
     "Japanese/Lesson 6.md",
@@ -379,7 +382,6 @@
     "Pasted image 20251003121412.png",
     "Japanese/Lesson 4.md",
     "Japanese History/Japanese History.md",
-    "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
     "Photography/Img/Pasted image 20250929182034.png",
     "Photography/Img",
     "Photography/Studio.md",
@@ -393,8 +395,6 @@
     "Chinese/Cantonese.md",
     "Software Engineering/Ruby on Rails.md",
     "Software Engineering/Pasted image 20250920230059.png",
-    "Japanese History/Quiz 1.md",
-    "Misc/Skincare.md",
     "Stat20/img/Pasted image 20250919141409.png",
     "Stat20/img",
     "Stat20/img/Pasted image 20250919141031.png",

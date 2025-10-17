@@ -46,3 +46,8 @@ The probability of an event is
 
 ### Empirical Probability Distributions
 
+
+MLE
+
+Mono fuctions
+Output grows as input increases
