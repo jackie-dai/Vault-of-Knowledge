@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Product Photography.md",
+                "file": "Probability Theory/Lecture 14 - Concentration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Product Photography"
+              "title": "Lecture 14 - Concentration"
             }
           }
         ],
@@ -372,11 +372,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "8c3f089f30a4a0e6",
   "lastOpenFiles": [
-    "Probability Theory/Lecture 14 - Concentration.md",
-    "Photography/Product Photography.md",
     "Probability Theory/Lecture 15 - Continuous Random Variables.md",
+    "Photography/Product Photography.md",
+    "Probability Theory/Lecture 14 - Concentration.md",
     "Machine Learning/Lecture 4 - K-means and Probability.md",
     "Machine Learning/Lecture 3 - ML Mechanics.md",
     "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
