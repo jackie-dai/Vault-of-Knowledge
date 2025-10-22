@@ -221,14 +221,10 @@
             "id": "573fba8d018d4435",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Studio Shoot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Studio Shoot"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -400,11 +396,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "573fba8d018d4435",
   "lastOpenFiles": [
-    "Photography/Img/Pasted image 20251022132504.png",
+    "Math 53/Multivariable Calculus.md",
+    "Photography/Img/Pasted image 20251022132518.png",
     "Photography/Product Photography.md",
+    "Photography/Color_Theory__Moodboarding.pdf",
     "Photography/Studio Shoot.md",
+    "Photography/Img/Pasted image 20251022132504.png",
     "Machine Learning/img/Pasted image 20251003121412.png",
     "Probability Theory/img/Pasted image 20251005123550.png",
     "Probability Theory/img/Pasted image 20251006133823.png",
@@ -439,15 +438,12 @@
     "Software Engineering/Pasted image 20250920230059.png",
     "Stat20/img/Pasted image 20250919141409.png",
     "Stat20/img",
-    "Stat20/img/Pasted image 20250919141031.png",
     "Mat",
-    "Machine Learning/img/Pasted image 20250904142758.png",
     "Machine Learning/img",
     "Probability Theory/img",
     "Ink/Drawing/2025.9.12 - 10.28am.drawing",
     "Probability Theory",
     "Machine Learning",
-    "Software Engineering",
     "Untitled.canvas"
   ]
 }

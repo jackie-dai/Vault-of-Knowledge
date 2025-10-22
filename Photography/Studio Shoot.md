@@ -34,4 +34,4 @@
 - Slow Shutter (1/5 – 1/20s): Motion blur, dreamy reflections.
 - Fast Shutter (1/200s +): Crisp light spots, frozen reflections.
 - Double Exposure / Drag Shutter: Experiment with multiple light trails on one frame.
-- Vary Angles: Shoot low (make subject powerful), high (create distortion),
+- Vary Angles: Shoot low (make subject powerful), high (create distortion), or extreme close-ups (abstract feel).

@@ -1,5 +1,7 @@
 
-Shot list
+## [Color Theory]
+![[Color_Theory__Moodboarding.pdf]]
+
 ## [Typical Product Photography Shot Checklist]
 
 - Hero (primary selling image, clean background)
@@ -10,3 +12,5 @@ Shot list
 - Process/Action (pour, sprinkle, stack, rotate)
 - Packaging/Label (clear branding if relevant)
 - Creative/Abstract (reflection, prism, gel, motion)
+
+
