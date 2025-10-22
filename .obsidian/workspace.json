@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
+                "file": "Japanese/Lesson 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 10, 11 - Logistic Regression"
+              "title": "Lesson 9"
             }
           }
         ],
@@ -402,10 +402,10 @@
   },
   "active": "573fba8d018d4435",
   "lastOpenFiles": [
+    "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
     "Machine Learning/Lecture 12 - Optimization and Gradient Descent.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
-    "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
     "Japanese/Lesson 9.md",
     "Probability Theory/Lecture 15 - Continuous Random Variables.md",
     "Probability Theory/Lecture 14 - Concentration.md",
