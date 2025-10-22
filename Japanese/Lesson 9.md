@@ -27,3 +27,5 @@ Used for comparing 3 or more objects
 TODO: pg. 185 in textbook
 
 
+Q: AのとVのとのCとでは、どれが一番XAdjectiveですか
+A: Aのが一番Adjectiveです。
