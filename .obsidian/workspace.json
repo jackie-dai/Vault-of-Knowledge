@@ -4,235 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8d07ea65c65b4015",
+        "id": "376901b90211a498",
         "type": "tabs",
         "children": [
           {
-            "id": "da1e3d0063f66abb",
+            "id": "3c50cc49fe7680c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability Theory/Lecture 13 - Covariance.md",
+                "file": "Machine Learning/Lecture 14 - Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 13 - Covariance"
-            }
-          },
-          {
-            "id": "6a048758a1120884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Lesson 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 8"
-            }
-          },
-          {
-            "id": "2426bd3e1e55951e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Studio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Studio"
-            }
-          },
-          {
-            "id": "0f0fce24339348bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Lesson 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 4"
-            }
-          },
-          {
-            "id": "92c83c41d401984d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability Theory/Lecture 6 - Expected Values.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 6 - Expected Values"
-            }
-          },
-          {
-            "id": "c56a794e70a00e5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability Theory/Lecture 10, 11 - Markov Chains.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 10, 11 - Markov Chains"
-            }
-          },
-          {
-            "id": "3ce1dac93e2d5962",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Lesson 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 6"
-            }
-          },
-          {
-            "id": "28b2911e6d7c60dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Lecture 12 - Optimization and Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 12 - Optimization and Gradient Descent"
-            }
-          },
-          {
-            "id": "de9ef171a2faa0d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 10, 11 - Logistic Regression"
-            }
-          },
-          {
-            "id": "2dccb26cce57c2ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability Theory/Lecture 13 - Covariance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 13 - Covariance"
-            }
-          },
-          {
-            "id": "b05943e7316186c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability Theory/Lecture 13 - Covariance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 13 - Covariance"
-            }
-          },
-          {
-            "id": "39bd372e499f31dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability Theory/Lecture 14 - Concentration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 14 - Concentration"
-            }
-          },
-          {
-            "id": "490cf7948fe71827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability Theory/Lecture 14 - Concentration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 14 - Concentration"
-            }
-          },
-          {
-            "id": "8c3f089f30a4a0e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability Theory/Lecture 15 - Continuous Random Variables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 15 - Continuous Random Variables"
-            }
-          },
-          {
-            "id": "e32f9bff6d6a5771",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 5 -  Density Estimation and Gaussian Mixture Models"
-            }
-          },
-          {
-            "id": "573fba8d018d4435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Lesson 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 9"
+              "title": "Lecture 14 - Neural Networks"
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -400,8 +189,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "573fba8d018d4435",
+  "active": "1a93259cabede32e",
   "lastOpenFiles": [
+    "Machine Learning/Lecture 14 - Neural Networks.md",
+    "Japanese/Lesson 9.md",
+    "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
+    "Probability Theory/Lecture 15 - Continuous Random Variables.md",
+    "Probability Theory/Lecture 14 - Concentration.md",
+    "Probability Theory/Lecture 13 - Covariance.md",
+    "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
+    "Machine Learning/Lecture 12 - Optimization and Gradient Descent.md",
+    "Japanese/Lesson 6.md",
+    "Probability Theory/Lecture 10, 11 - Markov Chains.md",
+    "Probability Theory/Lecture 6 - Expected Values.md",
+    "Japanese/Lesson 4.md",
+    "Japanese/Lesson 8.md",
     "Math 53/Multivariable Calculus.md",
     "Photography/Img/Pasted image 20251022132518.png",
     "Photography/Product Photography.md",
@@ -412,32 +214,19 @@
     "Probability Theory/img/Pasted image 20251005123550.png",
     "Probability Theory/img/Pasted image 20251006133823.png",
     "Machine Learning/img/Pasted image 20251008193417.png",
-    "Japanese/Lesson 9.md",
-    "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
-    "Machine Learning/Lecture 12 - Optimization and Gradient Descent.md",
     "Machine Learning/Linear Regression.md",
-    "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
-    "Probability Theory/Lecture 15 - Continuous Random Variables.md",
-    "Probability Theory/Lecture 14 - Concentration.md",
     "Machine Learning/Lecture 4 - K-means and Probability.md",
     "Machine Learning/Lecture 3 - ML Mechanics.md",
-    "Japanese/Lesson 8.md",
-    "Probability Theory/Lecture 13 - Covariance.md",
-    "Probability Theory/Lecture 6 - Expected Values.md",
     "Japanese/Lesson 7 - Adjectives.md",
     "Probability Theory/Lecture 12 - Standard Deviation and Variance.md",
-    "Japanese/Lesson 6.md",
-    "Probability Theory/Lecture 10, 11 - Markov Chains.md",
     "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
     "Stat20/The Normal Distribution.md",
-    "Japanese/Lesson 4.md",
     "Japanese History/Japanese History.md",
     "Photography/Img/Pasted image 20250929182034.png",
     "Photography/Img",
     "Photography",
     "Probability Theory/Lecture 5 - Independence and Poissonization.md",
     "Probability Theory/Lecture 3 - Symmetry and Collection of Events.md",
-    "Japanese/Learning Japanese.md",
     "Chinese/Tones.png",
     "Software Engineering/Pasted image 20250920230059.png",
     "Stat20/img/Pasted image 20250919141409.png",
