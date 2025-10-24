@@ -29,3 +29,6 @@ Summation unit + activation function
 
 **Activation Function**
 example: Step function
+
+If the value is positive -> activate neuron
+
