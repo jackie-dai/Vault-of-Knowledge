@@ -24,3 +24,8 @@ Synapses
 - inhibitory
 
 ### Artificial Neuron
+
+Summation unit + activation function
+
+**Activation Function**
+example: Step function
