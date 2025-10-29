@@ -24,3 +24,17 @@ To negate the てフォーム, we can use りません:
 
 いいえ、中山さんは知りません。
 No, I do not know Nakayama-san.
+
+
+## To Wear
+
+きる - most general verb for wearing
+Q:きむらさんはなにをきていますか。
+
+きむらさんは　Tシャツ + をきています
+Is wearing t-shirt
+
+はく - the action of pulling up something to wear (socks, pants, etc..)
+
+ぱんつ + はいています
+
