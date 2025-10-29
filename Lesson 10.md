@@ -43,3 +43,6 @@ Is wearing t-shirt
 かける - to hang (glasses)
 かぶる- to cover a body (hat)
 する - for everything else (watch, earrings, ties)
+
+
+たろうさんはてがみをかいく
