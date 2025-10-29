@@ -29,6 +29,7 @@ No, I do not know Nakayama-san.
 ## To Wear
 
 きる - most general verb for wearing
+
 Q:きむらさんはなにをきていますか。
 
 きむらさんは　Tシャツ + をきています
@@ -36,5 +37,9 @@ Is wearing t-shirt
 
 はく - the action of pulling up something to wear (socks, pants, etc..)
 
-ぱんつ + はいています
+ スカート+ はいています
 
+
+かける - to hang (glasses)
+かぶる- to cover a body (hat)
+する - for everything else (watch, earrings, ties)
