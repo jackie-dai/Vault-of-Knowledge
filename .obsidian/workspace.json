@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson 10.md",
+                "file": "Japanese/Lesson 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Lesson 10"
             }
+          },
+          {
+            "id": "b5d3d6da5953f791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disc 8 - Neural Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disc 8 - Neural Networks"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,10 +246,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6ed39c3182e220c",
+  "active": "b5d3d6da5953f791",
   "lastOpenFiles": [
+    "Japanese/Lesson 10.md",
+    "Disc 8 - Neural Networks.md",
     "Probability Theory/Probability Generating Functions (PGFs).md",
-    "Lesson 10.md",
     "Probability Theory/Lecture 16 - Transformations.md",
     "Probability Theory/Lecture 15 - Continuous Random Variables.md",
     "Probability Theory/Lecture 14 - Concentration.md",
@@ -267,7 +282,6 @@
     "Japanese/Lesson 7 - Adjectives.md",
     "Probability Theory/Lecture 12 - Standard Deviation and Variance.md",
     "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
-    "Stat20/The Normal Distribution.md",
     "Photography/Img/Pasted image 20250929182034.png",
     "Photography/Img",
     "Photography",
