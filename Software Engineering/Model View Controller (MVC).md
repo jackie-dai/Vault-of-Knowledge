@@ -16,3 +16,9 @@ What are the built in operations the model has: **CRUD**
 **U**pdate an existing row with new attribute values from a modified object instance
 **D**elete a row
 
+\newpage
+
+**Convention over configuration**
+Rails requires specific naming convention for files because it will use the filename to make connections and execute the application
+
+Each controller selects one view
