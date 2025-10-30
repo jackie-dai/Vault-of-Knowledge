@@ -1,5 +1,5 @@
 
-## Arch Definition
+## Architeture Definition
 
 **Model:** manipulates data and handle incoming requests
 **View:** the interface the user interacts with
@@ -7,4 +7,12 @@
 
 
 
-Databases
+## Databases
+Rails model operates on a database implementing the Active Record architectural pattern
+
+What are the built in operations the model has: **CRUD**
+**C**reate a new row in the table
+**R**ead an existing row into a single object instance
+**U**pdate an existing row with new attribute values from a modified object instance
+**D**elete a row
+
