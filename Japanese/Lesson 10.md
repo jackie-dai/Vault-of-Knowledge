@@ -46,3 +46,13 @@ Is wearing t-shirt
 
 
 たろうさんはてがみをかいく
+
+## Time
+
+ぐらい - about x duration
+ごろ - approximately x time
+
+どのくらい...
+何時間ぐらい...
+About how long ...
+

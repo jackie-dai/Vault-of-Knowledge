@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disc 8 - Neural Networks.md",
+                "file": "Japanese/Lesson 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disc 8 - Neural Networks"
+              "title": "Lesson 10"
             }
           }
         ],
@@ -248,8 +248,8 @@
   },
   "active": "b5d3d6da5953f791",
   "lastOpenFiles": [
-    "Japanese/Lesson 10.md",
     "Disc 8 - Neural Networks.md",
+    "Japanese/Lesson 10.md",
     "Probability Theory/Probability Generating Functions (PGFs).md",
     "Probability Theory/Lecture 16 - Transformations.md",
     "Probability Theory/Lecture 15 - Continuous Random Variables.md",
