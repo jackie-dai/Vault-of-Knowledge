@@ -14,4 +14,6 @@ $$
 E(|Z|)=\sqrt{\frac{2}{\pi}}
 $$
 3. The variance
-#
+$$
+
+$$
