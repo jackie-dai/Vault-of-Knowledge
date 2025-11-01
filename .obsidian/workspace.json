@@ -67,18 +67,30 @@
             "id": "b5d3d6da5953f791",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Probability Theory/img/Pasted image 20251031003745.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251031003745"
+            }
+          },
+          {
+            "id": "512fe05db30066ff",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Lesson 10.md",
+                "file": "Obsidian Git Conflicts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 10"
+              "title": "Obsidian Git Conflicts"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -246,10 +258,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5d3d6da5953f791",
+  "active": "512fe05db30066ff",
   "lastOpenFiles": [
-    "Disc 8 - Neural Networks.md",
+    "Probability Theory/img/Pasted image 20251031003745.png",
+    "Obsidian Git Conflicts.md",
+    "Probability Theory/img/Pasted image 20251031003947.png",
     "Japanese/Lesson 10.md",
+    "conflict-files-obsidian-git.md",
+    "Disc 8 - Neural Networks.md",
     "Probability Theory/Probability Generating Functions (PGFs).md",
     "Probability Theory/Lecture 16 - Transformations.md",
     "Probability Theory/Lecture 15 - Continuous Random Variables.md",
@@ -279,14 +295,9 @@
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Lecture 4 - K-means and Probability.md",
     "Machine Learning/Lecture 3 - ML Mechanics.md",
-    "Japanese/Lesson 7 - Adjectives.md",
-    "Probability Theory/Lecture 12 - Standard Deviation and Variance.md",
-    "Probability Theory/Lecture 1 - axioms, rules, approximation.md",
     "Photography/Img/Pasted image 20250929182034.png",
     "Photography/Img",
     "Photography",
-    "Chinese/Tones.png",
-    "Software Engineering/Pasted image 20250920230059.png",
     "Stat20/img",
     "Mat",
     "Machine Learning/img",
