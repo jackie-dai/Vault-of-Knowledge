@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Git Conflicts.md",
+                "file": "Probability Theory/Lecture 18 - Joint Distributions; Sums of Normal and Gamma Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Git Conflicts"
+              "title": "Lecture 18 - Joint Distributions; Sums of Normal and Gamma Variables"
             }
           }
         ],
@@ -260,13 +260,16 @@
   },
   "active": "512fe05db30066ff",
   "lastOpenFiles": [
-    "Probability Theory/img/Pasted image 20251031003745.png",
+    "Probability Theory/Lecture 17 - Joint Densities.md",
+    "Probability Theory/Lecture 18 - Joint Distributions; Sums of Normal and Gamma Variables.md",
+    "Probability Theory/Lecture 19 - Moment Generating Functions (MGF).md",
+    "Probability Theory/Probability Generating Functions (PGFs).md",
     "Obsidian Git Conflicts.md",
+    "Probability Theory/img/Pasted image 20251031003745.png",
     "Probability Theory/img/Pasted image 20251031003947.png",
     "Japanese/Lesson 10.md",
     "conflict-files-obsidian-git.md",
     "Disc 8 - Neural Networks.md",
-    "Probability Theory/Probability Generating Functions (PGFs).md",
     "Probability Theory/Lecture 16 - Transformations.md",
     "Probability Theory/Lecture 15 - Continuous Random Variables.md",
     "Probability Theory/Lecture 14 - Concentration.md",
@@ -293,8 +296,6 @@
     "Probability Theory/img/Pasted image 20251006133823.png",
     "Machine Learning/img/Pasted image 20251008193417.png",
     "Machine Learning/Linear Regression.md",
-    "Machine Learning/Lecture 4 - K-means and Probability.md",
-    "Machine Learning/Lecture 3 - ML Mechanics.md",
     "Photography/Img/Pasted image 20250929182034.png",
     "Photography/Img",
     "Photography",
