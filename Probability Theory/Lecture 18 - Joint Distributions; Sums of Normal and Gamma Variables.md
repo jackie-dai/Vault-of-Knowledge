@@ -19,6 +19,7 @@ $$
 $$
 
 ## Sum of Independent Normal Variables
+The distribution of the sum of normal independent variables is the normal distribution with the following parameters:
 
 $$
 u = u_x + u_y,\sigma = \sigma_x + \sigma_y 
