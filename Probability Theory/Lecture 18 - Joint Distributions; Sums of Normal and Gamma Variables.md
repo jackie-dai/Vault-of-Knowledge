@@ -40,5 +40,12 @@ Var(Y-2X)=Var(Y) + 4Var(X)
 $$
 *Variance of the square of the deviations, so negative signs always turn positive*
 
+## Gamma
 
+### The rate $\lambda$
+For a fixed r, the larger $\lambda$ is, the smaller X will be.
+
+The random variable Y = cX has the gamma(r, $\lambda$/c)
+
+## The Shape Parameter $r$
 
