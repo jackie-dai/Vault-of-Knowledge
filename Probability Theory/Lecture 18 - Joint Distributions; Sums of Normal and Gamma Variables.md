@@ -24,3 +24,21 @@ The distribution of the sum of normal independent variables is the normal distri
 $$
 u = u_x + u_y,\sigma = \sigma_x + \sigma_y 
 $$
+Example:
+X~Normal(20, $5^2$), Y~Normal(75, $10^2$)
+
+f(x) = Y-2X
+
+Expectation
+$$
+E[Y-2X] = E[Y]-2E[X]
+$$
+
+Variance
+$$
+Var(Y-2X)=Var(Y) + 4Var(X)
+$$
+*Variance of the square of the deviations, so negative signs always turn positive*
+
+
+
