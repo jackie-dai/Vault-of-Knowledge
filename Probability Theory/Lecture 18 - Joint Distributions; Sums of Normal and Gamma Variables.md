@@ -17,3 +17,9 @@ $$
 $$
 
 $$
+
+## Sum of Independent Normal Variables
+
+$$
+u = u_x + u_y,\sigma = \sigma_x + \sigma_y 
+$$
