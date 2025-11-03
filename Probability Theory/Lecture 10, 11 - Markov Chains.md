@@ -22,6 +22,7 @@ An aperiodic chain is one in which return times are not multiples of some d > 1.
 $$
 	\pi(k) * P(k, j)
 $$
+
 = the proportion of k moving to j
 
 Balance is defined as the proportion leaving j equals the proportion entering j.
