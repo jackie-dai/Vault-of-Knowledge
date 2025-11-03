@@ -49,3 +49,13 @@ The random variable Y = cX has the gamma(r, $\lambda$/c)
 
 ## The Shape Parameter $r$
 
+
+## Chi Distribution
+Let X be a gamma distribution with parameters $r=\frac{1}{2}$ and $\lambda = \frac{1}{2}$
+
+This is the chi distribution with 1 degree of freedom. If we keep adding i.i.d standard normal variables
+$$
+Z = Z_1+Z_2 = Gamma(\frac{1}{2} + \frac{1}{2}, \frac{1}{2})
+$$
+Now Z is the chi distribution with 2 degrees of freedom
+
