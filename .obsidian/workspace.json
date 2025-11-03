@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability Theory/Lecture 18 - Joint Distributions; Sums of Normal and Gamma Variables.md",
+                "file": "Probability Theory/Lecture 10, 11 - Markov Chains.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 18 - Joint Distributions; Sums of Normal and Gamma Variables"
+              "title": "Lecture 10, 11 - Markov Chains"
             }
           }
         ],
@@ -260,8 +260,8 @@
   },
   "active": "512fe05db30066ff",
   "lastOpenFiles": [
-    "Probability Theory/Lecture 17 - Joint Densities.md",
     "Probability Theory/Lecture 18 - Joint Distributions; Sums of Normal and Gamma Variables.md",
+    "Probability Theory/Lecture 17 - Joint Densities.md",
     "Probability Theory/Lecture 19 - Moment Generating Functions (MGF).md",
     "Probability Theory/Probability Generating Functions (PGFs).md",
     "Obsidian Git Conflicts.md",
