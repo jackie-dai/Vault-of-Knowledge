@@ -59,3 +59,15 @@ Z = Z_1+Z_2 = Gamma(\frac{1}{2} + \frac{1}{2}, \frac{1}{2})
 $$
 Now Z is the chi distribution with 2 degrees of freedom
 
+### Expectation
+The expectation of a chi-squared random variables is its degrees of freedom
+$$
+E[T] = \frac{r}{\lambda}
+$$
+$$
+X~Gamma(\frac{n}{2},\frac{1}{2})
+$$
+$$
+E[X] = \frac{n/2}{1/2} = n
+$$
+
