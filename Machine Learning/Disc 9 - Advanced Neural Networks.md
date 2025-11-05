@@ -23,4 +23,10 @@ Employ ensembles of models
 
 Multilayer Perceptron (MLP)
 - fully connected
+
 ![[Pasted image 20251104173747.png]]
+Limitations of pixels
+- Tons of parameters
+- Feeds individual pixels with no spatial relation
+
+Instead we use patches and kernels
