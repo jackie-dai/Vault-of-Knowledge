@@ -29,4 +29,9 @@ Limitations of pixels
 - Tons of parameters
 - Feeds individual pixels with no spatial relation
 
+### Convolution Neural Networks (CNNs)
 Instead we use patches and kernels
+
+
+### Architecture of CNN
+![[Pasted image 20251104175609.png]]
