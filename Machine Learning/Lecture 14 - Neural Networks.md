@@ -37,7 +37,9 @@ f(x) =
 \end{cases}
 $$
 
+
 If the value is positive -> activate neuron
+otherwise if the value is negative -> don't do anything
 
 
 
