@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Lesson 11.md",
+                "file": "Machine Learning/Lecture 14 - Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 11"
+              "title": "Lecture 14 - Neural Networks"
             }
           }
         ],
@@ -300,10 +300,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "47c52ca36bb03b18",
   "lastOpenFiles": [
-    "Japanese/Lesson 10.md",
     "Japanese/Lesson 11.md",
+    "Japanese/Lesson 10.md",
     "Machine Learning/Pasted image 20251104175609.png",
     "Machine Learning/Disc 9 - Advanced Neural Networks.md",
     "Machine Learning/img/Pasted image 20251104173747.png",

@@ -27,8 +27,17 @@ Synapses
 
 Summation unit + activation function
 
-**Activation Function**
-example: Step function
+### Activation Function
+Example: Step function
+$$
+f(x) = 
+\begin{cases}
+1 & x > 0 \\
+	0 & x < 0 
+\end{cases}
+$$
 
 If the value is positive -> activate neuron
+
+
 
