@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Disc 9.md",
+                "file": "Machine Learning/Disc 9 - Advanced Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disc 9"
+              "title": "Disc 9 - Advanced Neural Networks"
             }
           }
         ],
@@ -286,10 +286,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89a3f9ae6ef40357",
+  "active": "1a93259cabede32e",
   "lastOpenFiles": [
+    "Machine Learning/img/Pasted image 20251104173747.png",
     "Machine Learning/Math Prerequisites for ML.md",
-    "Machine Learning/Disc 9.md",
+    "Machine Learning/Disc 9 - Advanced Neural Networks.md",
     "Machine Learning/Linear Regression.md",
     "Obsidian Git Conflicts.md",
     "Probability Theory/Lecture 20 - CLT Proof and Moment Generating Functions (Cont.).md",
@@ -316,7 +317,6 @@
     "Japanese/Lesson 6.md",
     "Probability Theory/Lecture 6 - Expected Values.md",
     "Japanese/Lesson 4.md",
-    "Japanese/Lesson 8.md",
     "Photography/Img/Pasted image 20251022132518.png",
     "Photography/Color_Theory__Moodboarding.pdf",
     "Photography/Img/Pasted image 20251022132504.png",
