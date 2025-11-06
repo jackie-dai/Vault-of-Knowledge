@@ -67,3 +67,5 @@ nn.Module
 This is the base class all models and layers extend. 
 __init__: defines all th emodel parameters
 forward defines the model/layer logic
+
+
