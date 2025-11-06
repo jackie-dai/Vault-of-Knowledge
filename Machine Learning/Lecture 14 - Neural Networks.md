@@ -43,3 +43,13 @@ otherwise if the value is negative -> don't do anything
 
 
 
+## Neurons
+Building and gate with a neuron
+
+
+In order to build the XOR gate, we need more than one neuron
+![[Pasted image 20251105155932.png]]
+
+## Neural Network
+
+![[Pasted image 20251105160550.png]]Each $Z_i$ is a neuron (can also be multiple connected neurons like in the XOR example). Each neuron takes in every input. The subscript (1) in $Z_1^2$
