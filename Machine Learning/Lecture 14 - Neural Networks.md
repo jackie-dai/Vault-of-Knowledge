@@ -43,9 +43,7 @@ otherwise if the value is negative -> don't do anything
 
 
 
-## Neurons
-Building and gate with a neuron
-
+## Analogy to circuits
 
 In order to build the XOR gate, we need more than one neuron
 ![[Pasted image 20251105155932.png]]
@@ -54,3 +52,11 @@ In order to build the XOR gate, we need more than one neuron
 
 ![[Pasted image 20251105160835.png]]
 Each $Z_i$ is a neuron (can also be multiple connected neurons like in the XOR example). Each neuron takes in every input. The subscript (1) in $Z_i^1$ means we are in the first hidden layer 
+
+## Other Activation Functions
+
+![[Pasted image 20251105162336.png]]
+$tanh(a) = 2\sigma (2a) = 1$
+
+![[Pasted image 20251105162350.png]]
+$h(a) = max(-1, min(1, a))$
