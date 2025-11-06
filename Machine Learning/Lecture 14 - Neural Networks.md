@@ -52,4 +52,5 @@ In order to build the XOR gate, we need more than one neuron
 
 ## Neural Network
 
-![[Pasted image 20251105160550.png]]Each $Z_i$ is a neuron (can also be multiple connected neurons like in the XOR example). Each neuron takes in every input. The subscript (1) in $Z_1^2$
+![[Pasted image 20251105160835.png]]
+Each $Z_i$ is a neuron (can also be multiple connected neurons like in the XOR example). Each neuron takes in every input. The subscript (1) in $Z_i^1$ means we are in the first hidden layer 
