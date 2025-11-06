@@ -9,3 +9,10 @@ Disadvantage
 - Approximate
 
 ## Automatic Differentiation
+
+
+## Backward Propagation
+
+### Adjoint variable
+
+1(e^v_3) + 1(1)
