@@ -60,3 +60,10 @@ $tanh(a) = 2\sigma (2a) = 1$
 
 ![[Pasted image 20251105162350.png]]
 $h(a) = max(-1, min(1, a))$
+
+## PyTorch
+
+nn.Module
+This is the base class all models and layers extend. 
+__init__: defines all th emodel parameters
+forward defines the model/layer logic
