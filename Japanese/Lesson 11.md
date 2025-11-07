@@ -15,5 +15,14 @@ Yesterday's test was difficult
 プレセンチはクッキーでした。
 The gift was cookies
 
+## Noun Modifications on Nouns
+Past tense
+
+Positive
+
+(Negative
+
+
+
 いつもA+をとっているひとです。
 Always the type of person to get A+ 
