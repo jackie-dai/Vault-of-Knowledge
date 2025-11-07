@@ -11,17 +11,19 @@ Yesterday's test was difficult
 
 
 ## Past Tense of です
-
 プレセンチはクッキーでした。
 The gift was cookies
 
 ## Noun Modifications on Nouns
 Past tense
 
-Positive
+**Positive**
+それはおもしろかったビデオです。
+There are videos that were amusing
 
-(Negative
-
+**Negative**
+それはおもしろくなかったビデオです。
+These are video that were not amusing
 
 
 いつもA+をとっているひとです。
