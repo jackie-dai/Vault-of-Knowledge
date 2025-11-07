@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Majong.md",
+                "file": "Majong/Majong.md",
                 "mode": "source",
                 "source": false
               },
@@ -330,8 +330,13 @@
   },
   "active": "7261d373df8ba549",
   "lastOpenFiles": [
+    "Pasted image 20251106201440.png",
+    "Pasted image 20251106201429.png",
+    "Majong/img",
+    "Majong",
+    "Majong/img/Pasted image 20251106201359.png",
     "Machine Learning/Lecture 15 - Neural Networks (Cont.) and Backpropagation.md",
-    "Majong.md",
+    "Majong/Majong.md",
     "Machine Learning/Lecture 14 - Neural Networks.md",
     "Machine Learning/img/Pasted image 20251105155932.png",
     "Machine Learning/img/Pasted image 20251105162350.png",
@@ -353,19 +358,16 @@
     "Probability Theory/Lecture 19 - Moment Generating Functions (MGF).md",
     "Probability Theory/Probability Generating Functions (PGFs).md",
     "Probability Theory/img/Pasted image 20251031003745.png",
-    "Probability Theory/img/Pasted image 20251031003947.png",
     "conflict-files-obsidian-git.md",
     "Disc 8 - Neural Networks.md",
     "Probability Theory/Lecture 16 - Transformations.md",
     "Probability Theory/Lecture 15 - Continuous Random Variables.md",
     "Probability Theory/Lecture 14 - Concentration.md",
     "Probability Theory/Lecture 13 - Covariance.md",
-    "Pasted image 20251023145042.png",
     "Japanese/Lesson 9.md",
     "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
     "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
     "Machine Learning/Lecture 12 - Optimization and Gradient Descent.md",
-    "Japanese/Lesson 6.md",
     "Photography/Color_Theory__Moodboarding.pdf",
     "Photography/Img",
     "Photography",
@@ -374,8 +376,6 @@
     "Machine Learning/img",
     "Probability Theory/img",
     "Ink/Drawing/2025.9.12 - 10.28am.drawing",
-    "Probability Theory",
-    "Machine Learning",
     "Untitled.canvas"
   ]
 }
