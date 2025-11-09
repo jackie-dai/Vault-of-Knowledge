@@ -16,3 +16,12 @@ Disadvantage
 ### Adjoint variable
 
 1(e^v_3) + 1(1)
+
+
+## Optimizers
+
+### Gradient Descent
+![[Pasted image 20251109014222.png]]
+Oscillates in the vertical d
+
+### Adaptative Gradient Descent (AdaGrad)

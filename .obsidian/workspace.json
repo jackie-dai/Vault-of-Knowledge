@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Lesson 11.md",
+                "file": "Machine Learning/Lecture 15 - Neural Networks (Cont.) and Backpropagation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 11"
+              "title": "Lecture 15 - Neural Networks (Cont.) and Backpropagation"
             }
           }
         ]
@@ -191,20 +191,22 @@
   },
   "active": "9682e51911fbd808",
   "lastOpenFiles": [
+    "Pasted image 20251109014222.png",
+    "Machine Learning/Lecture 18 - CNNs.md",
+    "Machine Learning/Lecture 15 - Neural Networks (Cont.) and Backpropagation.md",
+    "Majong/img/Pasted image 20251106201440.png",
+    "Majong/img/Pasted image 20251106201429.png",
+    "Japanese/Lesson 11.md",
     "Majong/Majong.md",
-    "Pasted image 20251106201440.png",
-    "Pasted image 20251106201429.png",
     "Majong/img",
     "Majong",
     "Majong/img/Pasted image 20251106201359.png",
-    "Machine Learning/Lecture 15 - Neural Networks (Cont.) and Backpropagation.md",
     "Machine Learning/Lecture 14 - Neural Networks.md",
     "Machine Learning/img/Pasted image 20251105155932.png",
     "Machine Learning/img/Pasted image 20251105162350.png",
     "Machine Learning/img/Pasted image 20251105162336.png",
     "Machine Learning/img/Pasted image 20251105160835.png",
     "Machine Learning/img/Pasted image 20251105160550.png",
-    "Japanese/Lesson 11.md",
     "Japanese/Lesson 10.md",
     "Machine Learning/Pasted image 20251104175609.png",
     "Machine Learning/Disc 9 - Advanced Neural Networks.md",
@@ -227,7 +229,6 @@
     "Japanese/Lesson 9.md",
     "Machine Learning/Lecture 5 -  Density Estimation and Gaussian Mixture Models.md",
     "Machine Learning/Lecture 10, 11 - Logistic Regression.md",
-    "Machine Learning/Lecture 12 - Optimization and Gradient Descent.md",
     "Photography/Color_Theory__Moodboarding.pdf",
     "Photography/Img",
     "Photography",
