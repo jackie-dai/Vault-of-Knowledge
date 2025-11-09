@@ -24,6 +24,9 @@ Disadvantage
 ![[Pasted image 20251109014222.png]]
 Oscillates on the vertical axis, making it risky to use high learning rates $\alpha$
 
+
+### Momentum
+
 ### Adaptative Gradient Descent (AdaGrad)
 AdaGrad dynamically adapts the learning rate for each weight component. For large gradients, the learning rate will be small. While small gradients will have large learning rates.
 ![[Pasted image 20251109015016.png]]
@@ -31,3 +34,8 @@ AdaGrad dynamically adapts the learning rate for each weight component. For larg
 Downside: the learning rate decays (because it is divided by a cumulative number) so the last few iterations converges slowly.
 
 
+### RMSProp (Root Mean Square Propagation)
+Better version of AdaGrad
+
+### Adaptive Moment Estimation (Adam)
+The most famous optimization algorithm in machine learning. It combines Momentum and RMSProp.
