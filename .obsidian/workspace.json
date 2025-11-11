@@ -39,14 +39,12 @@
             "id": "dcbe6f9c1344cc26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lecture 20 - Scrums and Git.md",
-                "mode": "source",
-                "source": false
+                "file": "Machine Learning/img/Pasted image 20251109014222.png"
               },
-              "icon": "lucide-file",
-              "title": "Lecture 20 - Scrums and Git"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251109014222"
             }
           }
         ],
@@ -218,15 +216,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcbe6f9c1344cc26",
+  "active": "1a93259cabede32e",
   "lastOpenFiles": [
-    "Japanese/Lesson 12.md",
     "Lecture 20 - Scrums and Git.md",
-    "Pasted image 20251109014222.png",
+    "Japanese/Lesson 12.md",
+    "Machine Learning/img/Pasted image 20251109014222.png",
     "Japanese/Lesson 11.md",
     "Machine Learning/Lecture 15 - Neural Networks (Cont.) and Backpropagation.md",
-    "Pasted image 20251109015016.png",
-    "Pasted image 20251109015010.png",
+    "Machine Learning/img/Pasted image 20251109015016.png",
+    "Machine Learning/img/Pasted image 20251109015010.png",
     "Machine Learning/Lecture 18 - CNNs.md",
     "Majong/img/Pasted image 20251106201440.png",
     "Majong/img/Pasted image 20251106201429.png",
