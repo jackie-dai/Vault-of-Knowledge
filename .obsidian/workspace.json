@@ -88,9 +88,21 @@
               "icon": "lucide-file",
               "title": "Lecture 21 - MLE"
             }
+          },
+          {
+            "id": "0349519d223163af",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -258,7 +270,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f177c0e222779e8",
+  "active": "0349519d223163af",
   "lastOpenFiles": [
     "Machine Learning/Lecture 16 - Neural Network Design and Regularization.md",
     "Lecture 21 - MLE.md",
