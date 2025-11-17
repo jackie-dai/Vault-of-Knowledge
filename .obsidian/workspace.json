@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 21 - MLE.md",
+                "file": "Probability Theory/Lecture 21 - MLE.md",
                 "mode": "source",
                 "source": false
               },
@@ -90,15 +90,17 @@
             }
           },
           {
-            "id": "0349519d223163af",
+            "id": "692a555972214584",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Lecture 22 - The Beta and the Binomial"
             }
           }
         ],
@@ -270,10 +272,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0349519d223163af",
+  "active": "1a93259cabede32e",
   "lastOpenFiles": [
+    "Probability Theory/Lecture 21 - MLE.md",
+    "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
     "Machine Learning/Lecture 16 - Neural Network Design and Regularization.md",
-    "Lecture 21 - MLE.md",
     "Software Engineering/Module 7 - BDD and User Stories.md",
     "Software Engineering/Model View Controller (MVC).md",
     "Software Engineering/Lecture 20 - Scrums and Git.md",
@@ -309,7 +312,6 @@
     "conflict-files-obsidian-git.md",
     "Disc 8 - Neural Networks.md",
     "Probability Theory/Lecture 16 - Transformations.md",
-    "Probability Theory/Lecture 15 - Continuous Random Variables.md",
     "Photography/Color_Theory__Moodboarding.pdf",
     "Photography/Img",
     "Photography",
