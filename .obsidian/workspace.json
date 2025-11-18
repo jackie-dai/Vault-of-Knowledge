@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability Theory/Lecture 18 - Joint Distributions; Sums of Normal and Gamma Variables.md",
+                "file": "Probability Theory/Lecture 21 - MLE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 18 - Joint Distributions; Sums of Normal and Gamma Variables"
+              "title": "Lecture 21 - MLE"
             }
           }
         ],
@@ -274,9 +274,10 @@
   },
   "active": "692a555972214584",
   "lastOpenFiles": [
-    "Probability Theory/Lecture 19 - Moment Generating Functions (MGF).md",
     "Probability Theory/Lecture 20 - CLT Proof and Moment Generating Functions (Cont.).md",
+    "Probability Theory/Lecture 19 - Moment Generating Functions (MGF).md",
     "Probability Theory/Lecture 21 - MLE.md",
+    "Probability Theory/Lecture 18 - Joint Distributions; Sums of Normal and Gamma Variables.md",
     "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
     "Machine Learning/Lecture 16 - Neural Network Design and Regularization.md",
     "Software Engineering/Module 7 - BDD and User Stories.md",
@@ -306,7 +307,6 @@
     "Machine Learning/Linear Regression.md",
     "Obsidian Git Conflicts.md",
     "Probability Theory/Lecture 10, 11 - Markov Chains.md",
-    "Probability Theory/Lecture 18 - Joint Distributions; Sums of Normal and Gamma Variables.md",
     "Probability Theory/Lecture 17 - Joint Densities.md",
     "Probability Theory/Probability Generating Functions (PGFs).md",
     "conflict-files-obsidian-git.md",
