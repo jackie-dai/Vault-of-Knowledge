@@ -7,3 +7,6 @@
 $$
 M_{X+Y} = M_X(t) M_Y(t)
 $$
+### Identifying the distribution
+
+### 

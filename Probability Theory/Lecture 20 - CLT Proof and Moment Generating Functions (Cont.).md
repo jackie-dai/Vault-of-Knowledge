@@ -7,3 +7,9 @@ $$
 M_X(t) = e^{\mu t+ \frac{\sigma ^2 t^2}{2}}
 $$
 
+
+## Chernoff Bounds
+
+$$
+P(X >= c) <= min M_X()
+$$
