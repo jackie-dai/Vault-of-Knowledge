@@ -10,6 +10,13 @@ $$
 Uniform[-\epsilon, \epsilon]
 $$Choosing the right $\epsilon$ is important because we don't want the activations to become too large or vanish across layers
 
-*Keep variance across layers constant*
+*Keep variance across layers constant* 
 
- 
+
+
+
+## Normalization
+ If we have differently scaled dimensions, we are going to get stretched results. 
+
+One method to normalize the dimensions is **Feature Standardization**
+
