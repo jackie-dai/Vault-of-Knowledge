@@ -47,6 +47,11 @@ For a fixed r, the larger $\lambda$ is, the smaller X will be.
 
 The random variable Y = cX has the gamma(r, $\lambda$/c)
 
+### Properties of Gamma Distribution
+1. The sum of i.i.d exponentials are Gamma
+2. The sum of squared i.i.d normals are Gamma
+3. The sum of independent gamma with matching rate parameters are Gamma
+4. The sum of independent normal or normal
 ## The Shape Parameter $r$
 
 
