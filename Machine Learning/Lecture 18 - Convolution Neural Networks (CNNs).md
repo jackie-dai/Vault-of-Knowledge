@@ -21,11 +21,14 @@ Kernel: M x M x C
 Output (feature map) dimensions: (J-M+1)x(K-M+1)
 
 ## Pooling
-To detect features at different scale, we can downsample features by pooling
+To detect features at different scale, we can down sample features by pooling
 
-2x2 pooling w
+2x2 pooling would divide the feature into 2x2 areas. We would then apply a function to pick one pixel from the 2x2 area to keep (for example max function)
 
+## CNN Design
 image <- convolution <- pooling <- flatten <- feed into classifer/neural network
+
+![[Pasted image 20251118233615.png]]
 
 Convolution
 	scanning with a kernal and dot producting with sections of the image
@@ -37,3 +40,9 @@ Pooling
 flatten image into ndarray to feed into the neural network
 
 
+## Pytorch
+
+### Defining a convolution layer
+![[Pasted image 20251118233710.png]]
+
+Initializing a 
