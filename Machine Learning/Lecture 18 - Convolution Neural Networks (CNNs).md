@@ -18,8 +18,12 @@ Each kernel can only extract one feature, so we need to use multiple kernels to 
 ![[Pasted image 20251118224626.png]]
 Input image: $J * K * C$
 Kernel: M x M x C
-Output dimensions: (J-M+1)x(K-M+1)
+Output (feature map) dimensions: (J-M+1)x(K-M+1)
 
+## Pooling
+To detect features at different scale, we can downsample features by pooling
+
+2x2 pooling w
 
 image <- convolution <- pooling <- flatten <- feed into classifer/neural network
 
