@@ -1,4 +1,10 @@
 
+## Scanning Network
+We are going to scan through the network in patches (receptive fields) and apply a kernel to the patch to 
+
+
+
+
 image <- convolution <- pooling <- flatten <- feed into classifer/neural network
 
 Convolution

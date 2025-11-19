@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 23 - Variance by Conditioning.md",
+                "file": "Machine Learning/Lecture 18 - Convolution Neural Networks (CNNs).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 23 - Variance by Conditioning"
+              "title": "Lecture 18 - Convolution Neural Networks (CNNs)"
             }
           }
         ],
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "620b7056f36830f6",
@@ -288,8 +289,8 @@
   },
   "active": "300dbc6c224a9879",
   "lastOpenFiles": [
+    "Probability Theory/Lecture 23 - Variance by Conditioning.md",
     "Machine Learning/Lecture 16 - Neural Network Design and Regularization.md",
-    "Lecture 23 - Variance by Conditioning.md",
     "Probability Theory/Lecture 20 - CLT Proof and Moment Generating Functions (Cont.).md",
     "Probability Theory/Lecture 19 - Moment Generating Functions (MGF).md",
     "Probability Theory/Lecture 21 - MLE.md",
@@ -304,7 +305,7 @@
     "Machine Learning/Lecture 15 - Neural Networks (Cont.) and Backpropagation.md",
     "Machine Learning/img/Pasted image 20251109015016.png",
     "Machine Learning/img/Pasted image 20251109015010.png",
-    "Machine Learning/Lecture 18 - CNNs.md",
+    "Machine Learning/Lecture 18 - Convolution Neural Networks (CNNs).md",
     "Majong/img/Pasted image 20251106201440.png",
     "Majong/img/Pasted image 20251106201429.png",
     "Majong/Majong.md",
