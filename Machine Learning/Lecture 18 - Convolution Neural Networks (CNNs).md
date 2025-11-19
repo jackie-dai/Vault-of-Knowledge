@@ -62,3 +62,23 @@ def __init__(self, num_classes=10):
 ```
 
 
+
+### Datasets and Dataloader
+Datasets are contained as dictionaries
+
+Instead of inputting one data sample at a time, we can take advantage of computer's parallel processing capabilities and load batches of data 
+at a time.
+
+Dataloader wraps datasets into a iterable where we can specify the batch size that we want to iterate over the dataset
+
+```
+from torch.utils.data import DataLoader
+
+train_dataloader = DataLoader(training_data, batch_size=64, shuffle=True)
+test_dataloader = DataLoader(test_data, batch_size=64, shuffle=True)
+```
+Now we can iterate through the training dataset 64 samples at a time.
+```
+# Display image and label.
+train_features, train_labels = next(iter(train_dataloader))
+```
