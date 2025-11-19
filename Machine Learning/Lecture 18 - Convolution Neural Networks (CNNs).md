@@ -45,4 +45,12 @@ flatten image into ndarray to feed into the neural network
 ### Defining a convolution layer
 ![[Pasted image 20251118233710.png]]
 
-Initializing a 
+Initializing a convolution layer
+```
+def __init__(self, num_classes=10):
+	super().__init__()
+	
+	self.conv1 = nn.Conv2d(3, 8, kernel_size=3, padding=1)
+```
+
+
