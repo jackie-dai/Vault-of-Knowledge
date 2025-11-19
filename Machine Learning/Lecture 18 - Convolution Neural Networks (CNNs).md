@@ -1,6 +1,9 @@
 
 ## Scanning Network
-We are going to scan through the network in patches (receptive fields) and apply a kernel to the patch to convolute it.
+We are going to scan through the network in patches (receptive fields) and applying a kernel to the patch to convolute it.
+
+
+## Kernels/Feature Extractors
 
 
 
