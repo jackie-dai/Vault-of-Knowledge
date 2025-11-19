@@ -5,6 +5,11 @@ We are going to scan through the network in patches (receptive fields) and apply
 
 ## Kernels/Feature Extractors
 
+![[Pasted image 20251118222642.png]]
+*Examples of horizontal and vertical line detector kernels
+
+Results:
+![[Pasted image 20251118223104.png]]
 
 
 
