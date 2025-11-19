@@ -1,6 +1,6 @@
 
 ## Scanning Network
-We are going to scan through the network in patches (receptive fields) and apply a kernel to the patch to 
+We are going to scan through the network in patches (receptive fields) and apply a kernel to the patch to convolute it.
 
 
 
