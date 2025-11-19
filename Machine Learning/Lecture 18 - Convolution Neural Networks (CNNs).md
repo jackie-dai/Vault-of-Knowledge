@@ -16,7 +16,8 @@ Each kernel can only extract one feature, so we need to use multiple kernels to 
 *Note: kernels will always be square M x M*
 
 ![[Pasted image 20251118224626.png]]
-Input Im
+Input image: $J * K * C$
+Kernel: M x M x C
 Output dimensions: (J-M+1)x(K-M+1)
 
 
