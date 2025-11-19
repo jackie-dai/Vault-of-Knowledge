@@ -11,6 +11,13 @@ We are going to scan through the network in patches (receptive fields) and apply
 Results:
 ![[Pasted image 20251118223104.png]]
 
+Each kernel can only extract one feature, so we need to use multiple kernels to extract multiple features.
+
+*Note: kernels will always be square M x M*
+
+![[Pasted image 20251118224626.png]]
+Input Im
+Output dimensions: (J-M+1)x(K-M+1)
 
 
 image <- convolution <- pooling <- flatten <- feed into classifer/neural network
