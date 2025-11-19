@@ -20,6 +20,11 @@ Input image: $J * K * C$
 Kernel: M x M x C
 Output (feature map) dimensions: (J-M+1)x(K-M+1)
 
+**With stride and padding**
+$$
+(\frac{J+2P-M}{S} + 1) * (\frac{J+2P-M}{S} + 1)
+$$
+
 ## Pooling
 To detect features at different scale, we can down sample features by pooling
 
@@ -39,6 +44,9 @@ Pooling
 
 flatten image into ndarray to feed into the neural network
 
+**Parameter Size**
+(Kernel size *  kernel size + bias (1)) * num of kernels
+3 * 3 + 1 = 10 * 8 = 80
 
 ## Pytorch
 
