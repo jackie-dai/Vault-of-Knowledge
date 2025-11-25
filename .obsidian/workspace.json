@@ -37,14 +37,12 @@
             "id": "d7ab32aac6a0fe9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Probability Theory/Lecture 23 - Variance by Conditioning.md",
-                "mode": "source",
-                "source": false
+                "file": "Probability Theory/img/Pasted image 20251124124057.png"
               },
-              "icon": "lucide-file",
-              "title": "Lecture 23 - Variance by Conditioning"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251124124057"
             }
           }
         ],
@@ -216,9 +214,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7ab32aac6a0fe9a",
+  "active": "1a93259cabede32e",
   "lastOpenFiles": [
-    "Pasted image 20251124124057.png",
+    "Probability Theory/Lecture 23 - Variance by Conditioning.md",
+    "Probability Theory/img/Pasted image 20251124124057.png",
     "Machine Learning/img/Pasted image 20251119174728.png",
     "Machine Learning/Discussion 10 - Transformers.md",
     "Machine Learning/Lecture 18 - Convolution Neural Networks (CNNs).md",
@@ -235,7 +234,6 @@
     "Japanese/Lesson 12.md",
     "Software Engineering/Module 2 - How to Learn a New Language (Ruby).md",
     "Software Engineering/img/Pasted image 20251118183709.png",
-    "Probability Theory/Lecture 23 - Variance by Conditioning.md",
     "Probability Theory/Lecture 20 - CLT Proof and Moment Generating Functions (Cont.).md",
     "Probability Theory/Lecture 19 - Moment Generating Functions (MGF).md",
     "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
@@ -245,7 +243,6 @@
     "Japanese/Lesson 11.md",
     "Machine Learning/Lecture 15 - Neural Networks (Cont.) and Backpropagation.md",
     "Machine Learning/img/Pasted image 20251109015016.png",
-    "Machine Learning/img/Pasted image 20251109015010.png",
     "Majong/Majong.md",
     "Majong/img",
     "Majong",
