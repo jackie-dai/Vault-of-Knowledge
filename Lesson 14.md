@@ -10,12 +10,14 @@ I have not been doing something
 
 いく
 
+
+をとるために、
+
 ---
 
 
 ことになっています
 Its been decided that X does...
-
 
 
 ない＋ことになっています。
