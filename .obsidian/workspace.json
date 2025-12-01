@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability Theory/Lecture 24 - Bivariant Normal Random Variables.md",
+                "file": "Probability Theory/Lecture 23 - Variance by Conditioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 24 - Bivariant Normal Random Variables"
+              "title": "Lecture 23 - Variance by Conditioning"
             }
           }
         ],
@@ -230,8 +230,8 @@
   },
   "active": "8f019fa3dc41bb68",
   "lastOpenFiles": [
-    "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
     "Probability Theory/Lecture 24 - Bivariant Normal Random Variables.md",
+    "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
     "Probability Theory/Lecture 23 - Variance by Conditioning.md",
     "Probability Theory/img/Pasted image 20251124124057.png",
     "Machine Learning/img/Pasted image 20251119174728.png",
