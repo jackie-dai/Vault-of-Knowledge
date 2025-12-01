@@ -22,3 +22,11 @@ Its been decided that X does...
 
 ない＋ことになっています。
 It's been decided that X does not do...
+
+
+読ん（よん）でめました
+
+
+とこになにがしてみたいですか。
+
+Combination：てみます＋たいです＝てみたいです
