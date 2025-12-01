@@ -30,3 +30,9 @@ It's been decided that X does not do...
 とこになにがしてみたいですか。
 
 Combination：てみます＋たいです＝てみたいです
+
+
+日本へ行った
+
+
+をしてみたいです。
