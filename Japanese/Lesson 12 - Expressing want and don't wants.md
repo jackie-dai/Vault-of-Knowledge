@@ -1,13 +1,24 @@
 
 ## To want ほしいです
-くらまがほしいですかか。
+
+X + がほしいです　~  I do want X 
+X + はほしくありません。~ I don't want X (formal)
+X + はほしくないです ~  I don't want X (informal)
+
+*Use は in place of が for negative sentences*
+
+Examples: 
+
+Q: くらまがほしいですかか。
 Do you want a car?
 
-はい、くらまがほしいですか。
+A: はい、くらまがほしいです。
 Yes, I want a car.
 
-ええい、くらまがほしくありません。　
+A: ええい、くらまがほしくありません。　
 No, I do not want a car.
+
+---
 
 
 When referring to another person (friend or lower)
