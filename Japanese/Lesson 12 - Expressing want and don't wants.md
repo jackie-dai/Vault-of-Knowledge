@@ -28,8 +28,9 @@ No, I do not want a car.
 
 
 ---
-
+ほしがっている ~ showing a sign of one's feelings/desires
+*Use を　instead of　が　*
 
 When referring to another person (friend or lower)
-XさんはYYをほしがっています
+XさんはYをほしがっています
 X wants Y
