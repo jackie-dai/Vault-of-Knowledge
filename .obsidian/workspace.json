@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Lesson 12 - Expressing want and don't wants.md",
+                "file": "Japanese/Lesson 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 12 - Expressing want and don't wants"
+              "title": "Lesson 13"
             }
           }
         ],
@@ -258,6 +258,7 @@
   },
   "active": "a896f72624cd2279",
   "lastOpenFiles": [
+    "Japanese/Lesson 12 - Expressing want and don't wants.md",
     "Software Engineering/Module 9 - Legacy, Refactoring, and Agile.md",
     "Japanese/Lesson 14.md",
     "Probability Theory/Lecture 23 - Variance by Conditioning.md",
@@ -277,7 +278,6 @@
     "Probability Theory/Lecture 21 - MLE.md",
     "Software Engineering/Module 7 - BDD and User Stories.md",
     "Machine Learning/img/Pasted image 20251109014222.png",
-    "Japanese/Lesson 12 - Expressing want and don't wants.md",
     "Software Engineering/Module 2 - How to Learn a New Language (Ruby).md",
     "Software Engineering/img/Pasted image 20251118183709.png",
     "Probability Theory/Lecture 20 - CLT Proof and Moment Generating Functions (Cont.).md",
