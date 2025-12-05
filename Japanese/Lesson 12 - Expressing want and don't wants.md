@@ -49,3 +49,10 @@ Examples
 When applying a verb to a object mark with が or を, for negative sentences use は.
 
 私はパソを食べたいです。
+
+---
+
+## Material marker で
+
+X+は+Y+で作る ~ X is made of / from Y
+
