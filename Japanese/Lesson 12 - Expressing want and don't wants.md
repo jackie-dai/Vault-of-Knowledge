@@ -37,3 +37,15 @@ X wants Y
 
 ---
 ## To want to do 
+
+X＋たいです~ I want to do
+。。。たくありますせん~ I don't want to do (formal)
+。。。たくないです~ I don't want to do (less formal)
+
+Examples
+
+私はべきょうしたくありません。
+
+When applying a verb to a object mark with が or を, for negative sentences use は.
+
+私はパソを食べたいです。
