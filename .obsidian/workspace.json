@@ -86,9 +86,21 @@
               "icon": "lucide-file",
               "title": "Lesson 13"
             }
+          },
+          {
+            "id": "fed5844a758761e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -256,7 +268,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a896f72624cd2279",
+  "active": "fed5844a758761e7",
   "lastOpenFiles": [
     "Japanese/Lesson 12 - Expressing want and don't wants.md",
     "Software Engineering/Module 9 - Legacy, Refactoring, and Agile.md",
