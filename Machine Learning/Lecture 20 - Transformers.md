@@ -100,9 +100,9 @@ Builds representation of input (ex: like context embedded tokens)
 ## Generative AI
 Knowledge is being able to predict the next word (token) in a sentence
 
-Auto regressive 
+**Basic Auto Regressive Decoding**
 ![[Pasted image 20251215105824.png]]
-Compute the 
+Compute the token given theordered tokens so far
 
 ### Byte Pair Encoding 
 Initialize tokens to be the entire alphabet. Then, identify the pairs of tokens that occur most frequently together (scan the internet). This creates words as tokens but for less used words we just tokenize it letter by letter. 
