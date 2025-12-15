@@ -75,4 +75,6 @@ $$
 The weakness: The max N positions needs to be known in advance.
 
 ### Rotary Positional Embeddings (RoPE)
-Today most models use some variation of RoPE which applies a rotation matrix to the key and query vectors  by a fixed amount  based on that position.
+Today most models use some variation of RoPE which applies a rotation matrix to the key and query vectors by a fixed amount based on that position.
+
+By rotating a vector by $\theta_n$, we can tell the relative position of one token to another (if one token comes before the other token) because $\theta_n$ changes with n, n being the position of the token
