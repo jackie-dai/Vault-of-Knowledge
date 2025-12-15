@@ -95,13 +95,6 @@ Builds representation of input (ex: like context embedded tokens)
 	
 *Encoder transforms are primarily used in computer vision models rather than language models.
 
-###  Constructing input embeddings 
-Each token is mapped to a token id in a dictionary. 
-![[Pasted image 20251215124841.png]]
-The token ID serves as the index to the row the token is located on in the learned embedding table (matrix)
-![[Pasted image 20251215124932.png]]
-
-
 ## Generative AI
 Knowledge is being able to predict the next word (token) in a sentence
 
