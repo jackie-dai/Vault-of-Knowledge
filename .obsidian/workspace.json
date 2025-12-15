@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "620b7056f36830f6",
@@ -189,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,6 +207,7 @@
   },
   "active": "686e7c3fab9fd528",
   "lastOpenFiles": [
+    "Pasted image 20251215105824.png",
     "Pasted image 20251215103856.png",
     "Pasted image 20251215103753.png",
     "Machine Learning/CS189 - Introduction to Machine Learning.md",
@@ -229,7 +232,6 @@
     "Probability Theory/Lecture 24 - Bivariant Normal Random Variables.md",
     "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
     "Probability Theory/img/Pasted image 20251124124057.png",
-    "Machine Learning/img/Pasted image 20251119174728.png",
     "Machine Learning/Lecture 18 - Convolution Neural Networks (CNNs).md",
     "Machine Learning/Lecture 16 - Neural Network Design and Regularization.md",
     "Probability Theory/Lecture 21 - MLE.md",

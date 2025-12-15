@@ -96,3 +96,13 @@ Builds representation of input (ex: like context embedded tokens)
 	
 *Encoder transforms are primarily used in computer vision models rather than language models.
 
+
+## Generative AI
+Knowledge is being able to predict the next word (token) in a sentence
+
+Auto regressive 
+![[Pasted image 20251215105824.png]]
+Compute the 
+
+### Byte Pair Encoding 
+Initialize tokens to be the entire alphabet. Then, identify the pairs of tokens that occur most frequently together (scan the internet). This creates words as tokens but for less used words we just tokenize it letter by letter. 
