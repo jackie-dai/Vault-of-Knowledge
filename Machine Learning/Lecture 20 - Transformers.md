@@ -106,3 +106,11 @@ Compute the token given theordered tokens so far
 
 ### Byte Pair Encoding 
 Initialize tokens to be the entire alphabet. Then, identify the pairs of tokens that occur most frequently together (scan the internet). This creates words as tokens but for less used words we just tokenize it letter by letter. 
+
+### Casual Masking
+**During training**, we make predictions on the token but in the attention layer we have access to all tokens in the input sequence in order to understand the context and assign appropriate attention to each token.
+
+The issue: the model can cheat by looking at future tokens while trying to predict the next token.
+
+The solution: Masked Attention
+
