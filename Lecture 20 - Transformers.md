@@ -30,3 +30,6 @@ Bank could mean multiple definitions but we can only tell from context found in 
 
 Input: X~matrix of $R^{NxD}$, where there is a row for each N token and D columns for the the size of the feature vector for each token
 Output: Y~matrix of $R^{NxD}$
+
+Why can't we just average all the context into a vector and add it to our input?
+![[Pasted image 20251214163743.png]]
