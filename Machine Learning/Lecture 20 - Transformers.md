@@ -45,5 +45,17 @@ For each token, you first apply a weight matrix (e.g., , , ) to transform it 
 ```
 *A.I explanation for the diagram*
 
+	
+![[Pasted image 20251214210407.png]]code equivalent:
+```
+def scaled_dot_product_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tensor):
+	(B, N, d_k) = Q.shape
+	(_, _, d_v) = V.shape
+	
+	K_T = K.transpose(-2, -1)
+	dot_product = (Q @ K_T) / (d_k ** 0.5)
+	
+	attention = F.softmax(dot_product, dim=-1)
+	return attention @ V
+```
 
-![[Pasted image 20251214210407.png]]
