@@ -79,7 +79,6 @@ Today most models use some variation of RoPE which applies a rotation matrix to 
 
 By rotating a vector by $\theta_n$, we can tell the relative position of one token to another (if one token comes before the other token) because $\theta_n$ changes with n, n being the position of the token
 
-
 ## Transformer Architecture 
 ![[Pasted image 20251215103856.png]]
 
@@ -95,6 +94,12 @@ Builds representation of input (ex: like context embedded tokens)
 	- Ex: pooling
 	
 *Encoder transforms are primarily used in computer vision models rather than language models.
+
+###  Constructing input embeddings 
+Each token is mapped to a token id in a dictionary. 
+![[Pasted image 20251215124841.png]]
+The token ID serves as the index to the row the token is located on in the learned embedding table (matrix)
+![[Pasted image 20251215124932.png]]
 
 
 ## Generative AI
@@ -116,3 +121,5 @@ The solution: Masked Attention
 Limit the tokens that it can see to only the tokens before the current and nothing beyond. 
 
 Now the model cannot cheat by looking at future tokens but it still has the context of everything before the current token it is on.
+
+
