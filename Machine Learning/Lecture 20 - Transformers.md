@@ -59,3 +59,6 @@ def scaled_dot_product_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tens
 	return attention @ V
 ```
 
+Token positioning matters for text and images, but not sets of objects
+![[Pasted image 20251214220615.png]]
+
