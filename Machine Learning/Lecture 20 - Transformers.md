@@ -62,3 +62,15 @@ def scaled_dot_product_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tens
 Token positioning matters for text and images, but not sets of objects
 ![[Pasted image 20251214220615.png]]
 
+## Methods for positional encoding
+
+### Learned positional encoding
+Rather than just passing tokens into the network. First, we can add a vector I_n that is randomly initialized and trained on the absolute position of the token.
+
+$$
+X_n =x_n+I_n
+$$
+*Essentially we are passing in the token + semantic information on the positioning*
+
+The weakness: The max N positions needs to be known in advance.
+
