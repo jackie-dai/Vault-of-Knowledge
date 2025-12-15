@@ -113,4 +113,6 @@ Initialize tokens to be the entire alphabet. Then, identify the pairs of tokens 
 The issue: the model can cheat by looking at future tokens while trying to predict the next token.
 
 The solution: Masked Attention
+Limit the tokens that it can see to only the tokens before the current and nothing beyond. 
 
+Now the model cannot cheat by looking at future tokens but it still has the context of everything before the current token it is on.
