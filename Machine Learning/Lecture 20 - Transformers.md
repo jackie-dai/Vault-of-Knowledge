@@ -80,5 +80,19 @@ Today most models use some variation of RoPE which applies a rotation matrix to 
 By rotating a vector by $\theta_n$, we can tell the relative position of one token to another (if one token comes before the other token) because $\theta_n$ changes with n, n being the position of the token
 
 
+## Transformer Architecture 
+![[Pasted image 20251215103856.png]]
+
 ## The Encoder Transformer
+Builds representation of input (ex: like context embedded tokens)
 ![[Pasted image 20251215103753.png]]
+- Construct input embeddings
+	- Ex: Pixel patches for images, tokens for text
+- Apply positional encoding
+	- Learned Positional Encoding, Sinusoidal encoding, RoPE
+- Repeated transformer blocks
+- Use final output in downstream task
+	- Ex: pooling
+	
+*Encoder transforms are primarily used in computer vision models rather than language models.
+
