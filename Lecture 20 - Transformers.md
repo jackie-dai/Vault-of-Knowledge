@@ -33,3 +33,5 @@ Output: Y~matrix of $R^{NxD}$
 
 Why can't we just average all the context into a vector and add it to our input?
 ![[Pasted image 20251214163743.png]]
+Not all context is equally important (i.e some words are not as important to understanding the context of bank)
+![[Pasted image 20251214164934.png]]
