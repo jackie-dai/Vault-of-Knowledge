@@ -49,8 +49,7 @@
               "title": "Lecture 22 - LLM Training and Applications"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 21 - Transformers and Language Modeling.md",
+                "file": "Machine Learning/Lecture 20 - Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 21 - Transformers and Language Modeling"
+              "title": "Backlinks for Lecture 20 - Transformers"
             }
           },
           {
@@ -219,13 +218,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e9f5a0ec881e503",
+  "active": "686e7c3fab9fd528",
   "lastOpenFiles": [
+    "Lecture 21 - Transformers and Language Modeling.md",
     "Pasted image 20251215130241.png",
     "Pasted image 20251215130019.png",
     "Pasted image 20251215125927.png",
     "Machine Learning/Lecture 20 - Transformers.md",
-    "Lecture 21 - Transformers and Language Modeling.md",
     "Lecture 22 - LLM Training and Applications.md",
     "Pasted image 20251215124932.png",
     "Pasted image 20251215124841.png",
@@ -235,7 +234,6 @@
     "Machine Learning/CS189 - Introduction to Machine Learning.md",
     "Pasted image 20251214220615.png",
     "Pasted image 20251214210458.png",
-    "Pasted image 20251214210407.png",
     "Machine Learning/Disc 9 - Advanced Neural Networks.md",
     "Machine Learning/Discussion 10 - Transformers.md",
     "Machine Learning/Lecture 2 - Data Tools.md",

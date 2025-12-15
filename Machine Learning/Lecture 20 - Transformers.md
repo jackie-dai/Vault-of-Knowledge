@@ -45,7 +45,7 @@ For each token, you first apply a weight matrix (e.g., , , ) to transform it 
 ```
 *A.I explanation for the diagram*
 
-	
+### The Attention Layer
 ![[Pasted image 20251214210407.png]]code equivalent:
 ```
 def scaled_dot_product_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tensor):
@@ -58,6 +58,11 @@ def scaled_dot_product_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tens
 	attention = F.softmax(dot_product, dim=-1)
 	return attention @ V
 ```
+Explanation for the parameters Q, K, V of the attention function
+```
+- A helpful analogy for understanding the role that the query, key, and value vectors play is thinking about going to the library! The _query_ represents what you are searching for (for instance, you might be looking for a book about matrix calculus). The _keys_ for each book in the library are their titles---you use this to judge how relevant the content in the book might be to your search. And the _value_ of each library book is the actual content inside.
+```
+
 
 Token positioning matters for text and images, but not sets of objects
 ![[Pasted image 20251214220615.png]]
