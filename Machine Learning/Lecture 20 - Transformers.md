@@ -74,3 +74,5 @@ $$
 
 The weakness: The max N positions needs to be known in advance.
 
+### Rotary Positional Embeddings (RoPE)
+Today most models use some variation of RoPE which applies a rotation matrix to the key and query vectors  by a fixed amount  based on that position.
