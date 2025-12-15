@@ -34,4 +34,16 @@ Output: Y~matrix of $R^{NxD}$
 Why can't we just average all the context into a vector and add it to our input?
 ![[Pasted image 20251214163743.png]]
 Not all context is equally important (i.e some words are not as important to understanding the context of bank)
+
 ![[Pasted image 20251214164934.png]]
+
+### Softmaxing
+
+![[Pasted image 20251214210458.png]]
+```
+For each token, you first apply a weight matrix (e.g., , , ) to transform it into query, key, and value vectors. These vectors are then used to compute attention scores via the softmax function applied to the inner product of queries and keys. The attention scores are used to weight the value vectors, producing the final representation for each token.
+```
+*A.I explanation for the diagram*
+
+
+![[Pasted image 20251214210407.png]]
