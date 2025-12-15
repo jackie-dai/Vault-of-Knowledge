@@ -26,4 +26,7 @@ Why is context important?
 
 Bank could mean multiple definitions but we can only tell from context found in the rest of the sentence.
 
-Token embeddings: The transformer model takes as input a set of N token embeddings vectors in R^D representing the basic building of an image or text. For example, patches for images and words for sentences
+**Token embeddings**: The transformer model takes as input a set of N token embeddings vectors in $R^D$ representing the basic building of an image or text. For example, patches for images and words for sentences
+
+Input: X~matrix of $R^{NxD}$, where there is a row for each N token and D columns for the the size of the feature vector for each token
+Output: Y~matrix of $R^{NxD}$
