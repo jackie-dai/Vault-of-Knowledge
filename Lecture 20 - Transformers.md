@@ -6,3 +6,11 @@ The predominant underlying architecture in most LLMs. It can also be applied to 
 
 ### Multi-layer Perceptron (MLP)
 A transformer is made of MLPs
+
+## The problem with convolutional networks
+The issue is that CNNs scan in patches. But patches are independent from each other, there is no broader context beyond that patch.
+
+**Receptive Field**: The width of what's visible to a single neuron.
+
+![[Pasted image 20251214160141.png]]
+Neuron's have a limited 
