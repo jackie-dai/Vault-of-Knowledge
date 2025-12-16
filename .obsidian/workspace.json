@@ -4,49 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "34ba6ba2b83e2dcc",
+        "id": "f6e98b7d802e1d5c",
         "type": "tabs",
         "children": [
           {
-            "id": "686e7c3fab9fd528",
+            "id": "d7e50918f1c18990",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Machine Learning/Lecture 20 - Transformers.md",
-                "mode": "source",
-                "source": false
+                "file": "Machine Learning/img/Pasted image 20251214183543.png"
               },
-              "icon": "lucide-file",
-              "title": "Lecture 20 - Transformers"
-            }
-          },
-          {
-            "id": "5e9f5a0ec881e503",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 21 - Transformers and Language Modeling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 21 - Transformers and Language Modeling"
-            }
-          },
-          {
-            "id": "4880c76512ce9896",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 22 - LLM Training and Applications.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 22 - LLM Training and Applications"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251214183543"
             }
           }
         ]
@@ -116,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "620b7056f36830f6",
@@ -133,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Lecture 20 - Transformers.md",
+                "file": "Machine Learning/img/Pasted image 20251214183543.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 20 - Transformers"
+              "title": "Backlinks for Pasted image 20251214183543"
             }
           },
           {
@@ -218,22 +187,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "686e7c3fab9fd528",
+  "active": "1a93259cabede32e",
   "lastOpenFiles": [
-    "Lecture 21 - Transformers and Language Modeling.md",
-    "Pasted image 20251215130241.png",
-    "Pasted image 20251215130019.png",
-    "Pasted image 20251215125927.png",
-    "Machine Learning/Lecture 20 - Transformers.md",
     "Lecture 22 - LLM Training and Applications.md",
-    "Pasted image 20251215124932.png",
-    "Pasted image 20251215124841.png",
-    "Pasted image 20251215105824.png",
-    "Pasted image 20251215103856.png",
-    "Pasted image 20251215103753.png",
+    "Lecture 21 - Transformers and Language Modeling.md",
+    "Machine Learning/Lecture 20 - Transformers.md",
+    "Machine Learning/img/Pasted image 20251215130241.png",
+    "Machine Learning/img/Pasted image 20251215130019.png",
+    "Machine Learning/img/Pasted image 20251215125927.png",
+    "Machine Learning/img/Pasted image 20251215124932.png",
+    "Machine Learning/img/Pasted image 20251215124841.png",
+    "Machine Learning/img/Pasted image 20251215105824.png",
+    "Machine Learning/img/Pasted image 20251215103856.png",
+    "Machine Learning/img/Pasted image 20251215103753.png",
     "Machine Learning/CS189 - Introduction to Machine Learning.md",
-    "Pasted image 20251214220615.png",
-    "Pasted image 20251214210458.png",
+    "Machine Learning/img/Pasted image 20251214220615.png",
+    "Machine Learning/img/Pasted image 20251214210458.png",
     "Machine Learning/Disc 9 - Advanced Neural Networks.md",
     "Machine Learning/Discussion 10 - Transformers.md",
     "Machine Learning/Lecture 2 - Data Tools.md",
