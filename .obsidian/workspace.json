@@ -11,12 +11,14 @@
             "id": "d7e50918f1c18990",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Machine Learning/img/Pasted image 20251214183543.png"
+                "file": "Probability Theory/Data 140.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251214183543"
+              "icon": "lucide-file",
+              "title": "Data 140"
             }
           }
         ]
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/img/Pasted image 20251214183543.png",
+                "file": "Probability Theory/Data 140.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20251214183543"
+              "title": "Backlinks for Data 140"
             }
           },
           {
@@ -187,10 +189,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "d7e50918f1c18990",
   "lastOpenFiles": [
-    "Lecture 22 - LLM Training and Applications.md",
-    "Lecture 21 - Transformers and Language Modeling.md",
+    "Machine Learning/Linear Regression.md",
+    "Machine Learning/Lecture 21 - Transformers and Language Modeling.md",
+    "Machine Learning/img/Pasted image 20251214183543.png",
+    "Machine Learning/Lecture 22 - LLM Training and Applications.md",
     "Machine Learning/Lecture 20 - Transformers.md",
     "Machine Learning/img/Pasted image 20251215130241.png",
     "Machine Learning/img/Pasted image 20251215130019.png",
@@ -202,7 +206,6 @@
     "Machine Learning/img/Pasted image 20251215103753.png",
     "Machine Learning/CS189 - Introduction to Machine Learning.md",
     "Machine Learning/img/Pasted image 20251214220615.png",
-    "Machine Learning/img/Pasted image 20251214210458.png",
     "Machine Learning/Disc 9 - Advanced Neural Networks.md",
     "Machine Learning/Discussion 10 - Transformers.md",
     "Machine Learning/Lecture 2 - Data Tools.md",
