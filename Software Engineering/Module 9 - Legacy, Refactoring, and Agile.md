@@ -15,3 +15,14 @@ Create a card for each class object, defining the
 - The instance methods
 - What classes it belongs to
 
+
+## Spotting Problems in your code
+### Code Metrics
+
+## Code Smells
+
+**SOFA**
+- Short
+- Do only One thing
+- take few Arguments
+- maintain a consistent level of Abstraction
