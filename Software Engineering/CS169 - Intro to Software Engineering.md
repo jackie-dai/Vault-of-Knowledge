@@ -1,4 +1,11 @@
 
+Final study
+- [ ] read chapter 9
+- [ ] do final project
+- [ ] read chapter 10
+- [ ] read chapter 11
+
+
 ### HTTP Error Codes
 There are series of error codes such as the 200, 300, 400, and 500 series, often denoted as 2xx
 

@@ -9,7 +9,6 @@ A codebase that is not understood because it's original developers are gone.
 3. Examine the database schema and the relationships among the most important classes.
 4. Skim all the code to quantify code quality and test coverage
 
-
 ### Class Responsibility Collaborator (CRC)
 Create a card for each class object, defining the
 - Knows (what instance variables it has)

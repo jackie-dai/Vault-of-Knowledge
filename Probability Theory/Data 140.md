@@ -7,8 +7,4 @@ Study for final
 	- [ ] sp24 final
 	- [ ] fa24 final
 - [ ] TODO: list out topics i need to study
-- [ ] do hw's for those to
-
-
-Topics
-- 
+- [ ] do hw for those topics
