@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Regression.md",
+                "file": "Probability Theory/Lecture 25 - Correlation and Simple Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "Lecture 25 - Correlation and Simple Regression"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability Theory/Lecture 24 - Bivariant Normal Random Variables.md",
+                "file": "Probability Theory/Lecture 25 - Correlation and Simple Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 24 - Bivariant Normal Random Variables"
+              "title": "Lecture 25 - Correlation and Simple Regression"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability Theory/Lecture 24 - Bivariant Normal Random Variables.md",
+                "file": "Probability Theory/Lecture 25 - Correlation and Simple Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 24 - Bivariant Normal Random Variables"
+              "title": "Backlinks for Lecture 25 - Correlation and Simple Regression"
             }
           },
           {
@@ -218,9 +218,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "4e57807522c57d4b",
   "lastOpenFiles": [
-    "Linear Regression.md",
+    "Probability Theory/Lecture 24 - Bivariant Normal Random Variables.md",
+    "Probability Theory/Lecture 23 - Variance by Conditioning.md",
+    "Probability Theory/Lecture 25 - Correlation and Simple Regression.md",
     "Untitled.md",
     "Software Engineering/Module 9 - Legacy, Refactoring, and Agile.md",
     "Software Engineering/CS169 - Intro to Software Engineering.md",
@@ -248,8 +250,6 @@
     "Japanese/Lesson 13.md",
     "Japanese/Lesson 12 - Expressing want and don't wants.md",
     "Japanese/Lesson 14.md",
-    "Probability Theory/Lecture 23 - Variance by Conditioning.md",
-    "Probability Theory/Lecture 24 - Bivariant Normal Random Variables.md",
     "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
     "Machine Learning/Lecture 18 - Convolution Neural Networks (CNNs).md",
     "Machine Learning/Lecture 16 - Neural Network Design and Regularization.md",
