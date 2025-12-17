@@ -36,3 +36,20 @@ In order to find the **least squares linear predictor,** we need to minimize the
 $$
 r_{X,Y} = \frac{Cov(X, Y)}{\sigma_X\sigma_Y} = E[\frac{X-u_x}{\sigma_X}, \frac{Y-u_y}{\sigma_Y}] = E[X_{su}Y_{su}]
 $$
+*Correlation is equal to the expectation of the product of the standard random variables*
+
+When constructing a bivariate normal random variable, we set variance to 1 and mean to 0
+$$
+Corr(X, Y) = \frac{Cov(X, Y)}{\sqrt{Var(X)Var(Y)}}
+$$
+So 
+$$
+Corr(X, Y) = Cov(X, Y)
+$$
+...TODO
+
+$$
+Y = pX + \sqrt{1-p^2}Z 
+$$
+*Y = linear signal + noise*
+
