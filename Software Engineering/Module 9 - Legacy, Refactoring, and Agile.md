@@ -22,7 +22,7 @@ Create a card for each class object, defining the
 ## Code Smells
 
 **SOFA**
-- Short
-- Do only One thing
-- take few Arguments
-- maintain a consistent level of Abstraction
+- **S**hort
+- do only **O**ne thing
+- take **F**ew arguments
+- maintain a consistent level of **A**bstraction
