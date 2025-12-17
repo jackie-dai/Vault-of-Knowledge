@@ -34,4 +34,5 @@ Refactoring methods
 - Decompose conditional
 	- Situation: when a conditional becomes nested two deep or more
 	- Solution: replace each arm of the conditional with a extracted method
-- 
+
+**Technical debt**: when a emergency arises, clean code goes out the window and fast working code is prioritized. This creates technical debt that the maintenance team needs to refactor and write documentation for. 
