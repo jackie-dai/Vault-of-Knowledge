@@ -34,3 +34,4 @@ Refactoring methods
 - Decompose conditional
 	- Situation: when a conditional becomes nested two deep or more
 	- Solution: replace each arm of the conditional with a extracted method
+- 
