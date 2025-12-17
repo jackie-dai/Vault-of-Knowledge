@@ -30,3 +30,9 @@ In order to find the **least squares linear predictor,** we need to minimize the
 	1. Take partial derivative with respect to a
 	2. Set equal to 0
 	3. Solve for a
+
+
+## Correlation
+$$
+r_{X,Y} = \frac{Cov(X, Y)}{\sigma_X\sigma_Y} = E[\frac{X-u_x}{\sigma_X}, \frac{Y-u_y}{\sigma_Y}] = E[X_{su}Y_{su}]
+$$
