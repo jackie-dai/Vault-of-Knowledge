@@ -53,3 +53,8 @@ Y = pX + \sqrt{1-p^2}Z
 $$
 *Y = linear signal + noise*
 
+### Correlation as a cosine
+$$
+Y=Xcos(\theta) + Zcos(\theta) = pX + \sqrt{1-p^2}Z
+$$
+
