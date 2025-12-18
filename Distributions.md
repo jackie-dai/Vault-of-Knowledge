@@ -29,11 +29,17 @@ $$
 ## Hypergeometric(N, G, n)
 Let N=G+B, where G is the number of good elements, and B is the remaining number of bad elements
 
-Let X be random variable of the number of good elements in the sample. 
+Let X be random variable of the number of good elements in the sample. g is a possible value of X
 $$
 P(X=g) = \frac{\binom{G}{g}\binom{B}{b}}{\binom{N}{n}}
 $$
+N=total population size, n=sample size
 
-
+## Uniform
+$$
+	\frac{1}{b-a }
+$$
+The probability of picking x between the interval a and b is equal/uniform.
+## Beta(r, s)
 
 
