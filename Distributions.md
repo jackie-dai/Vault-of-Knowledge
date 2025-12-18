@@ -19,6 +19,7 @@ $$
 where $\mu$=np
 
 ## Geometric(p)
+In a sequence of i.i.d bernou
 
 ## Hypergeometric(N, G, n)
 
