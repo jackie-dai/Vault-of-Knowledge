@@ -8,11 +8,13 @@ Notation
 	- 0..* = "zero or more"
 	- 1 = "exactly one"
 	- 1..* = "one or more"
-- White diamond
+- White diamond (aggregation)
 	- Weak ownership
-- Black diamond
+- Black diamond (composition)
 	- Strong ownership
 
 **Cool UML resource**
 Translates code to UML: https://cruise.umple.org/umple/
 
+
+## Single Responsibility Principle (SRP)
