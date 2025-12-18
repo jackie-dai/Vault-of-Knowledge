@@ -4,9 +4,14 @@ A graphical notation system for diagramming the architecture of an application. 
 
 ![[Pasted image 20251218114343.png]]
 Notation
-- 0..* = "zero or more"
-- 1 = "exactly one"
-- 1..* = "one or more"
+- Association (holds a reference to)
+	- 0..* = "zero or more"
+	- 1 = "exactly one"
+	- 1..* = "one or more"
+- White diamond
+	- Weak ownership
+- Black diamond
+	- Strong ownership
 
 **Cool UML resource**
 Translates code to UML: https://cruise.umple.org/umple/
