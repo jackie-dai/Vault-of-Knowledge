@@ -19,7 +19,14 @@ $$
 where $\mu$=np
 
 ## Geometric(p)
-In a sequence of i.i.d bernou
+In a sequence of i.i.d bernoulli(p) trials, let X be the number of trials until the **first** success.
+$$
+P(X=k)=q^{k-1}p
+$$
+$$
+E[X]=\frac{1}{p}
+$$
+
 
 ## Hypergeometric(N, G, n)
 
