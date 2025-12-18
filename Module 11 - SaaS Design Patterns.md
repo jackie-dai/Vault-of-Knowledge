@@ -18,3 +18,12 @@ Translates code to UML: https://cruise.umple.org/umple/
 
 
 ## Single Responsibility Principle (SRP)
+
+## Open/Closed Principle
+
+## Liskov Substitution Princple
+
+## Dependency Injection Principle
+
+## Demeter Principle
+
