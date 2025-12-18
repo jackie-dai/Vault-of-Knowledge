@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/CS169 - Intro to Software Engineering.md",
+                "file": "Software Engineering/Module 7 - BDD and User Stories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS169 - Intro to Software Engineering"
+              "title": "Module 7 - BDD and User Stories"
             }
           }
         ],
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/CS169 - Intro to Software Engineering.md",
+                "file": "Software Engineering/Module 7 - BDD and User Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CS169 - Intro to Software Engineering"
+              "title": "Backlinks for Module 7 - BDD and User Stories"
             }
           },
           {
@@ -276,10 +276,18 @@
   },
   "active": "b68c08337098f56a",
   "lastOpenFiles": [
-    "Module 12 - Devops.md",
+    "Software Engineering/Ruby on Rails.md",
     "Software Engineering/Module 11 - SaaS Design Patterns.md",
-    "Pasted image 20251218114343.png",
     "Software Engineering/Module 10.md",
+    "Software Engineering/Module 9 - Legacy, Refactoring, and Agile.md",
+    "Software Engineering/Module 7 - BDD and User Stories.md",
+    "Software Engineering/Module 2 - How to Learn a New Language (Ruby).md",
+    "Software Engineering/Model View Controller (MVC).md",
+    "Software Engineering/Lecture 20 - Scrums and Git.md",
+    "Software Engineering/Lecture 4 - Intro to Rails.md",
+    "Software Engineering/CS169 - Intro to Software Engineering.md",
+    "Module 12 - Devops.md",
+    "Pasted image 20251218114343.png",
     "Pasted image 20251218002955.png",
     "Pasted image 20251218002903.png",
     "Probability Theory/Distributions.md",
@@ -290,8 +298,6 @@
     "Probability Theory/Lecture 25 - Correlation and Simple Regression.md",
     "Probability Theory/Lecture 24 - Bivariant Normal Random Variables.md",
     "Probability Theory/Lecture 23 - Variance by Conditioning.md",
-    "Software Engineering/Module 9 - Legacy, Refactoring, and Agile.md",
-    "Software Engineering/CS169 - Intro to Software Engineering.md",
     "Probability Theory/Data 140.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Lecture 21 - Transformers and Language Modeling.md",
@@ -306,12 +312,6 @@
     "Machine Learning/Disc 9 - Advanced Neural Networks.md",
     "Machine Learning/Discussion 10 - Transformers.md",
     "Machine Learning/Lecture 2 - Data Tools.md",
-    "Machine Learning/Lecture 3 - ML Mechanics.md",
-    "Machine Learning/Lecture 4 - K-means and Probability.md",
-    "Japanese/Lesson 13.md",
-    "Japanese/Lesson 12 - Expressing want and don't wants.md",
-    "Japanese/Lesson 14.md",
-    "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
     "Majong/img",
     "Majong",
     "Photography/Color_Theory__Moodboarding.pdf",
