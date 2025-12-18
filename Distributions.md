@@ -18,5 +18,11 @@ P(k)=exp({-\mu\frac{u^k}{k!}})
 $$
 where $\mu$=np
 
+## Geometric(p)
+
+## Hypergeometric(N, G, n)
+
+
+
 
 
