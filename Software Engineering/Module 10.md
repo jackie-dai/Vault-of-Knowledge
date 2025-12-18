@@ -29,3 +29,18 @@ CI includes the continuous running of tests on each commit that has been pushed.
 ## Git Workflows
 
 ### Basic PR workflow with feature per branch
+![[Pasted image 20251218002903.png]]
+
+
+### Fork-and-pull
+![[Pasted image 20251218002955.png]]
+This is used when the team does not own the app being developed and is working off a fork
+
+
+## Report and Fixing Bugs
+**The five R's**
+- Reporting a bug
+- Reproducing the problem, or else Reclassifying it as "not a bug" or "it won't be fixed"
+- Creating a Regression test that demonstrates the bug
+- Repairing the bug
+- Releasing the repaired code
