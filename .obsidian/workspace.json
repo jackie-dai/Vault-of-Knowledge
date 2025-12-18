@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 12 - Devops.md",
+                "file": "Software Engineering/CS169 - Intro to Software Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 12 - Devops"
+              "title": "CS169 - Intro to Software Engineering"
             }
           }
         ],
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 12 - Devops.md",
+                "file": "Software Engineering/CS169 - Intro to Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Module 12 - Devops"
+              "title": "Backlinks for CS169 - Intro to Software Engineering"
             }
           },
           {
@@ -276,8 +276,8 @@
   },
   "active": "b68c08337098f56a",
   "lastOpenFiles": [
-    "Software Engineering/Module 11 - SaaS Design Patterns.md",
     "Module 12 - Devops.md",
+    "Software Engineering/Module 11 - SaaS Design Patterns.md",
     "Pasted image 20251218114343.png",
     "Software Engineering/Module 10.md",
     "Pasted image 20251218002955.png",
