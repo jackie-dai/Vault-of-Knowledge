@@ -10,3 +10,9 @@ OKAY you've deployed your app, so now what?
 3. Persistence tier (database)
 	1. databases guarantees data remains safe through crashes and unexpected errors
 	2. Organizes the data for easy write and read access
+
+
+## Feature flags
+If we need to make changes to a integral part of the architecture (such as the schema of the database) and not affect the user experience. We can either:
+1. bring the application offline to make the changes
+2. split code paths to not use the part that is down so the application can keep running
