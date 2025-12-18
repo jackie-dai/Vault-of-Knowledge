@@ -24,3 +24,8 @@ An alternative to git rebasing. It will merge new changes from the main branch i
 
 
 ## Continuous Integration (CI)
+CI includes the continuous running of tests on each commit that has been pushed.
+
+## Git Workflows
+
+### Basic PR workflow with feature per branch
