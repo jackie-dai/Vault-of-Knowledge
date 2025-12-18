@@ -58,3 +58,7 @@ $$
 Y=Xcos(\theta) + Zcos(\theta) = pX + \sqrt{1-p^2}Z
 $$
 
+## The Regression Equation
+$$
+P(Y_{su} < y_{su} | X_{su} = x_{su}) = \phi(\frac{y_{su} - px_{su}}{\sqrt{1-p^2}})
+$$
