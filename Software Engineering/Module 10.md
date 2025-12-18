@@ -21,3 +21,6 @@ Rebasing is a git operation that makes your world look as if you had branched fr
 
 ## Git Merge
 An alternative to git rebasing. It will merge new changes from the main branch into your feature branch. *It is nondestructive because it doesn't rewrite history* but it does add additional merge commits to your branch.
+
+
+## Continuous Integration (CI)
