@@ -26,10 +26,13 @@ $$
 $$
 E[X]=\frac{1}{p}
 $$
-
-
 ## Hypergeometric(N, G, n)
+Let N=G+B, where G is the number of good elements, and B is the remaining number of bad elements
 
+Let X be random variable of the number of good elements in the sample. 
+$$
+P(X=g) = \frac{\binom{G}{g}\binom{B}{b}}{\binom{N}{n}}
+$$
 
 
 
