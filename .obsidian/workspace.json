@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
+                "file": "Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 22 - The Beta and the Binomial"
+              "title": "Backlinks for Cheatsheet"
             }
           },
           {
@@ -288,8 +288,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b68c08337098f56a",
+  "active": "46e33c79010bd784",
   "lastOpenFiles": [
+    "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
     "Probability Theory/Lecture 21 - MLE.md",
     "Probability Theory/Lecture 20 - CLT Proof and Moment Generating Functions (Cont.).md",
     "Probability Theory/Lecture 19 - Moment Generating Functions (MGF).md",
@@ -302,7 +303,6 @@
     "Probability Theory/Distributions.md",
     "Cheatsheet.md",
     "Probability Theory/Lecture 12 - Standard Deviation and Variance.md",
-    "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
     "Probability Theory/Lecture 23 - Variance by Conditioning.md",
     "Probability Theory/Probability Generating Functions (PGFs).md",
     "Software Engineering/img/Pasted image 20251218002903.png",
