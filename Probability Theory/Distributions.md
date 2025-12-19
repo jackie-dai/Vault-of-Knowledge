@@ -43,3 +43,7 @@ The probability of picking x between the interval a and b is equal/uniform.
 ## Beta(r, s)
 
 
+## Exponential($\lambda$)
+
+## Gamma($r, \lambda$)
+
