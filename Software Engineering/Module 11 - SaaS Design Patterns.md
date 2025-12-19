@@ -26,4 +26,3 @@ Translates code to UML: https://cruise.umple.org/umple/
 ## Dependency Injection Principle
 
 ## Demeter Principle
-

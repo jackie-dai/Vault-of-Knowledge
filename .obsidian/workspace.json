@@ -95,14 +95,12 @@
             "id": "b68c08337098f56a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Software Engineering/Module 7 - BDD and User Stories.md",
-                "mode": "source",
-                "source": false
+                "file": "Software Engineering/img/Pasted image 20251218002903.png"
               },
-              "icon": "lucide-file",
-              "title": "Module 7 - BDD and User Stories"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251218002903"
             }
           }
         ],
@@ -189,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Module 7 - BDD and User Stories.md",
+                "file": "Software Engineering/img/Pasted image 20251218002903.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Module 7 - BDD and User Stories"
+              "title": "Backlinks for Pasted image 20251218002903"
             }
           },
           {
@@ -274,22 +272,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b68c08337098f56a",
+  "active": "1a93259cabede32e",
   "lastOpenFiles": [
+    "Software Engineering/Module 7 - BDD and User Stories.md",
     "Software Engineering/Ruby on Rails.md",
     "Software Engineering/Module 11 - SaaS Design Patterns.md",
     "Software Engineering/Module 10.md",
     "Software Engineering/Module 9 - Legacy, Refactoring, and Agile.md",
-    "Software Engineering/Module 7 - BDD and User Stories.md",
     "Software Engineering/Module 2 - How to Learn a New Language (Ruby).md",
     "Software Engineering/Model View Controller (MVC).md",
     "Software Engineering/Lecture 20 - Scrums and Git.md",
     "Software Engineering/Lecture 4 - Intro to Rails.md",
     "Software Engineering/CS169 - Intro to Software Engineering.md",
-    "Module 12 - Devops.md",
-    "Pasted image 20251218114343.png",
-    "Pasted image 20251218002955.png",
-    "Pasted image 20251218002903.png",
+    "Software Engineering/Module 12 - Devops.md",
+    "Software Engineering/img/Pasted image 20251218114343.png",
+    "Software Engineering/img/Pasted image 20251218002955.png",
+    "Software Engineering/img/Pasted image 20251218002903.png",
     "Probability Theory/Distributions.md",
     "Obsidian Git Conflicts.md",
     "Untitled 1.md",
