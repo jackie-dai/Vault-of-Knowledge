@@ -42,8 +42,14 @@ $$
 The probability of picking x between the interval a and b is equal/uniform.
 ## Beta(r, s)
 
-
 ## Exponential($\lambda$)
+The exponential distribution is often used as a model for random lifetimes. Think of T as the lifetime of an object like a lightbulb, and t as the chance that the object dies before time t.
+
+
 
 ## Gamma($r, \lambda$)
+
+## Chi-Square(n)
+
+## Normal 
 
