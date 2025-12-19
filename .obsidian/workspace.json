@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "Probability Theory/Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cheatsheet"
+              "title": "Backlinks for Distributions"
             }
           },
           {
@@ -288,10 +288,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46e33c79010bd784",
+  "active": "b68c08337098f56a",
   "lastOpenFiles": [
-    "Probability Theory/Distributions.md",
     "Cheatsheet.md",
+    "Probability Theory/Distributions.md",
     "Probability Theory/Lecture 13 - Covariance.md",
     "Probability Theory/Lecture 12 - Standard Deviation and Variance.md",
     "Probability Theory/Lecture 14 - Concentration.md",
