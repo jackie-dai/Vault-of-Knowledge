@@ -40,16 +40,26 @@ $$
 	\frac{1}{b-a }
 $$
 The probability of picking x between the interval a and b is equal/uniform.
-## Beta(r, s)
+
+## Normal($\mu$, $\sigma^2$)
 
 ## Exponential($\lambda$)
 The exponential distribution is often used as a model for random lifetimes. Think of T as the lifetime of an object like a lightbulb, and t as the chance that the object dies before time t.
+$$
+	P(X<t) = 1-e^{-\lambda t}
+$$
 
+$$
+P(X>t) = e^{-\lambda t}
+$$
+*The exponential distribution is the continuous version of the geometric distribution.*
+Geometric: number of trials until the first success
+Exponential: time until the first success
 
 
 ## Gamma($r, \lambda$)
 
-## Chi-Square(n)
+## Beta(r, s)
 
-## Normal 
+## Chi-Square(n)
 
