@@ -12,7 +12,6 @@ P(S_n=k)=\binom{n}{k}p^k(1-p)^{n-k}
 $$
 ## Poisson($\mu$)
 When n is large and p is small, the chance of k successes in n Bernoulli(p) trials is roughly
-
 $$
 P(k)=exp({-\mu\frac{u^k}{k!}})
 $$
@@ -40,7 +39,6 @@ $$
 	\frac{1}{b-a }
 $$
 The probability of picking x between the interval a and b is equal/uniform.
-
 ## Normal($\mu$, $\sigma^2$)
 
 ## Exponential($\lambda$)
@@ -56,10 +54,11 @@ $$
 Geometric: number of trials until the first success
 Exponential: time until the first success
 
-
 ## Gamma($r, \lambda$)
-
-## Beta(r, s)
+The sum of i.i.d exponential($\lambda$) random variables has the gamma($r$,$\lambda$) distribution
 
 ## Chi-Square(n)
+A branch of the Gamma family
 
+
+## Beta(r, s)
