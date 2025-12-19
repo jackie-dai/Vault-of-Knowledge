@@ -95,12 +95,14 @@
             "id": "b68c08337098f56a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Software Engineering/img/Pasted image 20251218002903.png"
+                "file": "Probability Theory/Distributions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251218002903"
+              "icon": "lucide-file",
+              "title": "Distributions"
             }
           }
         ],
@@ -187,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/img/Pasted image 20251218002903.png",
+                "file": "Probability Theory/Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20251218002903"
+              "title": "Backlinks for Distributions"
             }
           },
           {
@@ -272,8 +274,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "b68c08337098f56a",
   "lastOpenFiles": [
+    "Probability Theory/Probability Generating Functions (PGFs).md",
+    "Software Engineering/img/Pasted image 20251218002903.png",
     "Software Engineering/Module 7 - BDD and User Stories.md",
     "Software Engineering/Ruby on Rails.md",
     "Software Engineering/Module 11 - SaaS Design Patterns.md",
@@ -287,7 +291,6 @@
     "Software Engineering/Module 12 - Devops.md",
     "Software Engineering/img/Pasted image 20251218114343.png",
     "Software Engineering/img/Pasted image 20251218002955.png",
-    "Software Engineering/img/Pasted image 20251218002903.png",
     "Probability Theory/Distributions.md",
     "Obsidian Git Conflicts.md",
     "Untitled 1.md",
@@ -309,7 +312,6 @@
     "Machine Learning/CS189 - Introduction to Machine Learning.md",
     "Machine Learning/Disc 9 - Advanced Neural Networks.md",
     "Machine Learning/Discussion 10 - Transformers.md",
-    "Machine Learning/Lecture 2 - Data Tools.md",
     "Majong/img",
     "Majong",
     "Photography/Color_Theory__Moodboarding.pdf",
