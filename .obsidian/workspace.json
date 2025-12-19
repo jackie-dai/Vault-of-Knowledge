@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability Theory/Lecture 13 - Covariance.md",
+                "file": "Probability Theory/Distributions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 13 - Covariance"
+              "title": "Distributions"
+            }
+          },
+          {
+            "id": "46e33c79010bd784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheatsheet"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -189,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability Theory/Lecture 13 - Covariance.md",
+                "file": "Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 13 - Covariance"
+              "title": "Backlinks for Cheatsheet"
             }
           },
           {
@@ -274,10 +288,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b68c08337098f56a",
+  "active": "46e33c79010bd784",
   "lastOpenFiles": [
-    "Probability Theory/Lecture 12 - Standard Deviation and Variance.md",
+    "Probability Theory/Distributions.md",
+    "Cheatsheet.md",
     "Probability Theory/Lecture 13 - Covariance.md",
+    "Probability Theory/Lecture 12 - Standard Deviation and Variance.md",
     "Probability Theory/Lecture 14 - Concentration.md",
     "Probability Theory/Lecture 15 - Continuous Random Variables.md",
     "Probability Theory/Lecture 16 - Transformations.md",
@@ -287,7 +303,6 @@
     "Probability Theory/Lecture 20 - CLT Proof and Moment Generating Functions (Cont.).md",
     "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
     "Probability Theory/Lecture 23 - Variance by Conditioning.md",
-    "Probability Theory/Distributions.md",
     "Probability Theory/Probability Generating Functions (PGFs).md",
     "Software Engineering/img/Pasted image 20251218002903.png",
     "Software Engineering/Module 7 - BDD and User Stories.md",
@@ -304,7 +319,6 @@
     "Software Engineering/img/Pasted image 20251218114343.png",
     "Software Engineering/img/Pasted image 20251218002955.png",
     "Obsidian Git Conflicts.md",
-    "Untitled 1.md",
     "Software Engineering/img/Pasted image 20251217180920.png",
     "Software Engineering/img/Pasted image 20251217180939.png",
     "Machine Learning/img/Pasted image 20251214183543.png",

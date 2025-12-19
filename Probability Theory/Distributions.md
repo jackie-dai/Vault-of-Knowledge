@@ -16,6 +16,10 @@ $$
 P(k)=exp({-\mu\frac{u^k}{k!}})
 $$
 where $\mu$=np
+$$
+E[X]=\mu , Var(X)=\mu,SD=\sqrt{\mu}
+$$
+
 
 ## Geometric(p)
 In a sequence of i.i.d bernoulli(p) trials, let X be the number of trials until the **first** success.
