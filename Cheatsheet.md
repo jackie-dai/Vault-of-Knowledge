@@ -12,6 +12,16 @@ To find the density curve, find the mode (peak of the curve)
 $$
 Mode=\frac{r-1}{r+s-2}
 $$
+The parameters r and s
+r pulls the curve towards -> 1
+s pulls the curve towards -> 0
+## Poisson
+Given a histogram, plug in the the k values (the x values) to find how high each bar should be
+$$
+P(X=k)=exp(-\mu\frac{u^k}{k!})
+$$
+
+
 
 TODO:
 - [ ] covariance formulas
