@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "Probability Theory/Lecture 13 - Covariance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheatsheet"
+              "title": "Lecture 13 - Covariance"
             }
           }
         ],
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "Probability Theory/Lecture 13 - Covariance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cheatsheet"
+              "title": "Backlinks for Lecture 13 - Covariance"
             }
           },
           {
@@ -290,6 +290,7 @@
   },
   "active": "46e33c79010bd784",
   "lastOpenFiles": [
+    "Cheatsheet.md",
     "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
     "Probability Theory/Lecture 21 - MLE.md",
     "Probability Theory/Lecture 20 - CLT Proof and Moment Generating Functions (Cont.).md",
@@ -301,7 +302,6 @@
     "Probability Theory/Lecture 15 - Continuous Random Variables.md",
     "Probability Theory/Lecture 16 - Transformations.md",
     "Probability Theory/Distributions.md",
-    "Cheatsheet.md",
     "Probability Theory/Lecture 12 - Standard Deviation and Variance.md",
     "Probability Theory/Lecture 23 - Variance by Conditioning.md",
     "Probability Theory/Probability Generating Functions (PGFs).md",
