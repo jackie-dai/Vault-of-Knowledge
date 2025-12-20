@@ -26,5 +26,7 @@ $$
 TODO:
 - [ ] covariance formulas
 - [ ] study the shapes of the distributions
+- [ ] change of density formula
 
 
+Square a normal -> gamma(1/2, 1/2)
