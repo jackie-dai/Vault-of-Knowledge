@@ -6,9 +6,14 @@
 
 ごほんをたべます
 
+## Object marker を
+Verbs require a subject and object, we mark the subject with は or が and mark objects with を.
+
+
+*を becomes は in negative statements*
 ## Direction marker へ
 
-place に/へ いきます
+place に/88へ いきます
 
 ーーかいえります
 ーーいます
