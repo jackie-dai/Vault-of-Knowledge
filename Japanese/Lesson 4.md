@@ -22,7 +22,7 @@ Some nouns can be prefixed お with to convey you place value on the noun
 としょかん**に**日本大のしんぶんが**あります**。
 としょかん**で**日本のしんぶんを**よみます**
 
-## Direction marker へ
+	## Direction marker へ 
 
 place に/88へ いきます
 
