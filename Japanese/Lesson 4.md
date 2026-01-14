@@ -13,7 +13,12 @@ Verbs require a subject and object, we mark the subject with は or が and mark
 *を becomes は in negative statements*
 
 ## Beautifiers and 
-Some nouns can be prefixed お　with to convey you place value on the noun
+Some nouns can be prefixed お with to convey you place value on the noun
+
+## Difference between location markers and
+に - for marking sentences with states
+
+
 ## Direction marker へ
 
 place に/88へ いきます
