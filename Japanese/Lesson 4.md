@@ -32,8 +32,9 @@ place に/88へ いきます
 # Time marker に
 used for marking a point in time
 
-*Note: relative time expressions あした、don't use に, with the exception being optional for しゅうまつ*
+*Note: relative time expression (e.g. あした、きょう) don't use に, with the exception being optional for しゅうまつ*
 
+*Rule of thumb: を*
 ## Days of the week
 
 月曜日
