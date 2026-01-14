@@ -28,6 +28,12 @@ place に/88へ いきます
 
 ーーかいえります
 ーーいます
+
+# Time marker に
+used for marking a point in time
+
+*Note: relative time expressions あした、don't use に, with the exception being optional for しゅうまつ*
+
 ## Days of the week
 
 月曜日
