@@ -1,11 +1,13 @@
 
 
+## Pre-ますフォーム
 
 こひをのみます
 
 ごほんをたべます
 
-direction marker
+## Direction marker へ
+
 place に/へ いきます
 
 ーーかいえります
@@ -17,7 +19,6 @@ place に/へ いきます
 水曜日
 金曜日
 木曜日
-
 土曜日
 日曜日
 
