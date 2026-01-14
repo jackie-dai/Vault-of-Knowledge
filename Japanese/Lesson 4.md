@@ -34,7 +34,8 @@ used for marking a point in time
 
 *Note: relative time expression (e.g. あした、きょう) don't use に, with the exception being optional for しゅうまつ*
 
-*Rule of thumb: を*
+*Rule of thumb: you can't use を twice in a sentence*
+
 ## Days of the week
 
 月曜日
