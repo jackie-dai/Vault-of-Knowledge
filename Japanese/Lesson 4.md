@@ -17,7 +17,10 @@ Some nouns can be prefixed お with to convey you place value on the noun
 
 ## Difference between location markers and
 に - for marking sentences with states
+で - marking sentences with actions
 
+としょかん**に**日本大のしんぶんが**あります**。
+としょかん**で**日本のしんぶんを**よみます**
 
 ## Direction marker へ
 
