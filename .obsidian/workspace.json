@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Lecture 1 - What is a operating system.md",
+                "file": "Japanese/Lesson 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - What is a operating system"
+              "title": "Lesson 4"
             }
           }
         ],
@@ -304,10 +304,10 @@
   },
   "active": "a6dcb3e9d0b7089e",
   "lastOpenFiles": [
+    "Operating Systems/Lecture 1 - What is a operating system.md",
     "Operating Systems/img",
     "Operating Systems/img/Pasted image 20260120160334.png",
     "Operating Systems/CS162.md",
-    "Operating Systems/Lecture 1 - What is a operating system.md",
     "Japanese/Lesson 4.md",
     "Operating Systems",
     "Japanese/Lesson 6.md",
@@ -349,7 +349,6 @@
     "Stat20/img",
     "Mat",
     "Machine Learning/img",
-    "Probability Theory/img",
     "Untitled.canvas"
   ]
 }

@@ -29,6 +29,12 @@ place に/88へ いきます
 ーーかいえります
 ーーいます
 
+～～ましょう
+
+ましょう  translates to "lets do", but it may sound too assertive.
+
+To soften the tone, we can add か
+おちゃをのみましょうか
 # Time marker に
 used for marking a point in time
 
