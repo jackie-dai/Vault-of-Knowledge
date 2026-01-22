@@ -29,7 +29,7 @@ place に/88へ いきます
 ーーかいえります
 ーーいます
 
-～～ましょう
+## ～ましょう
 
 ましょう  translates to "lets do", but it may sound too assertive.
 
@@ -42,13 +42,18 @@ used for marking a point in time
 
 *Rule of thumb: you can't use を twice in a sentence*
 
+## Final Particle ね
+Add to the end of a sentence when you agree with something.
+
+いいですね or そうですね
+
 ## Days of the week
 
 月曜日
 火曜日
 水曜日
-金曜日
 木曜日
+金曜日
 土曜日
 日曜日
 
