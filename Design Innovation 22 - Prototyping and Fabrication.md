@@ -15,5 +15,11 @@ finger-joints
 Works but visually overwhelming and amateur looking
 
 Mortise and tenon
+![[Pasted image 20260122124007.png]]
+
 
 captive nut 
+
+
+**Flexures and ...**
+
