@@ -132,9 +132,21 @@
               "icon": "lucide-file",
               "title": "Lesson 4"
             }
+          },
+          {
+            "id": "eb4c11d2d6eb7f72",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -302,7 +314,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6dcb3e9d0b7089e",
+  "active": "eb4c11d2d6eb7f72",
   "lastOpenFiles": [
     "Operating Systems/Lecture 1 - What is a operating system.md",
     "Operating Systems/img",
