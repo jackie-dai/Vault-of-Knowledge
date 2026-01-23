@@ -1,7 +1,7 @@
 
-## Thread
+## Threads
 - describes program state
-has its own program counter, registers, execution flags, stack, and memory
+- has its own program counter, registers, execution flags, stack, and memory
 
 *Threads use shared memory*
 
@@ -9,9 +9,12 @@ Threads are like multiple cores.
 
 So we need a TCB
 Thread Control Block (TCB)
-- holds contents of registers when thread not run
+- holds contents of registers when thread not running
+- TCB are stored in the kernel
 
-Address pace
+** Read through thread.h and thread.c in hw0 if interested in threads
+**
+## Address Space
 - set of memory addresses
 
 process
