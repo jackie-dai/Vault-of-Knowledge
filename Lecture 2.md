@@ -20,8 +20,10 @@ Thread Control Block (TCB)
 
 
 
-process
+## Process
+Execution environment with restricted rights
 - one or more threads
+
 
 Dual mode operation
 - only the system has the ability to access certain resources
