@@ -17,14 +17,17 @@ Thread Control Block (TCB)
 ## Address Space
 - set of memory addresses
 - high addresses on top and low addresses on bottom
-
-
+Threads run in address spaces
 
 ## Process
 Execution environment with restricted rights
-- one or more threads
+- Runs one or more threads
 
 
-Dual mode operation
+## Dual mode operation
+Hardware provides at least two modes
+1. Kernel Mode
+2. User Mode
+
 - only the system has the ability to access certain resources
 - combined with translation, isolates programs from each other and the OS from programs
