@@ -3,6 +3,14 @@
 - describes program state
 has its own program counter, registers, execution flags, stack, and memory
 
+*Threads use shared memory*
+
+Threads are like multiple cores.
+
+So we need a TCB
+Thread Control Block (TCB)
+- holds contents of registers when thread not run
+
 Address pace
 - set of memory addresses
 
