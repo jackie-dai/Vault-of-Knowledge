@@ -16,6 +16,9 @@ Thread Control Block (TCB)
 **
 ## Address Space
 - set of memory addresses
+- high addresses on top and low addresses on bottom
+
+
 
 process
 - one or more threads
