@@ -10,5 +10,11 @@ Today is Wednesday
 Yesterday was Tuesday
 昨日は火曜日ですた
 
-## Dictionary 
+## Dictionary フォーム
+
+
+
+## I plan to do つもりです
+
+フォーム+つもりです
 
