@@ -31,3 +31,5 @@ Hardware provides at least two modes
 
 - only the system has the ability to access certain resources
 - combined with translation, isolates programs from each other and the OS from programs
+
+
