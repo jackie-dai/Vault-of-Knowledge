@@ -31,3 +31,6 @@ MSE=$E[(\hat{\theta}-\theta)^2]$
 
 
 ## Asymptotic Distribution of the Sample Mean
+
+
+## Confidence Intervals
