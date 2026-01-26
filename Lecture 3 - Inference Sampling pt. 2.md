@@ -10,10 +10,24 @@ The probability distribution of the estimator is called its sampling distributio
 
 *People like to sample without replacement in real life*
 
+---
+Population parameter: population mean, variance, standard deviation.
+
+---
 
 ## Finite Population Correction 
 
 The accuracy of the estimator is not dependent on the population size, but the sample size.
 
 
-Population parameter
+
+
+
+![[Pasted image 20260126144246.png]]
+Given the information, we would prefer low variance, high bias because we can shift and account for the bias.
+
+MSE=$E[(\hat{\theta}-\theta)^2]$
+= Bias^2 + variance
+
+
+## Asymptotic Distribution of the Sample Mean
