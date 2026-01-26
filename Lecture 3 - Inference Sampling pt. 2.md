@@ -7,3 +7,13 @@
 
 **The estimator is a random variable**
 The probability distribution of the estimator is called its sampling distribution, and the standard deviation of the distribution will be called the standard error.
+
+*People like to sample without replacement in real life*
+
+
+## Finite Population Correction 
+
+The accuracy of the estimator is not dependent on the population size, but the sample size.
+
+
+Population parameter
