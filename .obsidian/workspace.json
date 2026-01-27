@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking.md",
+                "file": "Cooking/Cooking.md",
                 "mode": "source",
                 "source": false
               },
@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 3 - Inference Sampling pt. 2.md",
+                "file": "Cooking/Cooking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - Inference Sampling pt. 2"
+              "title": "Cooking"
             }
           }
         ],
@@ -274,20 +274,20 @@
   },
   "active": "403bbc08454e709c",
   "lastOpenFiles": [
-    "Stat135/Lecture 2 - Inference Sampling.md",
+    "Cooking/Knife Skills.md",
     "Lecture 3 - Inference Sampling pt. 2.md",
+    "Stat135/Lecture 2 - Inference Sampling.md",
     "Pasted image 20260126144246.png",
     "Pasted image 20260126120945.png",
     "Stat135/img",
     "Stat135/img/Pasted image 20260126120759.png",
-    "Cooking.md",
+    "Cooking/Cooking.md",
     "Stat135",
     "3D Printing/Design Innovation 22 - Prototyping and Fabrication.md",
     "3D Printing/img/Pasted image 20260122123944.png",
     "3D Printing/img",
     "3D Printing/img/Pasted image 20260122124007.png",
     "Cooking/img/Pasted image 20260125155804.png",
-    "Cooking/Knife Skills.md",
     "Cooking/img/Pasted image 20260125155812.png",
     "Cooking/img",
     "Japanese/Lesson 5.md",
