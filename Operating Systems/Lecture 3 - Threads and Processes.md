@@ -14,3 +14,9 @@ Some operations that trigger this switch are
 - exceptions
 
 Thread handler
+
+## Processes
+
+
+## Forks
+A process created from a fork is a child process, process calling fork is called the parent
