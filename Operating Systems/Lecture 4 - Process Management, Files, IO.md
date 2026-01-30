@@ -20,3 +20,6 @@ Not the fastest parallezation but its correct and works
 
 Separate kernel stacks!
 Each threads has both user stack and kernel stack 
+
+
+![[Pasted image 20260129162739.png]]
