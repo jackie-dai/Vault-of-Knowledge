@@ -9,6 +9,11 @@ If threads are accessing the same memory, variables could be different values ea
 We can prevent this from happening by using **locks**.
 
 ### Locks
-Not the fastest parallezation but its corre
+Not the fastest parallezation but its correct and works
 - Lock.acquire()
 - Lock.release()
+![[Pasted image 20260129155840.png]]
+
+
+## Safe Kernel Mode Transfers
+	
