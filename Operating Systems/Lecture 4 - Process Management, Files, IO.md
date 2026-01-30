@@ -16,4 +16,7 @@ Not the fastest parallezation but its correct and works
 
 
 ## Safe Kernel Mode Transfers
-	
+- Atomically transfer  to well defined entry pointers while entering kernel mode
+
+Separate kernel stacks!
+Each threads has both user stack and kernel stack 
