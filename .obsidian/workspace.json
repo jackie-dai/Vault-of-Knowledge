@@ -175,18 +175,30 @@
             "id": "133c92a434ab4bbb",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260129162739.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260129162739"
+            }
+          },
+          {
+            "id": "e3b3d1e8fb551883",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 7 - Computing the Standard Error.md",
+                "file": "Disc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 7 - Computing the Standard Error"
+              "title": "Disc"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -354,29 +366,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "133c92a434ab4bbb",
+  "active": "e3b3d1e8fb551883",
   "lastOpenFiles": [
+    "Pasted image 20260129162739.png",
+    "Disc.md",
+    "Stat135/Pasted image 20260126144246.png",
+    "Pasted image 20260127154904.png",
+    "Pasted image 20260129155837.png",
+    "Stat135/Pasted image 20260126120945.png",
+    "Stat135/Lecture 7 - Computing the Standard Error.md",
     "Stat33B/Lecture 2 - Vectors.md",
-    "Lecture 7 - Computing the Standard Error.md",
     "Stat33B",
     "Stat135/Lecture 5 - Parametric Estimation.md",
-    "Pasted image 20260126144246.png",
     "Math 53/Planes.md",
     "Operating Systems/Lecture 3 - Threads and Processes.md",
     "Operating Systems/Lecture 4 - Process Management, Files, IO.md",
-    "Pasted image 20260129162739.png",
     "Pasted image 20260129155840.png",
-    "Pasted image 20260129155837.png",
     "Operating Systems/Lecture 2 - Four Fundamental OS Concepts.md",
     "Prototyping and Fabrication/Laser Cutting.md",
     "Prototyping and Fabrication/Design Innovation 22 - Prototyping and Fabrication.md",
     "Stat135/R Programming.md",
-    "Pasted image 20260127154904.png",
     "Stat135/Lecture 3 - Inference Sampling pt. 2.md",
     "Stat135/Lecture 2 - Inference Sampling.md",
     "Cooking/Cooking.md",
     "Cooking/Knife Skills.md",
-    "Pasted image 20260126120945.png",
     "Stat135/img",
     "Stat135/img/Pasted image 20260126120759.png",
     "Stat135",
@@ -396,8 +409,6 @@
     "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
     "Probability Theory/Lecture 21 - MLE.md",
     "Probability Theory/Lecture 20 - CLT Proof and Moment Generating Functions (Cont.).md",
-    "Probability Theory/Lecture 19 - Moment Generating Functions (MGF).md",
-    "Probability Theory/Lecture 18 - Joint Distributions; Sums of Normal and Gamma Variables.md",
     "Prototyping and Fabrication",
     "Operating Systems/img",
     "Operating Systems",
