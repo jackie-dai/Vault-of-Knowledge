@@ -177,7 +177,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260129162739.png"
+                "file": "Operating Systems/img/Pasted image 20260129162739.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260129162739"
@@ -189,7 +189,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discussion 2 - Threads and IO.md",
+                "file": "Operating Systems/Discussion 2 - Threads and IO.md",
                 "mode": "source",
                 "source": false
               },
@@ -203,7 +203,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DESINV22 - Gears.md",
+                "file": "Prototyping and Fabrication/DESINV22 - Gears.md",
                 "mode": "source",
                 "source": false
               },
@@ -382,13 +382,16 @@
   },
   "active": "8dd695c277f6a8b7",
   "lastOpenFiles": [
-    "Pasted image 20260210132519.png",
-    "Discussion 2 - Threads and IO.md",
-    "DESINV22 - Gears.md",
-    "Pasted image 20260129162739.png",
-    "Stat135/Pasted image 20260126144246.png",
-    "Pasted image 20260127154904.png",
+    "Prototyping and Fabrication/DESINV22 - Prototyping and Fabrication.md",
+    "Prototyping and Fabrication/Laser Cutting.md",
+    "Prototyping and Fabrication/DESINV22 - Gears.md",
+    "Operating Systems/Discussion 2 - Threads and IO.md",
+    "Operating Systems/img/Pasted image 20260129162739.png",
+    "Pasted image 20260129155840.png",
     "Pasted image 20260129155837.png",
+    "Operating Systems/img/Pasted image 20260127154904.png",
+    "Prototyping and Fabrication/img/Pasted image 20260210132519.png",
+    "Stat135/Pasted image 20260126144246.png",
     "Stat135/Pasted image 20260126120945.png",
     "Stat135/Lecture 7 - Computing the Standard Error.md",
     "Stat33B/Lecture 2 - Vectors.md",
@@ -397,10 +400,7 @@
     "Math 53/Planes.md",
     "Operating Systems/Lecture 3 - Threads and Processes.md",
     "Operating Systems/Lecture 4 - Process Management, Files, IO.md",
-    "Pasted image 20260129155840.png",
     "Operating Systems/Lecture 2 - Four Fundamental OS Concepts.md",
-    "Prototyping and Fabrication/Laser Cutting.md",
-    "Prototyping and Fabrication/Design Innovation 22 - Prototyping and Fabrication.md",
     "Stat135/R Programming.md",
     "Stat135/Lecture 3 - Inference Sampling pt. 2.md",
     "Stat135/Lecture 2 - Inference Sampling.md",
@@ -412,7 +412,6 @@
     "Prototyping and Fabrication/img/Pasted image 20260122123944.png",
     "Prototyping and Fabrication/img",
     "Prototyping and Fabrication/img/Pasted image 20260122124007.png",
-    "Cooking/img/Pasted image 20260125155804.png",
     "Cooking/img",
     "Japanese/Lesson 5.md",
     "Cooking",
