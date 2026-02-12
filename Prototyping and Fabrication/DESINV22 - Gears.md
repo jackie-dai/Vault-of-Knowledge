@@ -14,3 +14,13 @@ illustator
 
 Inspiration
 ![[Pasted image 20260210132519.png]]
+
+## GearGenerator.com
+
+Settings:
+Number of teeth - teeth
+Pitch diameter (D) - diameter of gear
+Diametral pitch (A)  - tooth size (teeth / pitch diameter)
+Pressure angle (PA) - angle of each teeth
+
+![[Pasted image 20260212113138.png]]

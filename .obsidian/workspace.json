@@ -229,12 +229,14 @@
             "id": "45c16b299a9baeb0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Prototyping and Fabrication/DESINV22 - Gears.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "DESINV22 - Gears"
             }
           }
         ],
@@ -408,6 +410,7 @@
   },
   "active": "45c16b299a9baeb0",
   "lastOpenFiles": [
+    "Pasted image 20260212113138.png",
     "Prototyping and Fabrication/DESINV22 - Gears.md",
     "Operating Systems/Tips.md",
     "Prototyping and Fabrication/DESINV22 - Prototyping and Fabrication.md",
@@ -449,7 +452,6 @@
     "Probability Theory/Lecture 24 - Bivariant Normal Random Variables.md",
     "Probability Theory/Lecture 23 - Variance by Conditioning.md",
     "Probability Theory/Lecture 22 - The Beta and the Binomial.md",
-    "Probability Theory/Lecture 21 - MLE.md",
     "Prototyping and Fabrication",
     "Operating Systems/img",
     "Operating Systems",
