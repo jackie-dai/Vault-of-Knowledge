@@ -24,3 +24,6 @@ Diametral pitch (A)  - tooth size (teeth / pitch diameter)
 Pressure angle (PA) - angle of each teeth
 
 ![[Pasted image 20260212113138.png]]
+
+## Resources
+To learn more about gears: https://ciechanow.ski/gears/
