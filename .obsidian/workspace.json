@@ -224,9 +224,21 @@
               "icon": "lucide-file",
               "title": "Tips"
             }
+          },
+          {
+            "id": "45c16b299a9baeb0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -394,7 +406,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16c5c95c2a467e39",
+  "active": "45c16b299a9baeb0",
   "lastOpenFiles": [
     "Prototyping and Fabrication/DESINV22 - Gears.md",
     "Operating Systems/Tips.md",
