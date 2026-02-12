@@ -27,3 +27,5 @@ Pressure angle (PA) - angle of each teeth
 
 ## Resources
 To learn more about gears: https://ciechanow.ski/gears/
+Jacobs 1st floor printers: https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer/ (only 1k wow)
+
