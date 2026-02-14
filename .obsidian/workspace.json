@@ -231,12 +231,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prototyping and Fabrication/DESINV22 - Gears.md",
+                "file": "Operating Systems/Tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DESINV22 - Gears"
+              "title": "Tips"
             }
           }
         ],
@@ -410,8 +410,10 @@
   },
   "active": "45c16b299a9baeb0",
   "lastOpenFiles": [
-    "Pasted image 20260212113138.png",
+    "Cheatsheet.md",
+    "Obsidian Git Conflicts.md",
     "Prototyping and Fabrication/DESINV22 - Gears.md",
+    "Pasted image 20260212113138.png",
     "Operating Systems/Tips.md",
     "Prototyping and Fabrication/DESINV22 - Prototyping and Fabrication.md",
     "Prototyping and Fabrication/Laser Cutting.md",
@@ -441,13 +443,11 @@
     "Stat135",
     "Prototyping and Fabrication/img/Pasted image 20260122123944.png",
     "Prototyping and Fabrication/img",
-    "Prototyping and Fabrication/img/Pasted image 20260122124007.png",
     "Cooking/img",
     "Japanese/Lesson 5.md",
     "Cooking",
     "Operating Systems/Disc 1 - C and x86.md",
     "Operating Systems/Lecture 1 - What is a operating system.md",
-    "Cheatsheet.md",
     "Probability Theory/Lecture 25 - Correlation and Simple Regression.md",
     "Probability Theory/Lecture 24 - Bivariant Normal Random Variables.md",
     "Probability Theory/Lecture 23 - Variance by Conditioning.md",
