@@ -25,16 +25,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 5 - Method of Moments.md",
+                "file": "Stat135/Lecture 5 - Method of Moments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Lecture 5 - Method of Moments"
             }
+          },
+          {
+            "id": "6cae3fca0f9c721a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stat135/Lecture 6 - Estimators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 6 - Estimators"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,17 +216,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71bcd7d13df306f6",
+  "active": "1a93259cabede32e",
   "lastOpenFiles": [
+    "Stat135/Lecture 5 - Method of Moments.md",
+    "Stat135/Lecture 6 - Estimators.md",
+    "Stat135/Lecture 5 - Parametric Estimation.md",
+    "Stat135/Lecture 3 - Inference Sampling pt. 2.md",
     "Stat135/img/Pasted image 20260126120945.png",
-    "Lecture 5 - Method of Moments.md",
     "Stat135/Lecture 7 - Computing the Standard Error.md",
     "Operating Systems/Tips.md",
     "Prototyping and Fabrication/DESINV22 - Gears.md",
     "Operating Systems/Discussion 2 - Threads and IO.md",
     "Operating Systems/img/Pasted image 20260129162739.png",
     "Stat33B/Lecture 2 - Vectors.md",
-    "Stat135/Lecture 5 - Parametric Estimation.md",
     "Prototyping and Fabrication/Laser Cutting.md",
     "Cooking/Cooking.md",
     "Prototyping and Fabrication/img/Pasted image 20260122124007.png",
@@ -232,7 +248,6 @@
     "Operating Systems/Lecture 4 - Process Management, Files, IO.md",
     "Operating Systems/Lecture 2 - Four Fundamental OS Concepts.md",
     "Stat135/R Programming.md",
-    "Stat135/Lecture 3 - Inference Sampling pt. 2.md",
     "Stat135/Lecture 2 - Inference Sampling.md",
     "Cooking/Knife Skills.md",
     "Stat135/img",
