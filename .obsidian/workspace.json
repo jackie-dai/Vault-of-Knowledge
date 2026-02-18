@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat135/Lecture 6 - Estimators.md",
+                "file": "Operating Systems/Tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 6 - Estimators"
+              "title": "Tips"
             }
           }
         ],
@@ -216,10 +216,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "6cae3fca0f9c721a",
   "lastOpenFiles": [
-    "Stat135/Lecture 5 - Method of Moments.md",
     "Stat135/Lecture 6 - Estimators.md",
+    "Stat135/Lecture 5 - Method of Moments.md",
     "Stat135/Lecture 5 - Parametric Estimation.md",
     "Stat135/Lecture 3 - Inference Sampling pt. 2.md",
     "Stat135/img/Pasted image 20260126120945.png",
