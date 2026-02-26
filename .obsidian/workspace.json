@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Lightroom.md",
+                "file": "Operating Systems/Lecture 4 - Threads, Process Management, Files, IO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lightroom"
+              "title": "Lecture 4 - Threads, Process Management, Files, IO"
             }
           }
         ],
@@ -260,9 +260,11 @@
   },
   "active": "cd91972804fb2475",
   "lastOpenFiles": [
+    "Pasted image 20260225235323.png",
+    "Pasted image 20260225235013.png",
+    "Photography/Lightroom.md",
     "Pasted image 20260225213425.png",
     "Cooking/Cooking.md",
-    "Photography/Lightroom.md",
     "Untitled",
     "Cooking/Knife Skills.md",
     "Cooking/Nutrients.md",
@@ -298,11 +300,9 @@
     "Pasted image 20260212113138.png",
     "Prototyping and Fabrication/DESINV22 - Prototyping and Fabrication.md",
     "Pasted image 20260129155840.png",
-    "Pasted image 20260129155837.png",
-    "Operating Systems/img/Pasted image 20260127154904.png",
     "Math 53/Planes.md",
     "Operating Systems/Lecture 3 - Threads and Processes.md",
-    "Operating Systems/Lecture 4 - Process Management, Files, IO.md",
+    "Operating Systems/Lecture 4 - Threads, Process Management, Files, IO.md",
     "Operating Systems/Lecture 2 - Four Fundamental OS Concepts.md",
     "Stat135/R Programming.md",
     "Stat135/Lecture 2 - Inference Sampling.md",
