@@ -1,7 +1,8 @@
 ![[Pasted image 20260225213425.png]]
 
 Exposure
-- 
+- Controls overall brightness of image 
+- lets more light into the image 
 
 Contrast
 - this manipulates the black and white
