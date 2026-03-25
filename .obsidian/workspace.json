@@ -102,9 +102,21 @@
               "icon": "lucide-file",
               "title": "Lecture 8 - Method of Maximum Liklihood"
             }
+          },
+          {
+            "id": "681c7c0080143b13",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -272,7 +284,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f13932958a82f360",
+  "active": "681c7c0080143b13",
   "lastOpenFiles": [
     "Stat135/Lecture 7 - Computing the Standard Error.md",
     "Lecture 8 - Method of Maximum Liklihood.md",
