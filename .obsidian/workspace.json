@@ -130,9 +130,21 @@
               "icon": "lucide-file",
               "title": "Lecture 8 - Lock implementation, Atomic Instructtion 2"
             }
+          },
+          {
+            "id": "f8e70e02624f96af",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -300,8 +312,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f243d284b75f791a",
+  "active": "f8e70e02624f96af",
   "lastOpenFiles": [
+    "Pasted image 20260331060354.png",
     "Operating Systems/Tips.md",
     "Lecture 8 - Lock implementation, Atomic Instructtion 2.md",
     "Stat135/Lecture 7 - Computing the Standard Error.md",
@@ -347,7 +360,6 @@
     "Math 53/Planes.md",
     "Operating Systems/Lecture 3 - Threads and Processes.md",
     "Operating Systems/Lecture 2 - Four Fundamental OS Concepts.md",
-    "Stat135/R Programming.md",
     "Untitled.canvas"
   ]
 }
