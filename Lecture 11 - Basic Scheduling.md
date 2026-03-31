@@ -28,3 +28,5 @@ Shortest job first (SJF)
 - In order of least amount to time to complete
 Shortest remaining time first (SRTF)
 - least amount of remaining time to finish computation
+
+Work-conserving scheduler: does not leave the CPU idle when there is 
