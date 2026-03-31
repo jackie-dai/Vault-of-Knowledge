@@ -29,4 +29,3 @@ Shortest remaining time first (SRTF)
 - least amount of remaining time to finish computation
 
 Work-conserving scheduler: does not leave the CPU idle when there is work to do
-## Priority Inversion 
