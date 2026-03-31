@@ -13,4 +13,13 @@ Each n process gets 1/n burst time that does not exceed *q*
 ![[Pasted image 20260331113431.png]]
 
 ## Strict Priority Scheduling
-Assign priorties to jobs and run
+Assign priorities to jobs and execute jobs in order of priority
+
+Problem
+- Starvation: lower priority jobs never run because of high priority jobs
+
+
+We need to implement **scheduling fairness**
+
+Shortest job first (SJF)
+Shortest remaining time first (SRTF)
