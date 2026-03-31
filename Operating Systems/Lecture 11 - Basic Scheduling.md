@@ -19,6 +19,7 @@ Assign priorities to jobs and execute jobs in order of priority
 
 Problem
 - Starvation: lower priority jobs never run because of high priority jobs
+- circular waiting for resources
 
 
 We need to implement **scheduling fairness**

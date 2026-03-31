@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -342,10 +342,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57b887911becaa9e",
+  "active": "61ce197e058f332f",
   "lastOpenFiles": [
-    "Operating Systems/Lecture 11 - Basic Scheduling.md",
     "Lecture 13 - Proportional Priority Scheduling.md",
+    "Operating Systems/Lecture 11 - Basic Scheduling.md",
     "Pasted image 20260224143415.png",
     "Pasted image 20260129155837.png",
     "Pasted image 20260331113431.png",
