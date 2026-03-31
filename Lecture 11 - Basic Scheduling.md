@@ -1,6 +1,6 @@
 
 
-## First-in-first-out (FCFO)
+## First-come-first-out (FCFO)
 ![[Pasted image 20260331112828.png]]
 Waiting time:
 Completion time: 
