@@ -12,3 +12,9 @@ We need to create more atomic operations in order to implement a thread safe loc
 	- if value == 0 => no one has lock so proceed
 	- if value == 1 => someone has lock so put on wait-queue
 - Release after done
+
+
+## Futex
+```
+int futex(int uaddress, int futex_op, int val, const struct timespec *timeout)
+```
