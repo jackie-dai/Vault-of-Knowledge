@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Lecture 8 - Lock implementation, Atomic Instructtion 2.md",
+                "file": "Cooking/Recipes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 8 - Lock implementation, Atomic Instructtion 2"
+              "title": "Recipes"
             }
           },
           {
@@ -151,10 +151,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Cooking/Recipes/Microwaves/[L6] Microwavable Meals.pptx.pdf"
+                "file": "Cooking/Recipes/Grains/Spicy, Crunchy, Creamy Polenta.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "[L6] Microwavable Meals.pptx"
+              "title": "Spicy, Crunchy, Creamy Polenta"
             }
           },
           {
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -340,19 +340,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61ce197e058f332f",
+  "active": "f8e70e02624f96af",
   "lastOpenFiles": [
+    "Cooking/Recipes/Grains/Spicy, Crunchy, Creamy Polenta.pdf",
     "Cooking/Recipes.md",
-    "Cooking/Recipes/Microwaves/Microwaved Sweet Potato.docx",
-    "Cooking/Recipes/Microwaves/Microwave Lasagna.docx",
-    "Cooking/Recipes/Microwaves/Lemon Garlic Broccoli.docx",
-    "Cooking/Recipes/Microwaves/Egg Frittata.docx",
-    "Cooking/Recipes/Microwaves/Chilaquiles.docx",
-    "Cooking/Recipes/Microwaves/Blueberry Oatmeal.docx",
-    "Cooking/Recipes/Microwaves/Black Bean Soup.docx",
+    "Operating Systems/Lecture 8 - Lock implementation, Atomic Instructtion 2.md",
+    "Cooking/Recipes/Grains/Moroccan Couscous.pdf",
+    "Cooking/Recipes/Grains/Millet Salad with Avocado & Citrus.pdf",
+    "Cooking/Recipes/Grains/Cilantro Lime Quinoa & Fajita Veggies.pdf",
+    "Cooking/Recipes/Grains/Chocolate Covered Strawberries-.pdf",
+    "Cooking/Recipes/Grains/Butternut Squash Farro.pdf",
+    "Cooking/Recipes/Grains/Bulgur Tabbouleh.pdf",
+    "Turkey and Bulgur Patties.md",
+    "Cooking/Recipes/Canned foods/Pasta With Garlic, Anchovy, Capers and Red Pepper Recipe - NYT Cooking.pdf",
+    "Cooking/Recipes/Canned foods/Tuscan White Bean Pasta - Budget Bytes.pdf",
     "Cooking/Recipes/Microwaves/[L6] Microwavable Meals.pptx.pdf",
-    "Cooking/Recipes/Microwaves/Rosemary Potatoes.docx",
-    "Cooking/Recipes/Microwaves/Quinoa Chili.docx",
     "Cooking/Nutrients.md",
     "Cooking/Knife Skills.md",
     "Cooking/Cooking.md",
@@ -368,7 +370,6 @@
     "Operating Systems/img/Pasted image 20260331060354.png",
     "Operating Systems/Lecture 13 - Proportional Priority Scheduling.md",
     "Operating Systems/Lecture 11 - Basic Scheduling.md",
-    "Operating Systems/Lecture 8 - Lock implementation, Atomic Instructtion 2.md",
     "Stat135/Lecture 8 - Method of Maximum Liklihood.md",
     "Operating Systems/Lecture 4 - Threads, Process Management, Files, IO.md",
     "Operating Systems/Tips.md",
@@ -386,7 +387,6 @@
     "Cheatsheet.md",
     "Obsidian Git Conflicts.md",
     "Prototyping and Fabrication/DESINV22 - Prototyping and Fabrication.md",
-    "Math 53/Planes.md",
     "Untitled.canvas"
   ]
 }
