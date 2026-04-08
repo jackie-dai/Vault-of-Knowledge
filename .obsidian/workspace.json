@@ -160,6 +160,20 @@
             }
           },
           {
+            "id": "a1244fbbffb00675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 15 - Page tabling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 15 - Page tabling"
+            }
+          },
+          {
             "id": "61ce197e058f332f",
             "type": "leaf",
             "state": {
@@ -186,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -354,11 +368,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "151cb15291736726",
+  "active": "a1244fbbffb00675",
   "lastOpenFiles": [
+    "Pasted image 20260407211612.png",
+    "Lecture 14 - Address Translation, Virtual Memory.md",
+    "Lecture 15 - Page tabling.md",
     "Pasted image 20260403182044.png",
     "Cooking/Recipes.md",
-    "Lecture 14 - Address Translation, Virtual Memory.md",
     "Cooking/Recipes/Grains/Spicy, Crunchy, Creamy Polenta.pdf",
     "Operating Systems/Lecture 8 - Lock implementation, Atomic Instructtion 2.md",
     "Cooking/Recipes/Grains/Moroccan Couscous.pdf",
@@ -383,7 +399,6 @@
     "Photography/Img/Pasted image 20260225213425.png",
     "Operating Systems/img/Pasted image 20260225235013.png",
     "Operating Systems/img/Pasted image 20260225235323.png",
-    "Operating Systems/img/Pasted image 20260331060354.png",
     "Operating Systems/Lecture 13 - Proportional Priority Scheduling.md",
     "Operating Systems/Lecture 11 - Basic Scheduling.md",
     "Stat135/Lecture 8 - Method of Maximum Liklihood.md",
@@ -401,7 +416,6 @@
     "Prototyping and Fabrication/Laser Cutting.md",
     "Japanese/Lesson 5.md",
     "Cheatsheet.md",
-    "Obsidian Git Conflicts.md",
     "Untitled.canvas"
   ]
 }
