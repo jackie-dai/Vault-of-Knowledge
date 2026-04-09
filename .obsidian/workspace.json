@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 15 - Page tabling.md",
+                "file": "Operating Systems/Tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 15 - Page tabling"
+              "title": "Tips"
             }
           },
           {
@@ -370,10 +370,11 @@
   },
   "active": "a1244fbbffb00675",
   "lastOpenFiles": [
-    "Pasted image 20260407211612.png",
-    "Lecture 14 - Address Translation, Virtual Memory.md",
-    "Lecture 15 - Page tabling.md",
-    "Pasted image 20260403182044.png",
+    "Operating Systems/CS162.md",
+    "Operating Systems/img/Pasted image 20260403182044.png",
+    "Operating Systems/Lecture 15 - Page tabling.md",
+    "Operating Systems/img/Pasted image 20260407211612.png",
+    "Operating Systems/Lecture 14 - Address Translation, Virtual Memory.md",
     "Cooking/Recipes.md",
     "Cooking/Recipes/Grains/Spicy, Crunchy, Creamy Polenta.pdf",
     "Operating Systems/Lecture 8 - Lock implementation, Atomic Instructtion 2.md",
@@ -398,7 +399,6 @@
     "Cooking/img/Pasted image 20260224143415.png",
     "Photography/Img/Pasted image 20260225213425.png",
     "Operating Systems/img/Pasted image 20260225235013.png",
-    "Operating Systems/img/Pasted image 20260225235323.png",
     "Operating Systems/Lecture 13 - Proportional Priority Scheduling.md",
     "Operating Systems/Lecture 11 - Basic Scheduling.md",
     "Stat135/Lecture 8 - Method of Maximum Liklihood.md",
