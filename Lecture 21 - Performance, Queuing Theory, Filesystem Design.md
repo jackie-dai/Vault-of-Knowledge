@@ -3,3 +3,8 @@
 
 ### Little's Law
 Average arrival rate = average departure rate
+"What comes in must come out"
+
+$$
+L_Q=\lambda T_Q
+$$
