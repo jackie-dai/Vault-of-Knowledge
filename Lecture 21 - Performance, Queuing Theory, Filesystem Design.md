@@ -8,3 +8,5 @@ Average arrival rate = average departure rate
 $$
 L_Q=\lambda T_Q
 $$
+## Disk Management
+Accessed as linear array of sectors
