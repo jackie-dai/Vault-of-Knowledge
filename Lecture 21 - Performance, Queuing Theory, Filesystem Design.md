@@ -15,5 +15,6 @@ Accessed as linear array of sectors
 Files are a collection of disk blocks
 
 FAT is a linked list. In order to access a file, we translate the path to a file number. The file number is the index of the head of the linked list for the file. We follow the linked to the disk blocks of the memory.
+![[Pasted image 20260417124657.png]]
 
-FAT is stored on the disk
+FAT is stored on the disk.
