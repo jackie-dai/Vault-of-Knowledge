@@ -4,217 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a52d6c9d8dbe1ed0",
+        "id": "2cdcefee029821ee",
         "type": "tabs",
         "children": [
           {
-            "id": "12b71fe602bc23d9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Stat135/img/Pasted image 20260126120945.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260126120945"
-            }
-          },
-          {
-            "id": "71bcd7d13df306f6",
+            "id": "758257423f97d08c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat135/Lecture 5 - Method of Moments.md",
+                "file": "Lecture 22 - File Systems and Directories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5 - Method of Moments"
-            }
-          },
-          {
-            "id": "6cae3fca0f9c721a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Tips.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tips"
-            }
-          },
-          {
-            "id": "46ea273c2066b470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cooking/Nutrients.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nutrients"
-            }
-          },
-          {
-            "id": "1af5639063efe30d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cooking/Cooking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cooking"
-            }
-          },
-          {
-            "id": "cd91972804fb2475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat135/Lecture 7 - Computing the Standard Error.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 7 - Computing the Standard Error"
-            }
-          },
-          {
-            "id": "f13932958a82f360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 8 - Method of Maximum Liklihood.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 8 - Method of Maximum Liklihood"
-            }
-          },
-          {
-            "id": "681c7c0080143b13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Tips.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tips"
-            }
-          },
-          {
-            "id": "f243d284b75f791a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Lecture 8 - Lock implementation, Atomic Instructtion 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 8 - Lock implementation, Atomic Instructtion 2"
-            }
-          },
-          {
-            "id": "f8e70e02624f96af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cooking/Recipes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recipes"
-            }
-          },
-          {
-            "id": "151cb15291736726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 14 - Address Translation, Virtual Memory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 14 - Address Translation, Virtual Memory"
-            }
-          },
-          {
-            "id": "67600b842e40991f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat135/Lecture - Hypothesis Testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture - Hypothesis Testing"
-            }
-          },
-          {
-            "id": "b788dd944965bbe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Tips.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tips"
-            }
-          },
-          {
-            "id": "61ce197e058f332f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Cooking/Recipes/Grains/Spicy, Crunchy, Creamy Polenta.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Spicy, Crunchy, Creamy Polenta"
-            }
-          },
-          {
-            "id": "57b887911becaa9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Lecture 13 - Proportional Priority Scheduling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 13 - Proportional Priority Scheduling"
+              "title": "Lecture 22 - File Systems and Directories"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -382,20 +189,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b788dd944965bbe5",
+  "active": "758257423f97d08c",
   "lastOpenFiles": [
-    "Lecture 21 - Performance, Queuing Theory, Filesystem Design.md",
-    "Pasted image 20260417124657.png",
-    "Stat135/Lecture - Hypothesis Testing.md",
+    "Lecture 22 - File Systems and Directories.md",
     "Operating Systems/Tips.md",
+    "Operating Systems/Lecture 8 - Lock implementation, Atomic Instructtion 2.md",
+    "Cooking/Recipes.md",
+    "Stat135/Lecture - Hypothesis Testing.md",
+    "Operating Systems/Lecture 13 - Proportional Priority Scheduling.md",
+    "Cooking/Recipes/Grains/Spicy, Crunchy, Creamy Polenta.pdf",
+    "Operating Systems/Lecture 21 - Performance, Queuing Theory, Filesystem Design.md",
+    "Pasted image 20260417124657.png",
     "Operating Systems/CS162.md",
     "Operating Systems/img/Pasted image 20260403182044.png",
     "Operating Systems/Lecture 15 - Page tabling.md",
     "Operating Systems/img/Pasted image 20260407211612.png",
     "Operating Systems/Lecture 14 - Address Translation, Virtual Memory.md",
-    "Cooking/Recipes.md",
-    "Cooking/Recipes/Grains/Spicy, Crunchy, Creamy Polenta.pdf",
-    "Operating Systems/Lecture 8 - Lock implementation, Atomic Instructtion 2.md",
     "Cooking/Recipes/Grains/Moroccan Couscous.pdf",
     "Cooking/Recipes/Grains/Millet Salad with Avocado & Citrus.pdf",
     "Cooking/Recipes/Grains/Cilantro Lime Quinoa & Fajita Veggies.pdf",
@@ -416,7 +225,6 @@
     "Cooking/img/Pasted image 20260224143331.png",
     "Cooking/img/Pasted image 20260224143415.png",
     "Photography/Img/Pasted image 20260225213425.png",
-    "Operating Systems/Lecture 13 - Proportional Priority Scheduling.md",
     "Operating Systems/Lecture 11 - Basic Scheduling.md",
     "Stat135/Lecture 8 - Method of Maximum Liklihood.md",
     "Operating Systems/Lecture 4 - Threads, Process Management, Files, IO.md",
