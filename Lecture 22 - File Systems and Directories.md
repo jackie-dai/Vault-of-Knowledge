@@ -17,3 +17,8 @@ inode structure:
 
 ## Directory
 A director is just a file but contains <filename:filenumber> mappings
+
+
+### File Allocation Table (FAT)
+![[Pasted image 20260421163647.png|697]]
+Fat entries are just index of disk 
