@@ -21,4 +21,16 @@ A director is just a file but contains <filename:filenumber> mappings
 
 ### File Allocation Table (FAT)
 ![[Pasted image 20260421163647.png|697]]
-Fat entries are just index of disk 
+Fat entries are index of disk blocks
+
+The root index (file number) links to the next block
+
+## Berkeley FFS (Fast File System)
+Underlying structure is an array of inodes
+- metadata
+- direct pointers
+- indirect pointers
+
+inumbers - file numbers/index of inode
+
+**Helpful for
