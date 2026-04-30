@@ -6,3 +6,5 @@
 
 **Degree of Freedom (DOF)**: the number of variables you can change without changing the total/marginals. 
 
+**Test Statistic**: numeric value used for determining whether to reject the null hypothesis or not
+
