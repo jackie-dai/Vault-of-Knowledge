@@ -1,0 +1,8 @@
+
+
+![[Pasted image 20260429233028.png]]
+- A, B, C, D are the interior cells
+- The outer values are the marginal sums/totals
+
+**Degree of Freedom (DOF)**: the number of variables you can change without changing the total/marginals. 
+
