@@ -1,0 +1,1 @@
+There are many cases where we won't have the full dataset. This is where sampling comes from because we can estimate the population mean from the sample mean. Of course, there will be 
