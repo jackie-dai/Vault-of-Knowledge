@@ -16,3 +16,5 @@ $$
 
 $X_i$ - is a sample of a member of the sampled population (random variable)
 $x_i$ - is a member of the population (fixed)
+
+va
