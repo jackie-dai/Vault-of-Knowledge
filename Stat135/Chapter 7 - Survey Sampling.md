@@ -14,3 +14,5 @@ $$
 \frac{1}{N} \Sigma(x_i - u)^2
 $$
 
+$X_i$ - is a sample of a member orandom variable
+$x_i$ - fixed
