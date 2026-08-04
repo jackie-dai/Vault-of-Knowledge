@@ -14,5 +14,5 @@ $$
 \frac{1}{N} \Sigma(x_i - u)^2
 $$
 
-$X_i$ - is a sample of a member orandom variable
-$x_i$ - fixed
+$X_i$ - is a sample of a member of the sampled population (random variable)
+$x_i$ - is a member of the population (fixed)
