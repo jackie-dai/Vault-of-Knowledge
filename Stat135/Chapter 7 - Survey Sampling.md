@@ -31,3 +31,8 @@ Estimating standard error by using finite population correction
 ![[Pasted image 20260805222025.png]]
 
 ### Estimation of the population variance
+
+unbiased estimate 
+$$
+S^2=\frac{s^2}{n}(1-\frac{n}{N})
+$$
