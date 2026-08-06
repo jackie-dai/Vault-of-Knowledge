@@ -36,3 +36,6 @@ unbiased estimate
 $$
 S^2=\frac{s^2}{n}(1-\frac{n}{N})
 $$
+s-sample standard deviation
+n-sample size
+N-population total
