@@ -51,3 +51,9 @@ Variance and standard error estimation for the dichotomous case / proportion
 
 Calculating the standard deviation of the sample mean with the finite population correction 
 ![[Pasted image 20260806133752.png]]
+
+
+
+
+*The probability that the sample mean differs from the population mean by more than 100*
+![[Pasted image 20260806135625.png]]
