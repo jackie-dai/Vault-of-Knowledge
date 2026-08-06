@@ -39,3 +39,12 @@ $$
 s-sample standard deviation
 n-sample size
 N-population total
+
+
+
+TODO: write out how to estimate standard error of sample mean and applying to standard error of population total
+![[Pasted image 20260806104905.png]]
+
+
+Variance and standard error estimation for the dichotomous case / proportion
+![[Pasted image 20260806105133.png]]
