@@ -48,3 +48,6 @@ TODO: write out how to estimate standard error of sample mean and applying to st
 
 Variance and standard error estimation for the dichotomous case / proportion
 ![[Pasted image 20260806105133.png]]
+
+Calculating the standard deviation of the sample mean with the finite population correction 
+![[Pasted image 20260806133752.png]]
