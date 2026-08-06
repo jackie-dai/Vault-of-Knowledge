@@ -29,3 +29,5 @@ taking the sample mean of each sample and plotting it in histogram
 
 Estimating standard error by using finite population correction
 ![[Pasted image 20260805222025.png]]
+
+### Estimation of the population variance
