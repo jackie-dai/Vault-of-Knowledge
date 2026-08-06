@@ -27,3 +27,5 @@ taking the sample mean of each sample and plotting it in histogram
 ![[Pasted image 20260804132741.png]]
 *As the sample size increases, the distribution becomes more narrow towards the mean*
 
+Estimating standard error by using finite population correction
+![[Pasted image 20260805222025.png]]
