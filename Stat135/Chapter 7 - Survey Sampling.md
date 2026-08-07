@@ -30,6 +30,8 @@ taking the sample mean of each sample and plotting it in histogram
 Estimating standard error by using finite population correction
 ![[Pasted image 20260805222025.png]]
 
+
+Finite population correction - adjusts variance calculations when sampling without replacement
 ### Estimation of the population variance
 
 unbiased estimate 
@@ -57,3 +59,4 @@ Calculating the standard deviation of the sample mean with the finite population
 
 *The probability that the sample mean differs from the population mean by more than 100*
 ![[Pasted image 20260806135625.png]]
+
