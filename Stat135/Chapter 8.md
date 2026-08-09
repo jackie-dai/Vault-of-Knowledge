@@ -11,3 +11,11 @@ Then the bias $\theta-\hat{\theta} = 0$ and therefore, the MSE = Var(X) + Bias(X
 Efficiency means to find the lowest minimum variance
 Var(X) = CRLB
 
+
+## Sufficiency
+T(X)
+p
+g(T(x), p)
+H(x)
+
+Factorization says that if you can write it in this format then it is sufficient
