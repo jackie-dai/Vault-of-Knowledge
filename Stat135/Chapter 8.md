@@ -19,3 +19,6 @@ g(T(x), p)
 H(x)
 
 Factorization says that if you can write it in this format then it is sufficient
+
+A sufficient statistic T(X) is not unique. We can find the **minimal sufficient** statistic using likelihood-ratio criterion
+
