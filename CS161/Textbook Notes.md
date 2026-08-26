@@ -1,7 +1,7 @@
 
 
 **Table of Contents**
-[[Lecture 1 - Introduction]]
+[[CS61C/Lecture 1 - Introduction]]
 Lecture 2 - x86 Assembly and Call Stack
 Lecture 3 - Memory Safety Vulnerabilities
 Lecture 4 - Mitigating Memory Safety Vulnerabilities
