@@ -118,9 +118,21 @@
               "icon": "lucide-file",
               "title": "Chapter 8"
             }
+          },
+          {
+            "id": "4f95da1b8679e18d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -288,7 +302,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbb779055b7b2e4a",
+  "active": "4f95da1b8679e18d",
   "lastOpenFiles": [
     "Stat135/Chapter 7 - Survey Sampling.md",
     "Stat135/Chapter 8.md",
