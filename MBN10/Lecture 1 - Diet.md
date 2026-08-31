@@ -1,5 +1,5 @@
 
-EE- energy expenditure
+*EE- energy expenditure**
 We burn more or fewer calories each day, in response to increased or decreased energy intake
 *we burn more calories when we have more weight*
 
@@ -14,3 +14,11 @@ It depends on
 - Oxygen Distribution: how much oxygen you distribute to your tissues
 
 Relative Risk (RR)
+
+*Someone who is lean and unfit is more unhealthy than a person who is overweight but fit*
+**Fitness is important**
+
+The major determinant of **Resting Energy Expenditure (REE) **is lean body mass
+
+
+
