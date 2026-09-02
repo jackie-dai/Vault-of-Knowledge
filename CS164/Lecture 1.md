@@ -14,3 +14,6 @@ Open ocaml intepreter
 ```
 dune utop
 ```
+
+mov rax, 12
+operation destination, source

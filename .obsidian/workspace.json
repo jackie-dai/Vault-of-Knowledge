@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBN10/Lecture 2.md",
+                "file": "CS164/Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2"
+              "title": "Lecture 1"
             }
           }
         ],
@@ -376,8 +376,8 @@
   },
   "active": "2d84ab80627f7ec1",
   "lastOpenFiles": [
-    "CS164/Lecture 1.md",
     "MBN10/Lecture 2.md",
+    "CS164/Lecture 1.md",
     "CS164/img/Pasted image 20260901210147.png",
     "CS164/img",
     "MBN10/Lecture 1 - Diet.md",
