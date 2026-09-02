@@ -19,3 +19,6 @@ wc notes_final.txt
 ```
 line count, word count, character count
 
+```
+cp source dest
+```
