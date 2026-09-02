@@ -17,3 +17,9 @@ dune utop
 
 mov rax, 12
 operation destination, source
+
+"Default: " ^ x
+*carot is for concatenation*
+
+
+## V
