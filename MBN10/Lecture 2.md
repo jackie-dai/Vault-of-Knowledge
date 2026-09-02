@@ -18,5 +18,7 @@ Fat around your liver and organs is much worse than exterior fat
 
 *Exercising gets rid of the visceral fat cells first*
 
+People who are overweight but fit (in terms of treadmill testing) are at a lower risk of cardiovascular disease (CVD) than those who do not exercise.
+	
 	
 
