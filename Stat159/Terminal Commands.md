@@ -22,3 +22,6 @@ line count, word count, character count
 ```
 cp source dest
 ```
+
+
+![[Pasted image 20260909105607.png]]

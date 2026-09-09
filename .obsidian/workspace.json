@@ -235,12 +235,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/CS182.md",
+                "file": "Stat159/Terminal Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS182"
+              "title": "Terminal Commands"
             }
           }
         ],
@@ -414,10 +414,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "ff6bb6e94e6ea4e3",
   "lastOpenFiles": [
-    "Machine Learning/Lecture 22 - LLM Training and Applications.md",
+    "Pasted image 20260909105607.png",
+    "Stat159/Lecture 2 - Naming Files.md",
+    "Stat159/Terminal Commands.md",
     "Machine Learning/CS182.md",
+    "Machine Learning/Lecture 22 - LLM Training and Applications.md",
     "Machine Learning/Lecture 14 - Neural Networks.md",
     "Machine Learning/Lecture 15 - Neural Networks (Cont.) and Backpropagation.md",
     "Machine Learning/CS189 - Introduction to Machine Learning.md",
@@ -425,7 +428,6 @@
     "Phil12A/Lecture 3.md",
     "CS164/img/Pasted image 20260902105036.png",
     "Phil12A",
-    "Stat159/Terminal Commands.md",
     "CS164/Lecture 1.md",
     "CS164/img/Pasted image 20260902105332.png",
     "MBN10/Lecture 2.md",
@@ -434,7 +436,6 @@
     "MBN10/Lecture 1 - Diet.md",
     "CS164",
     "MBN10",
-    "Stat159/Lecture 2 - Naming Files.md",
     "Stat159/Lecture 1 - Introduction.md",
     "Stat159/img/Pasted image 20260828101822.png",
     "Stat159/img/Pasted image 20260828101811.png",
@@ -458,7 +459,6 @@
     "Japanese/Japan 1A.md",
     "Japanese/Lesson 2.md",
     "Stat135/Chapter 13 - The Analysis of Categorical Data.md",
-    "Operating Systems/Lecture 22 - File Systems and Directories.md",
     "Cooking/Recipes/Grains/Spicy, Crunchy, Creamy Polenta.pdf",
     "Cooking/Recipes/Grains/Moroccan Couscous.pdf",
     "Cooking/Recipes/Grains/Millet Salad with Avocado & Citrus.pdf",
