@@ -23,4 +23,9 @@ In order to push tags to remote, you need to use *git push origin --tags*
 ```
 git switch -c branchname
 ```
-	similar to git checkout (TODO research: checkout overwrites files to new versions and discards untracked changes. but what does switch do with the untracked files?)
+similar to git checkout (TODO research: checkout overwrites files to new versions and discards untracked changes. but what does switch do with the untracked files?)
+
+```
+git commit --amend
+```
+For undoing commit messages
