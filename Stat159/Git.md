@@ -18,3 +18,9 @@ Opposite functionality from git add. Untracks file and removes from local reposi
 git tag
 ```
 In order to push tags to remote, you need to use *git push origin --tags*
+
+
+```
+git switch -c branchname
+```
+similar to git checkout (TODO research)
