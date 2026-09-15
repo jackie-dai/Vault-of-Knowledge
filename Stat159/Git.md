@@ -1,6 +1,5 @@
 
 There are two kinds of merges
-
 ### Fast-forward Merge
 ![[Pasted image 20260914105103.png]]
 
@@ -10,3 +9,12 @@ There are two kinds of merges
 - The target branch (currently on and merging into) latest commit in main: 17
 - The source branch (branch you're trying to merge) latest commit in feature: d2
 
+```
+git rm "filename.txt"
+```
+Opposite functionality from git add. Untracks file and removes from local repository
+
+```
+git tag
+```
+In order to push tags to remote, you need to use *git push origin --tags*
