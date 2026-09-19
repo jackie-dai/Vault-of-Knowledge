@@ -6,3 +6,6 @@ A combinatorial game has
 **Progressively bounded** - for every starting position, there is a finite number of moves until the game terminates
 
 **Impartial** - the winning positions and number of available moves are the same for both players
+
+**Partisan** - the opposite of impartial. The terminal nodes and moves available to each player is different
+
