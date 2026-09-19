@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking/Recipes.md",
+                "file": "Stat155 Game Theory/Chapter 1 - Combinatorial Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recipes"
+              "title": "Chapter 1 - Combinatorial Games"
             }
           }
         ],
@@ -234,6 +234,7 @@
   },
   "active": "6a602d870eb5d0cc",
   "lastOpenFiles": [
+    "Cooking/Recipes.md",
     "Stat155 Game Theory/Chapter 1 - Combinatorial Games.md",
     "CS164/Lecture 4.md",
     "Lecture 6.md",
@@ -277,7 +278,6 @@
     "Stat135/Chapter 8.md",
     "Chapter",
     "Stat135/Chapter 6.md",
-    "Stat135/Lecture 2 - Inference Sampling.md",
     "Cooking/Recipes/Grains/Spicy, Crunchy, Creamy Polenta.pdf",
     "Cooking/Recipes/Grains/Moroccan Couscous.pdf",
     "Untitled.canvas"
