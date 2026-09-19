@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat155 Game Theory/Chapter 1 - Combinatorial Games.md",
+                "file": "Cooking/Recipes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Combinatorial Games"
+              "title": "Recipes"
             }
           }
         ],
@@ -234,6 +234,7 @@
   },
   "active": "6a602d870eb5d0cc",
   "lastOpenFiles": [
+    "Stat155 Game Theory/Chapter 1 - Combinatorial Games.md",
     "CS164/Lecture 4.md",
     "Lecture 6.md",
     "Stat159/img/Pasted image 20260909105607.png",
@@ -241,7 +242,6 @@
     "Stat159/img/Pasted image 20260914105132.png",
     "Stat159/img/Pasted image 20260914105103.png",
     "Stat159/Lecture 2 - Naming Files.md",
-    "Stat155 Game Theory/Chapter 1 - Combinatorial Games.md",
     "Stat135/Stat 135.md",
     "Stat159/Terminal Commands.md",
     "Machine Learning/Lecture 22 - LLM Training and Applications.md",
