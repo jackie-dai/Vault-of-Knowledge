@@ -11,3 +11,17 @@ Requested by the National Defense advisory commission due to the malunion caused
 
 
 ## Dietary Reference Intakes (DRI)
+
+
+Adequate Intake (AI)
+
+Upper Level (UL)
+- highest average daily intake 
+
+Acceptable Macronutrient Distribution Range (AMDR)
+- range of energy intake associated with lower risk of chronic disease
+
+DRIs are established by the National Academies of Medicine's food and nutrition board
+- a committee is set for each set of DRIs
+
+Dietary Guidelines for Americans (DGA)
