@@ -9,7 +9,6 @@ First set of format NRVs (Recommend Dietary Allowances RDA) were established in 
 
 Requested by the National Defense advisory commission due to the malunion caused by war and economic depression
 
-
 ## Dietary Reference Intakes (DRI)
 
 
@@ -23,5 +22,11 @@ Acceptable Macronutrient Distribution Range (AMDR)
 
 DRIs are established by the National Academies of Medicine's food and nutrition board
 - a committee is set for each set of DRIs
+
+Dietary Guidelines for Americans (DGA)
+- Guide on food and beverage choices to promote health and prevent disease
+
+## New changes in the 2025-2030 DGAs
+Changed alcoholic recommendation to less alcohol instead of specific amounts
 
 Dietary Guidelines for Americans (DGA)
