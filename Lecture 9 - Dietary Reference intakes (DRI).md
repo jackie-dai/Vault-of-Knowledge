@@ -29,4 +29,4 @@ Dietary Guidelines for Americans (DGA)
 ## New changes in the 2025-2030 DGAs
 Changed alcoholic recommendation to less alcohol instead of specific amounts
 
-Dietary Guidelines for Americans (DGA)
+	Dietary Guidelines for Americans (DGA)x
