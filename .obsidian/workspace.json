@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat159/Lecture 2 - Naming Files.md",
+                "file": "Stat159/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 - Naming Files"
+              "title": "Git"
             }
           },
           {
@@ -75,8 +75,7 @@
               "title": "Lecture 1"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,10 +245,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d1cd1aab23df2ab",
+  "active": "6c65377a3a066c24",
   "lastOpenFiles": [
-    "CS164/Lecture 4.md",
+    "Stat159/Lecture 2 - Naming Files.md",
     "CS164/Lecture 1.md",
+    "CS164/Lecture 4.md",
     "Lecture 6.md",
     "MBN10/Lecture 9 - Dietary Reference intakes (DRI).md",
     "Stat155 Game Theory/Chapter 1 - Combinatorial Games.md",
@@ -258,7 +258,6 @@
     "Stat159/Git.md",
     "Stat159/img/Pasted image 20260914105132.png",
     "Stat159/img/Pasted image 20260914105103.png",
-    "Stat159/Lecture 2 - Naming Files.md",
     "Stat135/Stat 135.md",
     "Stat159/Terminal Commands.md",
     "Machine Learning/Lecture 22 - LLM Training and Applications.md",

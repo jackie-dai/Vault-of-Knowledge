@@ -29,3 +29,9 @@ similar to git checkout (TODO research: checkout overwrites files to new version
 git commit --amend
 ```
 For undoing commit messages
+
+
+```
+git log --oneline --graph
+```
+shows graph view of branches
