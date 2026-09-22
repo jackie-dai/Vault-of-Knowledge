@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 9 - Dietary Reference intakes (DRI).md",
+                "file": "CS164/Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 9 - Dietary Reference intakes (DRI)"
+              "title": "Lecture 1"
             }
           }
         ],
@@ -248,11 +248,12 @@
   },
   "active": "0d1cd1aab23df2ab",
   "lastOpenFiles": [
-    "Stat155 Game Theory/Chapter 1 - Combinatorial Games.md",
-    "Lecture 9 - Dietary Reference intakes (DRI).md",
-    "Cooking/Recipes.md",
     "CS164/Lecture 4.md",
+    "CS164/Lecture 1.md",
     "Lecture 6.md",
+    "MBN10/Lecture 9 - Dietary Reference intakes (DRI).md",
+    "Stat155 Game Theory/Chapter 1 - Combinatorial Games.md",
+    "Cooking/Recipes.md",
     "Stat159/img/Pasted image 20260909105607.png",
     "Stat159/Git.md",
     "Stat159/img/Pasted image 20260914105132.png",
@@ -262,7 +263,6 @@
     "Stat159/Terminal Commands.md",
     "Machine Learning/Lecture 22 - LLM Training and Applications.md",
     "CS164/img/Pasted image 20260902105036.png",
-    "CS164/Lecture 1.md",
     "MBN10/Lecture 1 - Diet.md",
     "Stat155 Game Theory",
     "Machine Learning/CS182.md",
