@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 6.md",
+                "file": "Stat154/Lecture 6.md",
                 "mode": "source",
                 "source": false
               },
@@ -39,12 +39,14 @@
             "id": "825b672330e85bcb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Stat159/img/Pasted image 20260909105607.png"
+                "file": "Stat159/Git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260909105607"
+              "icon": "lucide-file",
+              "title": "Git"
             }
           },
           {
@@ -53,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 6.md",
+                "file": "Stat154/Lecture 6.md",
                 "mode": "source",
                 "source": false
               },
@@ -90,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,10 +262,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40dc5c617b41164a",
+  "active": "825b672330e85bcb",
   "lastOpenFiles": [
-    "Lecture 6.md",
+    "Stat159/img/Pasted image 20260909105607.png",
+    "Stat154",
+    "Untitled.md",
     "MBN10/Lecture 10 - Interactions with Infection.md",
+    "Stat154/Lecture 6.md",
     "Greek Myths and Roman.md",
     "Stat159/Git.md",
     "Stat159/Lecture 2 - Naming Files.md",
@@ -272,7 +277,6 @@
     "MBN10/Lecture 9 - Dietary Reference intakes (DRI).md",
     "Stat155 Game Theory/Chapter 1 - Combinatorial Games.md",
     "Cooking/Recipes.md",
-    "Stat159/img/Pasted image 20260909105607.png",
     "Stat159/img/Pasted image 20260914105132.png",
     "Stat159/img/Pasted image 20260914105103.png",
     "Stat135/Stat 135.md",
@@ -301,13 +305,10 @@
     "Stat159",
     "Obsidian Git Conflicts.md",
     "Prototyping and Fabrication/Cheatsheet.md",
-    "Cooking/Recipes/Pasta.md",
     "Stat135/img/Pasted image 20260804132726.png",
     "Stat135/img/Pasted image 20260804132741.png",
-    "Stat135/Chapter 7 - Survey Sampling.md",
     "Chapter",
     "Cooking/Recipes/Grains/Spicy, Crunchy, Creamy Polenta.pdf",
-    "Cooking/Recipes/Grains/Moroccan Couscous.pdf",
     "Untitled.canvas"
   ]
 }

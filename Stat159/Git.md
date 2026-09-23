@@ -35,3 +35,31 @@ For undoing commit messages
 git log --oneline --graph
 ```
 shows graph view of branches
+
+
+## Undoing Changes
+
+If haven't added yet
+```
+git restore
+```
+
+if added and staged
+```
+git restore --staged
+```
+
+if already committed and before push
+
+```
+git commit --amend
+```
+
+If you've already pushed your changes to the remote repository
+```
+git revert
+```
+```
+git reset
+```
+*BE CA*
