@@ -6,5 +6,9 @@ Environmental Enteric Dysfunction EED)
 
 Children with stunting means late bloomer and more susceptible to infections
 
-It pre
+It prevents people from their full potential. A enormous public health problem
+
+In order to detect this is through muscle mass, including brain growth.
+
+
 
