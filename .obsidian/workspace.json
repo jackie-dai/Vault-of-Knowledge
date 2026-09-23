@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "5ec35533f7b1451d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stat135/Confidence Intervals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Confidence Intervals"
+            }
+          },
+          {
             "id": "f34ddbde081c3e3b",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,15 +276,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "825b672330e85bcb",
+  "active": "5ec35533f7b1451d",
   "lastOpenFiles": [
+    "Pasted image 20260923124039.png",
+    "Stat159/Git.md",
+    "Stat135/Confidence Intervals.md",
     "Stat159/img/Pasted image 20260909105607.png",
     "Stat154",
     "Untitled.md",
     "MBN10/Lecture 10 - Interactions with Infection.md",
     "Stat154/Lecture 6.md",
     "Greek Myths and Roman.md",
-    "Stat159/Git.md",
     "Stat159/Lecture 2 - Naming Files.md",
     "CS164/Lecture 1.md",
     "CS164/Lecture 4.md",
@@ -304,7 +320,6 @@
     "Stat159/img",
     "Stat159",
     "Obsidian Git Conflicts.md",
-    "Prototyping and Fabrication/Cheatsheet.md",
     "Stat135/img/Pasted image 20260804132726.png",
     "Stat135/img/Pasted image 20260804132741.png",
     "Chapter",
