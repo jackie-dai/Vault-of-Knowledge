@@ -58,8 +58,15 @@ git commit --amend
 
 If you've already pushed your changes to the remote repository
 ```
-git revert
+git revert *commit id*
 ```
+*This creates a new commit, so not modifying commit history* 
+
+git revert HEAD  revert most recent comit
+git revert HEAD~i - revert a **single** commit i commits back (can also use git revert HASHID)
+git revert HEAD~i..head - reverts multiple commits in range (i, head)
+
+
 ```
 git reset
 ```
