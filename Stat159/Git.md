@@ -66,9 +66,11 @@ git revert HEAD  revert most recent comit
 git revert HEAD~i - revert a **single** commit i commits back (can also use git revert HASHID)
 git revert HEAD~i..head - reverts multiple commits in range (i, head)
 
-
+*Rewrites history* Only use for local-use, don't use if it has already been pushed to remote.
 ```
 git reset
 ```
-*BE CAREFUL USING THESE*
 
+git reset --soft
+git reset --mixed
+git reset --hard
