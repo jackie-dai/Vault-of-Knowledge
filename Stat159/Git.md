@@ -43,6 +43,7 @@ If haven't added yet
 ```
 git restore
 ```
+Good for discarding files from working directory
 
 if added and staged
 ```
@@ -62,4 +63,5 @@ git revert
 ```
 git reset
 ```
-*BE CA*
+*BE CAREFUL USING THESE*
+
