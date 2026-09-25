@@ -15,4 +15,6 @@ having visceral fat means worse lipids and higher blood pressure -> resulting in
 
 Subcutaneous fat is on the outside and not as dangerous as visceral fat
 
-Hypertrophic
+Hypertrophic (fewer bigger cells) are the bad cells, hyperplastic (many small cells) is much safer
+
+Big and visceral cells release fatty acids into the blood, while small subcataneous cells hold onto theirs
