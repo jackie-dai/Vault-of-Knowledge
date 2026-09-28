@@ -22,5 +22,6 @@ executes two commands to export to html and pdf
 all: filename1 filename2
 
 clean:
-	command(s)
+	command(s) - usually remove commands like rm -f filename1
 
+\
