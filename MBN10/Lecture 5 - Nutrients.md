@@ -21,5 +21,25 @@ Micronutrients (small)
 
 Fibers - complex non digestible carbs
 - two types of fiber: soluble and insoluble
-Insoluble: speeds digestive system
-Soluble: absorbs cholesterol, lowering cholesterol 
+	Insoluble: speeds digestive system
+	Soluble: absorbs cholesterol, **lowering cholesterol**
+
+*if you take anything away from this class, eat more soluble fibers (avocados, beans, bananas, strawberries) to lower cholesterol*
+
+## Digestive System
+![[Pasted image 20260928073043.png]]
+
+Digestion: converts chemics in food into absorbable molecules
+Absorption: transports digested molecules from GI into interior of body
+### Gastrointestinal tract
+mouth:
+pharynx:
+esophabus: moves food to stomach
+stomach: secretes acid and protein-digesting enzyme
+small intestine: absorbs nutrients into blood or lymph
+large intestine: absorbs water and some vitamins and minerals
+
+Salivary glands: produces saliva, a starch-digesting enzyme
+liver: makes bile, aiding in digestion and absorption of fat
+pancreas: produces enzymes to digest carbs, protein, and, fat
+gall bladder: stores bile and releases into small intestine
