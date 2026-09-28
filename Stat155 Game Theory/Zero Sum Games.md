@@ -10,3 +10,9 @@ $$
 \end{array}
 $$
 
+## Expected gain/loss
+
+If hider chooses L1 with probability y1, and R2 with probability y2 = (1-y1)
+The expected loss given chooser chooses L is E[y1 | x=l] = 1(y1) + 0(1-y1) = y1
+The expected loss given chooser chooses R is E[y1 | x=R] = 0(y1) + 1(1-y1) = 1-y1
+
