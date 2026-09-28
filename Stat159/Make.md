@@ -1,4 +1,9 @@
 
+Allows us to 
+
+In order to make a make file, it must be named: Makefile
+
+Rule #1
 Target: dependencies
 	command(s)
 
