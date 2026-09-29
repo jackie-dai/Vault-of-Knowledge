@@ -16,6 +16,7 @@ pandoc doc.md -o doc.pdf
 ```
 executes two commands to export to html and pdf
 
+*Running make without the dependencies still work, but without the dependencies listed, make won't know to rerun when changes have been made to one of the dependencies*
 
 ## PHONY Targets
 Bundles commands so that you can easily execute a series of commands, labeled as a action
