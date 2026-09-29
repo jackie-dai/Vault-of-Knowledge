@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -332,12 +332,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c97adeaec002eeec",
+  "active": "536a907b67f36d30",
   "lastOpenFiles": [
+    "Stat159/Environments.md",
     "Stat159/Bash.md",
     "Pasted image 20260928073043.png",
     "Pasted image 20260923124039.png",
-    "Stat159/Environments.md",
     "Stat159/img/Pasted image 20260929133200.png",
     "Stat159/Make.md",
     "Stat159/Git.md",

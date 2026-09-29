@@ -18,7 +18,7 @@ R: renv.lock
 
 ## Python commands
 
-Create environment?
+Create environment
 ```
 python -m venv .venv
 ```
