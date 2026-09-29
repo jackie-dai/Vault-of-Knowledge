@@ -8,7 +8,8 @@ Example script
 ```
 echo "Running python script"
 python3 hello.py
-echo "Converting "
+echo "Running R script"
+Rscript greet.py Alice
 ```
 
 
