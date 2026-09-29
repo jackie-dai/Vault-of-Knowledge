@@ -17,12 +17,21 @@ pandoc doc.md -o doc.pdf
 executes two commands to export to html and pdf
 
 
-.PHONY: [name]
+## PHONY Targets
+Bundles commands so that you can easily execute a series of commands, labeled as a action
+common phony targets: clean, all, setup, help
+
+if you create a phony action, you also need to include the name at the top after .PHONY: action_name
+
+.PHONY:  all, clean
 
 all: filename1 filename2
 
 clean:
-	command(s) - usually remove commands like rm -f filename1
+	command(s) - usually remove commands like 
+	rm -f filename1
+
+
 
 comment with \#
 ```

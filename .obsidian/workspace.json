@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat159/Bash.md",
+                "file": "Stat159/Make.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bash"
+              "title": "Make"
             }
           },
           {
@@ -320,8 +320,8 @@
   },
   "active": "536a907b67f36d30",
   "lastOpenFiles": [
-    "Stat159/Make.md",
     "Stat159/Bash.md",
+    "Stat159/Make.md",
     "Stat159/Git.md",
     "Stat159/Terminal Commands.md",
     "Stat155 Game Theory/Zero Sum Games.md",
