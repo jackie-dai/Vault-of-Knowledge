@@ -21,3 +21,10 @@ Z_0.025 means 0.025 + 0.025 = 0.05 summed from both sides. 1-a = 1-0.05 = 95% co
 
 
 
+X +- quantile * SE(X)
+
+SE(X) = s/sqrt(n) <- TODO: figure out why this is true
+
+
+
+
