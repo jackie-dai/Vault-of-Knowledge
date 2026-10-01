@@ -28,3 +28,28 @@ Theorem
 
 ## Simple Regression
 This is useful when we apply MLE to linear regression and we are able to estimate the best parameters to $\beta_0, \beta_1,$
+
+
+## Loss Functions
+
+L1 Loss (absolute loss)
+$$
+l(y, \hat{y}) = |y-\hat{y}|
+$$
+L2 Loss (squared loss)
+$$
+l(y, \hat{y}=(y-\hat{y})^2)
+$$
+
+Huber's loss
+$$
+l(y, \hat{y}) = 
+\begin{cases}
+	\frac{1}{2}(y-\hat{y}(\theta))^2 & |y-\hat{y}| < \epsilon \\
+	\epsilon(|y-\hat{y}(\theta)|-\frac{1}{2}\epsilon) & otherwise \\
+\end{cases}
+$$
+*Makes use *
+
+![[Pasted image 20261001012642.png]]Different loss functions function differently. Here, the L2 loss is more "pulled" towards the outliers due to the square in the L2 loss
+
