@@ -53,3 +53,19 @@ $$
 
 ![[Pasted image 20261001013550.png]]Different loss functions function differently. Here, the L2 loss is more "pulled" towards the outliers due to the square in the L2 loss. Huber acts more like L1, but still gives a slightly different estimate.
 
+## M-Estimators
+A more general way to describe loss functions
+
+$$
+min\frac{1}{n}\sum p(y, \theta)
+$$
+the theta that minimizes the average loss is called the M-estimator
+
+### Principle Component Analysis (PCA)
+Take the regression line
+
+Find distance between actual point(x,y) to the regression line by taking the squared distance of the orthogonal projection
+
+Take the distance and treat this as a our loss function. The goal is to minimize the distance by finding the MLE of the parameters
+
+TODO: revisit another time to fill in the details https://stat135.berkeley.edu/fall-2026/Modules/06-SamplingDist.html
