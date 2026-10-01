@@ -18,7 +18,14 @@ executes two commands to export to html and pdf
 
 *Running make without the dependencies still work, but without the dependencies listed, make won't know to rerun when changes have been made to one of the dependencies*
 
-	## PHONY Targets
+make sure you are using relative filepaths
+A command can consist of multiple commands by using &&
+```
+cd code && python3 plot.py
+python3 code/plot.py # equivalent
+```
+
+## PHONY Targets
 Bundles commands so that you can easily execute a series of commands, labeled as a action
 common phony targets: clean, all, setup, help
 
@@ -26,9 +33,9 @@ if you create a phony action, you also need to include the name at the top after
 
 .PHONY:  all, clean
 
-all: filename1 filename2
+all: target1 target2 <- all runs all these targets every time you run make
 
-clean:
+clean:    
 	command(s) - usually remove commands like 
 	rm -f filename1
 
