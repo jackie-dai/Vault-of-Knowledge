@@ -49,7 +49,7 @@ l(y, \hat{y}) =
 	\epsilon(|y-\hat{y}(\theta)|-\frac{1}{2}\epsilon) & otherwise \\
 \end{cases}
 $$
-*Makes use *
+*Because L1 loss is not differentiable at 0, it is difficult to work with. Huber's loss was made to make the best of both losses. For small values, we use L2 squared loss, and for big values, use L1 absolute loss*
 
-![[Pasted image 20261001012642.png]]Different loss functions function differently. Here, the L2 loss is more "pulled" towards the outliers due to the square in the L2 loss
+![[Pasted image 20261001013550.png]]Different loss functions function differently. Here, the L2 loss is more "pulled" towards the outliers due to the square in the L2 loss. Huber acts more like L1, but still gives a slightly different estimate.
 
