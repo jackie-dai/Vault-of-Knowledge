@@ -36,3 +36,19 @@ Pure strategy - a player plays one move with probability 1
 ### Saddle Points
 
 ### Domination 
+
+
+### Nash Equilibrium
+When playing optimally, player 1's best response is equal to player 2's best response. This can be found by finding the expected payoffs and if theyre equal then they are in nash eqilibirum.
+
+## Prop 2.5.3
+Find the strategies of both players by equalizing their gains. 
+
+Player 2 can find their probabilities by going through player 1s choices and setting them equal to each other to solve for y1 
+y1(x1) + (1-y1)x1 = y1(x2) + (1-y1)x2
+$$
+Expected Payoff=X^T Ay
+$$
+
+
+using the probabilities you found, find the expected gain for player 1 and expected loss for player 2 and if theyre equal then its in Nash equilibrium 
