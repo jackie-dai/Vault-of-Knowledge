@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat135/Maximum Likelihood Estimate (MLE).md",
+                "file": "Stat155 Game Theory/Zero Sum Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximum Likelihood Estimate (MLE)"
+              "title": "Zero Sum Games"
             }
           },
           {
@@ -346,6 +346,7 @@
   },
   "active": "99e4c464d48bbf20",
   "lastOpenFiles": [
+    "Stat135/Maximum Likelihood Estimate (MLE).md",
     "Pasted image 20261001013550.png",
     "Pasted image 20261001012642.png",
     "Stat135/Chapter 7 - Survey Sampling.md",
@@ -360,7 +361,6 @@
     "Stat135/Lecture - Hypothesis Testing.md",
     "Stat135/Confidence Intervals.md",
     "Stat135/Chapter 8.md",
-    "Stat135/Maximum Likelihood Estimate (MLE).md",
     "Untitled 1.base",
     "Stat135/Stat 135.md",
     "Untitled.base",
@@ -386,7 +386,6 @@
     "CS164/img/Pasted image 20260902105036.png",
     "Stat155 Game Theory",
     "Phil12A",
-    "CS164/img/Pasted image 20260902105332.png",
     "CS164/img",
     "CS164",
     "MBN10",
