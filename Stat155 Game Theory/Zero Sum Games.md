@@ -32,3 +32,7 @@ Player 2's worst case is max $a_{ij}$, so their goal is to minimize the max $a_{
 
 Mixed strategy - a player plays each with move with some probability
 Pure strategy - a player plays one move with probability 1
+
+### Saddle Points
+
+### Domination 
