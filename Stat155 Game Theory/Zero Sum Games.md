@@ -42,6 +42,9 @@ If row i is at most row j, then we will never play row i
 When playing optimally, player 1's best response is equal to player 2's best response. This can be found by finding the expected payoffs and if theyre equal then they are in nash eqilibirum.
 
 ## Prop 2.5.3
+1) try to find saddle points,  
+2) domination, check for linear combinations
+
 Find the strategies of both players by equalizing their gains. 
 
 Player 2 can find their probabilities by going through player 1s choices and setting them equal to each other to solve for y1 
