@@ -70,3 +70,7 @@ report.pdf: intro.md results.md conclusion.md
 	pandoc $^ -o $@ 
 ```
 the variables become set to the values above
+ ### User Defined Variables
+
+name = 
+name :=
