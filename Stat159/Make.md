@@ -46,6 +46,27 @@ comment with \#
 # this is a comment
 ```
 
-## Variables
-$< - name of the 1st dependency
-$@ - target
+## Automatic Variables
+These variables can be used within each recipe and is refreshed per recipe.
+
+```
+$^
+```
+list of all the dependencies
+
+```
+$<
+```
+name of the 1st dependency
+
+```
+$@
+```
+ target
+
+```
+# rule 1
+report.pdf: intro.md results.md conclusion.md
+	pandoc $^ -o $@ 
+```
+the variables become set to the values above
