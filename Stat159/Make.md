@@ -45,3 +45,7 @@ comment with \#
 ```
 # this is a comment
 ```
+
+## Variables
+$< - name of the 1st dependency
+$@ - target
