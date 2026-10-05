@@ -53,13 +53,14 @@
             "id": "5ec35533f7b1451d",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.base",
-                "viewName": "Table"
+                "file": "Stat135/Stat 135.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Stat 135"
             }
           },
           {
@@ -108,13 +109,14 @@
             "id": "536a907b67f36d30",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Stat159/Make.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Make"
             }
           },
           {
@@ -174,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -344,8 +346,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99e4c464d48bbf20",
+  "active": "1a93259cabede32e",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 1.base",
+    "MBN10/Chronic Dieases.md",
+    "Stat155 Game Theory/Zero Sum Games.md",
     "Stat135/Maximum Likelihood Estimate (MLE).md",
     "Pasted image 20261001013550.png",
     "Pasted image 20261001012642.png",
@@ -361,9 +367,7 @@
     "Stat135/Lecture - Hypothesis Testing.md",
     "Stat135/Confidence Intervals.md",
     "Stat135/Chapter 8.md",
-    "Untitled 1.base",
     "Stat135/Stat 135.md",
-    "Untitled.base",
     "Stat159/Make.md",
     "Stat159/Bash.md",
     "Stat159/Environments.md",
@@ -372,7 +376,6 @@
     "Stat159/img/Pasted image 20260929133200.png",
     "Stat159/Git.md",
     "Stat159/Terminal Commands.md",
-    "Stat155 Game Theory/Zero Sum Games.md",
     "MBN10/Lecture 5 - Nutrients.md",
     "MBN10/Midterm 1 Review.md",
     "Stat135/R Programming.md",
@@ -380,7 +383,6 @@
     "Stat159/img/Pasted image 20260909105607.png",
     "Stat154",
     "MBN10/Lecture 10 - Interactions with Infection.md",
-    "Stat154/Lecture 6.md",
     "Stat159/img/Pasted image 20260914105132.png",
     "Stat159/img/Pasted image 20260914105103.png",
     "CS164/img/Pasted image 20260902105036.png",
