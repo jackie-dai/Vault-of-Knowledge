@@ -104,6 +104,20 @@
             }
           },
           {
+            "id": "1d8bb69f2fb81a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stat154/Cross Validation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cross Validation"
+            }
+          },
+          {
             "id": "16e19c8b4959d378",
             "type": "leaf",
             "state": {
@@ -188,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -358,8 +372,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74c3ba9e2184b7c0",
+  "active": "1d8bb69f2fb81a6d",
   "lastOpenFiles": [
+    "Pasted image 20261006113442.png",
+    "Pasted image 20261006113426.png",
+    "Stat154/Cross Validation.md",
     "Untitled 1.base",
     "Untitled.base",
     "MBN10/Chronic Dieases.md",
@@ -394,10 +411,8 @@
     "Pasted image 20260923131858.png",
     "Stat159/img/Pasted image 20260909105607.png",
     "Stat154",
-    "MBN10/Lecture 10 - Interactions with Infection.md",
     "Stat159/img/Pasted image 20260914105132.png",
     "Stat159/img/Pasted image 20260914105103.png",
-    "CS164/img/Pasted image 20260902105036.png",
     "Stat155 Game Theory",
     "Phil12A",
     "CS164/img",
