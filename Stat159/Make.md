@@ -70,7 +70,17 @@ report.pdf: intro.md results.md conclusion.md
 	pandoc $^ -o $@ 
 ```
 the variables become set to the values above
- ### User Defined Variables
 
-name = 
-name :=
+## User Defined Variables
+ 
+Defined at the top of the script and used like a regular variable $(variable_name)
+```
+PYTHON = python3
+SRC_DIR = src
+DATA_DIR = data
+
+# rule 1
+results.pdf: script.py 
+	$(PYTHON) script.py
+```
+Can be set to any value or command
