@@ -84,3 +84,36 @@ results.pdf: script.py
 	$(PYTHON) script.py
 ```
 Can be set to any value or command
+
+# $.
+wildcard to refer to name of the same extension 
+
+```
+.PHONY : outputs clean
+
+outputs: isles.dat abyss.dat last.dat sierra.dat 
+
+%.dat: books/%.txt
+	python countwords.py $^ $@
+```
+
+```
+.PHONY : outputs clean
+
+outputs: isles.dat abyss.dat last.dat sierra.dat 
+
+isles.dat : books/isles.txt
+	python countwords.py $^ $@
+
+abyss.dat : books/abyss.txt
+	python countwords.py $^ $@
+
+last.dat: books/last.txt
+	python countwords.py $^ $@
+
+sierra.dat: books/sierra.txt
+	python countwords.py $^ $@
+
+clean :
+	rm -f *.dat
+```
