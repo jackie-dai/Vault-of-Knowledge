@@ -28,3 +28,10 @@ SE(X) = s/sqrt(n) <- TODO: figure out why this is true
 
 
 
+
+## Comparing two groups
+
+Assumptions we need to make
+1) Determining what to estimate
+2) Independence
+3) Model to use
