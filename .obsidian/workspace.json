@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat135/Stat 135.md",
+                "file": "Stat135/Asymptotic MLEs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stat 135"
+              "title": "Asymptotic MLEs"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisher Information.md",
+                "file": "Stat135/Asymptotic MLEs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fisher Information"
+              "title": "Asymptotic MLEs"
             }
           },
           {
@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -386,10 +386,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "add1ab8bc7063770",
+  "active": "5ec35533f7b1451d",
   "lastOpenFiles": [
     "Stat135/Stat 135.md",
-    "Fisher Information.md",
+    "Stat135/Asymptotic MLEs.md",
     "Stat159/Make.md",
     "MBN10/Lecture 9 - Dietary Reference intakes (DRI).md",
     "Pasted image 20260923131858.png",
