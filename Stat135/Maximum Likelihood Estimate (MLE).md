@@ -11,6 +11,10 @@ Algorithm *if the join density is i.i.d*
 3. Find partial derivatives with respect to the parameters
 4. Set each partial derivative equal to zero and solve for the parameter to find the MLE
 
+
+![[Pasted image 20261012115811.png]]
+*Increasing the sample size of the log-likelihood concentrates around the true parameter*
+
 ## Calculating the MLE with Multiple Parameters
 
 This beginning steps are the same as MLE with one parameter
@@ -69,3 +73,4 @@ Find distance between actual point(x,y) to the regression line by taking the squ
 Take the distance and treat this as a our loss function. The goal is to minimize the distance by finding the MLE of the parameters
 
 TODO: revisit another time to fill in the details https://stat135.berkeley.edu/fall-2026/Modules/06-SamplingDist.html
+
