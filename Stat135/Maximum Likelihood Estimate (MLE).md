@@ -15,6 +15,16 @@ Algorithm *if the join density is i.i.d*
 ![[Pasted image 20261012115811.png]]
 *Increasing the sample size of the log-likelihood concentrates around the true parameter*
 
+Solving for the derivative at zero
+![[Pasted image 20261013012129.png]]
+Taking the derivative finds the slope of the tangent on each point of the likelihood curve. 
+
+Setting the derivative to zero means the tangent where the slope is flat (like in the red dashed line). 
+		 
+Solving for this finds us this point which is the peak of the curve. This isn't necessarily the global maximum. F
+
+inding the second derivative tells us that if it is negative then the slope is always going down and therefore the peak is the global maximum because there is no other po9int where it increases.
+
 ## Calculating the MLE with Multiple Parameters
 
 This beginning steps are the same as MLE with one parameter
