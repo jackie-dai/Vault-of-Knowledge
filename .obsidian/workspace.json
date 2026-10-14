@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS164/Lecture 1.md",
+                "file": "Stat135/Stat 135.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1"
+              "title": "Stat 135"
             }
           }
         ],
@@ -320,12 +320,16 @@
   },
   "active": "0d1cd1aab23df2ab",
   "lastOpenFiles": [
+    "Pasted image 20261014002718.png",
+    "Stat135/Chapter 8.md",
+    "Stat135/Confidence Intervals.md",
+    "Stat135/Chapter 13 - The Analysis of Categorical Data.md",
+    "CS164/Lecture 1.md",
     "Stat135/Asymptotic MLEs.md",
     "Stat135/Maximum Likelihood Estimate (MLE).md",
     "Pasted image 20261013012129.png",
     "Pasted image 20261012115811.png",
     "Stat135/Stat 135.md",
-    "Stat135/Confidence Intervals.md",
     "Untitled.md",
     "Stat159/Make.md",
     "MBN10/Lecture 9 - Dietary Reference intakes (DRI).md",
@@ -343,7 +347,6 @@
     "Pasted image 20261001013550.png",
     "Stat135/Chapter 7 - Survey Sampling.md",
     "Stat135/Chapter 6.md",
-    "Stat135/Chapter 13 - The Analysis of Categorical Data.md",
     "Stat135/Lecture 8 - Method of Maximum Liklihood.md",
     "Stat135/Lecture 7 - Computing the Standard Error.md",
     "Stat135/Lecture 6 - Estimators.md",
@@ -351,12 +354,10 @@
     "Stat135/Lecture 3 - Inference Sampling pt. 2.md",
     "Stat135/Lecture 2 - Inference Sampling.md",
     "Stat135/Lecture - Hypothesis Testing.md",
-    "Stat135/Chapter 8.md",
     "Stat159/Bash.md",
     "Stat159/Environments.md",
     "Stat159/img/Pasted image 20260929133200.png",
     "Stat159/Git.md",
-    "Stat159/Terminal Commands.md",
     "Stat154",
     "Stat155 Game Theory",
     "Phil12A",
