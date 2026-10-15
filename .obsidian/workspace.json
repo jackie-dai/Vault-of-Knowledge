@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat135/Stat 135.md",
+                "file": "Stat135/Asymptotic MLEs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stat 135"
+              "title": "Asymptotic MLEs"
             }
           }
         ],
@@ -320,16 +320,16 @@
   },
   "active": "0d1cd1aab23df2ab",
   "lastOpenFiles": [
+    "Stat135/Maximum Likelihood Estimate (MLE).md",
+    "Stat135/Confidence Intervals.md",
+    "Stat135/Stat 135.md",
     "Pasted image 20261014002718.png",
     "Stat135/Chapter 8.md",
-    "Stat135/Confidence Intervals.md",
     "Stat135/Chapter 13 - The Analysis of Categorical Data.md",
     "CS164/Lecture 1.md",
     "Stat135/Asymptotic MLEs.md",
-    "Stat135/Maximum Likelihood Estimate (MLE).md",
     "Pasted image 20261013012129.png",
     "Pasted image 20261012115811.png",
-    "Stat135/Stat 135.md",
     "Untitled.md",
     "Stat159/Make.md",
     "MBN10/Lecture 9 - Dietary Reference intakes (DRI).md",
@@ -356,7 +356,6 @@
     "Stat135/Lecture - Hypothesis Testing.md",
     "Stat159/Bash.md",
     "Stat159/Environments.md",
-    "Stat159/img/Pasted image 20260929133200.png",
     "Stat159/Git.md",
     "Stat154",
     "Stat155 Game Theory",
