@@ -5,8 +5,7 @@
 	1) Usually a function of the parameters i.e. the difference in their means
 		$\Delta = u_x - u_y$
 2) Independence
-	1) Paired data ($X_i$, $Y_i$) where $n_x=n_y$ 
-	2) Each pair $X_i, Y_i$ isn't neccesarily independent.
+	1) the data must be independent for the following to work but there is the case of paired data
 3) Model to use
 	1) Use the same model for both groups?
 
@@ -41,3 +40,22 @@ $$
 $$
 where v = the degrees of freedom = min($n_X -1$, $n_Y - 1$)
 
+
+## Paired Data
+What if the two groups are not independent?
+
+Paired data ($X_i$, $Y_i$), where $n_X=n_Y$ 
+
+Interested in the difference
+$$
+D_i=n_X-n_Y
+$$
+$$
+E[D_i]=u_X-u_Y
+$$
+$$
+\sigma^2_D=Var(X_i) +Var(Y_i) - 2Cov(X_i, Y_i)
+$$
+$$
+\sigma^2_D = \sigma^2_X +\sigma^2_Y - 2p \sigma_{X_i} \sigma_{Y_i}
+$$
