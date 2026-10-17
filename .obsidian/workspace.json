@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat135/Comparing Two Groups.md",
+                "file": "Stat159/Make.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comparing Two Groups"
+              "title": "Make"
             }
           }
         ],
@@ -332,10 +332,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "19ac3ad845cdbd26",
   "lastOpenFiles": [
-    "# Comparing two groupsAssumptions we need to make1) Determining what to estimate2) Independence3) Model to use.md",
     "Stat135/Comparing Two Groups.md",
+    "# Comparing two groupsAssumptions we need to make1) Determining what to estimate2) Independence3) Model to use.md",
     "Stat135/Confidence Intervals.md",
     "Stat135/Asymptotic MLEs.md",
     "Stat135/Maximum Likelihood Estimate (MLE).md",
