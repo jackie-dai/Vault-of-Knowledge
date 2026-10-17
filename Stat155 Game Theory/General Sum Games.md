@@ -1,1 +1,4 @@
 
+## Nash Equilibrium
+
+## Pareto Optimality
