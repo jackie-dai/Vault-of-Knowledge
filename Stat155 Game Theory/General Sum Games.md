@@ -24,4 +24,7 @@ There is no other outcome where you cannot make a player better off without maki
 Pareto improvement: moving from one outcome to another that benefits all players
 Pareto optimal: An outcome where no pareto improvements can be made.
 
+*The nash equilibrium is not always pareto optimal*
+
+
 	 
