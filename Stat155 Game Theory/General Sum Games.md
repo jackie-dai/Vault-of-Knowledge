@@ -19,4 +19,9 @@ list of probabilities x1, x2, ..., that player 1 will play action_i
 A mixed strategy that play plays one action with probability 1
 
 ## Pareto Optimality
+There is no other outcome where you cannot make a player better off without making at least one other player worse off.
 
+Pareto improvement: moving from one outcome to another that benefits all players
+Pareto optimal: An outcome where no pareto improvements can be made.
+
+	 
