@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat135/Delta Method.md",
+                "file": "Stat135/Stat 135.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Delta Method"
+              "title": "Stat 135"
             }
           },
           {
@@ -404,6 +404,7 @@
   },
   "active": "40dc5c617b41164a",
   "lastOpenFiles": [
+    "Stat135/Delta Method.md",
     "Stat135/Efficiency and Consistency.md",
     "Stat135/Confidence Intervals.md",
     "Stat135/Comparing Two Groups.md",
@@ -412,7 +413,6 @@
     "MBN10/Lecture 10 - Interactions with Infection.md",
     "Stat155 Game Theory/General Sum Games 1.md",
     "Stat155 Game Theory/Zero Sum Games.md",
-    "Stat135/Delta Method.md",
     "Stat135/Bootstrap.md",
     "Something about glucos.md",
     "Stat154/Lecture 6.md",

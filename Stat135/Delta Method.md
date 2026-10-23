@@ -8,11 +8,19 @@ To estimate the mean or variance, the function must be linear. If it is nonlinea
 
 ## Taylor Expansion 
 $$
-g(x) = \frac{g^{i}(a)}{i!}(X-a)^i + R_k(x)
+g(x) = \frac{g^{i}(a)}{i!}(x-a)^i + R_k(x)
 $$
-with a single parameter
+
 
 1st order:
 $$
-g(x) = g(x) + g^
+g(x) = g(a) + g'(a)(x-a)
 $$
+with a single parameter
+
+1st order
+$$
+g(x, y) = g(a, b) + \frac{\partial}{\partial a}g(a, b)(x-a) + \frac{\partial}{\partial b}(a, b)(y -b)
+$$
+with multiple parameters
+
