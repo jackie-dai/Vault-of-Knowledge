@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "bf4bb535c505f054",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
+          },
+          {
             "id": "825b672330e85bcb",
             "type": "leaf",
             "state": {
@@ -232,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -402,7 +414,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40dc5c617b41164a",
+  "active": "bf4bb535c505f054",
   "lastOpenFiles": [
     "Stat135/Delta Method.md",
     "Stat135/Efficiency and Consistency.md",
