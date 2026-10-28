@@ -14,7 +14,7 @@ Resample from the sample. Only assumptions being independence and large sample s
 
 ![[Pasted image 20261027175351.png]]
 
-*A important note is that the bootstrap distribution is not centered at the true population parameter, it is centered at the *
+*A important note is that the bootstrap distribution is not centered at the true population parameter, it is centered at the observed statistic, giving us the accuracy of the original sample*
 ## Confidence Interval
 
 ## Assumptions
