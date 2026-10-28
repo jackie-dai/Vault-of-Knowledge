@@ -8,6 +8,7 @@ Resample from the sample. Only assumptions being independence and large sample s
 
 ## Procedure
 
+![[Pasted image 20261027175351.png]]
 ## Confidence Interval
 
 ## Assumptions
