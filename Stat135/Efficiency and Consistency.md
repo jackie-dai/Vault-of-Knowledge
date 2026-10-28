@@ -9,6 +9,13 @@ $$
 If Eff < 1, then $Var(\hat{\theta}) < Var(\tilde{\theta})$ => $Var(\hat{\theta})$ is better
 
 ## The Cramer-Rao Inequality
+$$
+Var(\hat{\theta}_n) \ge \frac{1}{nI(\theta_0)}
+$$
+$I(\theta_0)$ the fisher information
+$$
+I(\theta_0) = -E_\theta[Log''(f(X;\theta))]
+$$
 
 
 ## Consistency
