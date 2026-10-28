@@ -1,5 +1,6 @@
+To compare two estimators, we can look at the efficiency
 
-The mean and median
+For example, the mean and median
 
 Efficiency of two estimators
 $$
