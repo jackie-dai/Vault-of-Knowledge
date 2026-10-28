@@ -4,277 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc2bc3c5825fcbc",
+        "id": "4a515b2b1378e35b",
         "type": "tabs",
         "children": [
           {
-            "id": "6c65377a3a066c24",
+            "id": "00c5d388bbca8a8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 8.md",
+                "file": "MBN10/Aging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 8"
-            }
-          },
-          {
-            "id": "ff78d6594717b5f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat135/Bootstrap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bootstrap"
-            }
-          },
-          {
-            "id": "9b23091f2d9bc1a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat135/Efficiency and Consistency.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Efficiency and Consistency"
-            }
-          },
-          {
-            "id": "e6d434c79a66a11b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat155 Game Theory/Zero Sum Games.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zero Sum Games"
-            }
-          },
-          {
-            "id": "40dc5c617b41164a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat135/Stat 135.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stat 135"
-            }
-          },
-          {
-            "id": "bf4bb535c505f054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat135/Bootstrap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bootstrap"
-            }
-          },
-          {
-            "id": "bb3808720d65aa22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBN10/Something about glucos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Something about glucos"
-            }
-          },
-          {
-            "id": "f575851104941985",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat135/Bootstrap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bootstrap"
-            }
-          },
-          {
-            "id": "825b672330e85bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat159/Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "add1ab8bc7063770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat135/Asymptotic MLEs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Asymptotic MLEs"
-            }
-          },
-          {
-            "id": "16e19c8b4959d378",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBN10/Lecture 5 - Nutrients.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 5 - Nutrients"
-            }
-          },
-          {
-            "id": "536a907b67f36d30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat159/Make.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Make"
-            }
-          },
-          {
-            "id": "c97adeaec002eeec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat159/Environments.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Environments"
-            }
-          },
-          {
-            "id": "f34ddbde081c3e3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat154/Lecture 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 6"
-            }
-          },
-          {
-            "id": "6a602d870eb5d0cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat155 Game Theory/Chapter 1 - Combinatorial Games.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 1 - Combinatorial Games"
-            }
-          },
-          {
-            "id": "0d1cd1aab23df2ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat135/Confidence Intervals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Confidence Intervals"
-            }
-          },
-          {
-            "id": "19ac3ad845cdbd26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat159/Make.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Make"
-            }
-          },
-          {
-            "id": "db41f12ba7ce00a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat155 Game Theory/General Sum Games.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General Sum Games"
-            }
-          },
-          {
-            "id": "a0a80d044b04f21c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 8"
+              "title": "Aging"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "620b7056f36830f6",
@@ -444,11 +192,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "00c5d388bbca8a8e",
   "lastOpenFiles": [
+    "MBN10/Aging.md",
+    "Stat155 Game Theory/General Sum Games.md",
+    "Stat159/Make.md",
+    "Stat135/Confidence Intervals.md",
+    "Stat155 Game Theory/Chapter 1 - Combinatorial Games.md",
+    "Stat154/Lecture 6.md",
+    "Stat159/Environments.md",
+    "MBN10/Lecture 5 - Nutrients.md",
+    "Stat135/Asymptotic MLEs.md",
+    "Stat159/Git.md",
+    "Stat135/Bootstrap.md",
+    "MBN10/Something about glucos.md",
+    "Stat135/Stat 135.md",
+    "Stat155 Game Theory/Zero Sum Games.md",
+    "Stat135/Efficiency and Consistency.md",
     "Stat135/img/Pasted image 20261027175351.png",
     "Leetcode.md",
-    "MBN10/Something about glucos.md",
     "Stat135/img/Pasted image 20261014002718.png",
     "Stat135/img/Pasted image 20261013012129.png",
     "Stat135/img/Pasted image 20261012115811.png",
@@ -462,29 +224,15 @@
     "MBN10/img/Pasted image 20260928073043.png",
     "MBN10/img",
     "Stat135/img/Pasted image 20260923131858.png",
-    "Stat135/img/Pasted image 20260923124039.png",
     "Stat159/Python Packages.md",
     "Week 8.md",
-    "Stat135/Bootstrap.md",
     "Stat135/Delta Method.md",
-    "Stat135/Efficiency and Consistency.md",
-    "Stat135/Confidence Intervals.md",
     "Stat135/Comparing Two Groups.md",
-    "Stat155 Game Theory/General Sum Games.md",
     "MBN10/Lecture 10 - Interactions with Infection.md",
     "Stat155 Game Theory/General Sum Games 1.md",
-    "Stat155 Game Theory/Zero Sum Games.md",
-    "Stat154/Lecture 6.md",
     "3A",
-    "Stat159/Make.md",
     "# Comparing two groupsAssumptions we need to make1) Determining what to estimate2) Independence3) Model to use.md",
-    "Stat135/Asymptotic MLEs.md",
     "Stat135/Maximum Likelihood Estimate (MLE).md",
-    "Stat135/Stat 135.md",
-    "Stat135/Chapter 8.md",
-    "Stat135/Chapter 13 - The Analysis of Categorical Data.md",
-    "CS164/Lecture 1.md",
-    "MBN10/Lecture 9 - Dietary Reference intakes (DRI).md",
     "Untitled 1.base",
     "Untitled.base",
     "Stat154",
