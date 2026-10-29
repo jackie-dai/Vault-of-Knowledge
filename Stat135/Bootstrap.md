@@ -17,6 +17,14 @@ Resample from the sample. Only assumptions being independence and large sample s
 *A important note is that the bootstrap distribution is not centered at the true population parameter, it is centered at the observed statistic, giving us the accuracy of the original sample*
 ## Confidence Interval
 
-## Assumptions
+### Bootstrap Percentile CI
+$$
+(q^*_{1/a}, q^*_{1-a/2})
+$$
 
-/
+### Basic (Pivotal) CI
+$$
+(2\hat{\theta} - q^*_{upper}, 2\hat{\theta}-q^*_{lower})
+$$
+
+## Assumptions
