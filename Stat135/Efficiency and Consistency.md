@@ -29,9 +29,11 @@ Equivalently,
 $$
 \lim_{n \to \infty} P(|\hat{\theta}_n-\theta|<\epsilon) = 1
 $$
+*By the continuous mapping theorem, $g(\hat{\theta})$ is a consistent estimator of $g(\theta)$*
 
 if the MSE($\theta$) converges to zero.
 
 The MSE is equal to Bias($\hat{\theta})^2$ + Var($\hat{\theta}$), so in order to prove the estimator is consistent, we need to prove the bias and variance of the estimator converges to zero.
 
 However a consistent estimator does not mean the MSE is zero
+	 
