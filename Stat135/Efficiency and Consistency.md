@@ -34,8 +34,17 @@ $$
 Theorem 
 if the MSE($\hat{\theta}_n$) converges to zero, then $\hat{\theta}_n$ is a consistent estimator of $\theta$.
 
+The MSE is equal to Bias($\hat{\theta})^2$ + Var($\hat{\theta}$), so in order to prove the estimator is consistent, we need to prove 
+the bias 
+$$
+Bias(\hat{\theta}_n) = E[\hat{\theta}_n] - \theta \to 0
+$$
+and variance 
+$$
+Var(\hat{\theta}_n) \to 0 
+$$
+of the estimator both converges to zero.
 
-The MSE is equal to Bias($\hat{\theta})^2$ + Var($\hat{\theta}$), so in order to prove the estimator is consistent, we need to prove the bias and variance of the estimator converges to zero.
 
 However a consistent estimator does not mean the MSE is zero
 	 
