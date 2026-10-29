@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat135/Bootstrap.md",
+                "file": "Stat135/Efficiency and Consistency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bootstrap"
+              "title": "Efficiency and Consistency"
             }
           },
           {
@@ -207,6 +207,7 @@
   },
   "active": "d6280ff837811352",
   "lastOpenFiles": [
+    "Stat135/Bootstrap.md",
     "Stat135/Delta Method.md",
     "Stat135/Efficiency and Consistency.md",
     "Pasted image 20261029091921.png",
@@ -223,7 +224,6 @@
     "MBN10/Lecture 5 - Nutrients.md",
     "Stat135/Asymptotic MLEs.md",
     "Stat159/Git.md",
-    "Stat135/Bootstrap.md",
     "MBN10/Something about glucos.md",
     "Stat135/Stat 135.md",
     "Stat155 Game Theory/Zero Sum Games.md",

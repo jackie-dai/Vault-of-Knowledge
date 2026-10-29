@@ -1,5 +1,6 @@
-To compare two estimators, we can look at the efficiency
+To determine if a estimator is efficient, the variance must be low, near zero. 
 
+To compare two estimators, we can look at the efficiency
 For example, the mean and median
 
 Efficiency of two estimators
@@ -7,6 +8,7 @@ $$
 Eff(\hat{\theta}, \tilde{\theta}) = \frac{Var(\hat{\theta})}{Var(\tilde{\theta})}
 $$
 If Eff < 1, then $Var(\hat{\theta}) < Var(\tilde{\theta})$ => $Var(\hat{\theta})$ is better
+
 
 ## The Cramer-Rao Inequality
 $$
