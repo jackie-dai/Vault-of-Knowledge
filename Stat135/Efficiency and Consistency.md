@@ -50,3 +50,9 @@ However the reverse is not true, a consistent estimator does not mean the MSE is
 
 ## Robustness
 How well does the estimate respond to "strange data" that doesn't match its underlying assumptions?
+
+### Sensitivity Curve
+$x_0$ being the added data point. The difference divided by 1/n+1
+$$
+SC(x_0) = \frac{\hat{u}(x1,...,x_n, x_0) - u(x_1,...,x_n)}{1/n+1}
+$$
