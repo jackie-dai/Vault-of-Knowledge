@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat135/Efficiency and Consistency.md",
+                "file": "Stat135/Delta Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Efficiency and Consistency"
+              "title": "Delta Method"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Choice.md",
+                "file": "Stat155 Game Theory/Social Choice.md",
                 "mode": "source",
                 "source": false
               },
@@ -207,11 +207,11 @@
   },
   "active": "d6280ff837811352",
   "lastOpenFiles": [
+    "Stat135/Efficiency and Consistency.md",
     "Pasted image 20261029091921.png",
     "Pasted image 20261029070000.png",
-    "Social Choice.md",
-    "Stat135/Efficiency and Consistency.md",
-    "Quarto Websites.md",
+    "Stat155 Game Theory/Social Choice.md",
+    "Stat159/Quarto Websites.md",
     "MBN10/Aging.md",
     "Stat155 Game Theory/General Sum Games.md",
     "Stat159/Make.md",
@@ -238,7 +238,6 @@
     "Stat135/img/Pasted image 20261001012642.png",
     "Obsidian Git Conflicts.md",
     "Greek Myths and Roman.md",
-    "MBN10/img/Pasted image 20260928073043.png",
     "MBN10/img",
     "Stat159/Python Packages.md",
     "Week 8.md",
