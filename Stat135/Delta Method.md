@@ -24,3 +24,8 @@ g(x, y) = g(a, b) + \frac{\partial}{\partial a}g(a, b)(x-a) + \frac{\partial}{\p
 $$
 with multiple parameters
 
+
+Delta method
+$$
+	Var(g(\hat{\theta})) = [g'(x)]^2Var(X)
+$$
