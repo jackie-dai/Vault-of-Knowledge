@@ -22,6 +22,13 @@ $$
 Prereqs: convergence, markov's inequality, and chebyshevs inequality.
 
 A estimator is consistent if it converges in probability to the true population parameter 
+$$
+\lim_{n \to \infty} P(|\hat{\theta}_n-\theta|>\epsilon) = 0
+$$
+Equivalently, 
+$$
+\lim_{n \to \infty} P(|\hat{\theta}_n-\theta|<\epsilon) = 1
+$$
 
 if the MSE($\theta$) converges to zero.
 

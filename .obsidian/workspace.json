@@ -35,8 +35,7 @@
               "title": "Social Choice"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,10 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16bca99c958a8d8c",
+  "active": "d6280ff837811352",
   "lastOpenFiles": [
-    "Stat135/Efficiency and Consistency.md",
     "Social Choice.md",
+    "Stat135/Efficiency and Consistency.md",
     "Quarto Websites.md",
     "MBN10/Aging.md",
     "Stat155 Game Theory/General Sum Games.md",
