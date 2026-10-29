@@ -56,4 +56,5 @@ $x_0$ being the added data point. The difference divided by 1/n+1
 $$
 SC(x_0) = \frac{\hat{u}(x1,...,x_n, x_0) - u(x_1,...,x_n)}{1/n+1}
 $$
-![[Pasted image 20261029091921.png]]x-axis: 
+![[Pasted image 20261029091921.png]]x-axis: the value x0 being added
+y-axis: sensitivity = the difference between the estimate and estimate + added point x0 
