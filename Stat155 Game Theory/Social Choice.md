@@ -23,3 +23,8 @@ Ranking Rule
 - Produces a social ranking
 
 Independence of Irrelevant Alternatives (IIA)
+
+## Properties for Voting and Ranking Rules
+- Anonymity (symmetry): 
+- Monotonicity
+- Condorcet
