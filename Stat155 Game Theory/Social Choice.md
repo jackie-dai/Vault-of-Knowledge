@@ -25,7 +25,7 @@ Ranking Rule
 - A > B B > C => A > B > C (transitive)
 - Produces a social ranking
 
-Independence of Irrelevant Alternatives (IIA)
+### Independence of Irrelevant Alternatives (IIA)
 
 ## Properties for Voting and Ranking Rules
 - Anonymity (symmetry): 
