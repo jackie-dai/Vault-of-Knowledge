@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat159/Quarto Websites.md",
+                "file": "MBN10/Lipids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quarto Websites"
+              "title": "Lipids"
             }
           }
         ]
@@ -193,6 +193,7 @@
   },
   "active": "ca5dd8921c26b375",
   "lastOpenFiles": [
+    "Stat159/Quarto Websites.md",
     "MBN10/Lipids.md",
     "Stat155 Game Theory/Social Choice.md",
     "Stat159/Make.md",
@@ -201,7 +202,6 @@
     "Stat135/Delta Method.md",
     "Pasted image 20261029091921.png",
     "Pasted image 20261029070000.png",
-    "Stat159/Quarto Websites.md",
     "MBN10/Aging.md",
     "Stat155 Game Theory/General Sum Games.md",
     "Stat135/Confidence Intervals.md",
