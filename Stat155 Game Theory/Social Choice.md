@@ -3,11 +3,14 @@
 ## Types of voting
 
 
-Plurality Voting
-The candidate with the most number of votes.
+### Condorcet Winner
+The candidate that wins all pairwise contests is selected as the winner.
 
+### Plurality Voting
+The candidate with the most first place rankings is selected as the winner.
 
-Borda Counting
+### Borda Counting
+
 
 ## Definitions
 - $\Gamma$ the set of candidates.
@@ -31,6 +34,7 @@ Independence of Irrelevant Alternatives (IIA)
 	- If a voter moves a candidate up without changing the other preferences, it should not move that candidate down
 - Condorcet Winner Criterion
 	- If a candidate beats all others in a pairwise contest, the candidate should be the winner
+	- Condorcet Loser Criterion: the candidate that loses to all other candidates pairwise should never be selected to be winner.
 - IIA with Preference Strengths
 - Cancellation of Ranking Cycles
 
