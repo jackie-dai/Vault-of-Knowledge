@@ -35,8 +35,7 @@
               "title": "Workflows"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,10 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a93259cabede32e",
+  "active": "ca5dd8921c26b375",
   "lastOpenFiles": [
-    "MBN10/Lipids.md",
     "Stat159/Workflows.md",
+    "MBN10/Lipids.md",
     "Stat159/Quarto Websites.md",
     "Stat155 Game Theory/Social Choice.md",
     "Stat159/Make.md",
