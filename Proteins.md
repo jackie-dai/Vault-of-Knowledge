@@ -16,4 +16,4 @@ Protein breakdown happens constantly, even when you're resting. Exercising DOES 
 
 General rule: 0.8 grams of protein per kg body weight
 
-LBS -> KG
+LBs -> KG = lbs / 2.2
