@@ -18,7 +18,10 @@ The body needs cholesterol, but too much and it can reduce absorption efficiency
 A foods cholesterol content does not translate directly into your bodys blood cholesterol concentration 
 
 
+
+
 Stat154 Quiz 3 
 - Given a function of class and tuning parameters
 - Understand what happens what happens to different risk and gap and reason about how you could tune these hyperparameters
+
 
