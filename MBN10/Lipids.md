@@ -10,9 +10,9 @@ Unsaturated: one or multiple double bonds
 Lipoproteins act as the vehicle for transporting  (specifically LDL, HDL, VLDL, and chylomicrons)
 Triglyceride/cholesterol is the cargo being transported
 
-Density: Chylomicron -> VLDL
+In increasing density: Chylomicron -> VLDL -> LDL -> HDL
 
-*low density does not mean small size. for example *
+*low density does not mean small size. for example HDL is smallest with highest density*
 ## Dietary Cholesterol
 The body needs cholesterol, but too much and it can reduce absorption efficiency. 
 A foods cholesterol content does not translate directly into your bodys blood cholesterol concentration 
