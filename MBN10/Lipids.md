@@ -5,12 +5,22 @@ The difference is not in the calories per gram, but the chemical structure.
 Saturated fat: no carbon-carbon double bonds
 Unsaturated: one or multiple double bonds
 
+Lipids
+- Triglycerides (TG)
+- Cholesterol
 
 ## Lipoproteins
 Lipoproteins act as the vehicle for transporting  (specifically LDL, HDL, VLDL, and chylomicrons)
-Triglyceride/cholesterol is the cargo being transported
+Triglyceride/cholestero (lipids) is the cargo being transported
+
+VLDL: Very low density lipoprotein (bad cholesterol)
+LDL: low density lipoprotein
+HDL: High density lipoprotein (good cholesterol)
 
 In increasing density: Chylomicron -> VLDL -> LDL -> HDL
+
+Chylomicron carries fat from your meals through your intestine
+VLDL carries TG from your liver
 
 *low density does not mean small size. for example HDL is smallest with highest density*
 ## Dietary Cholesterol
