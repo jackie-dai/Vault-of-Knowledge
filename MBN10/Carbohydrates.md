@@ -15,3 +15,9 @@ Acetate > Carbs > Fatty Acids
 *Indicates which takes precedence, but doesn't mean it completely burns one then moves to the next*
 
 Overloading on one, displaces anothers oxidation, increasing fat storage.
+
+## Types of Sugar
+Glucose and fructose are both simple sugars, but differ int
+
+
+Sucrose: 50% glucose 50% fructose
