@@ -7,8 +7,9 @@ For example if we consume 80g of fat and burn 80g of fat, we'll have 0 fat left 
 
 DNL: making more fatty acids (TG) from nonfat precursors like carbs
 
-
-Fat oxidation: 
+Storing fat: storing leftover fat in tissues
+Fat oxidation:  burn fat, converts into energy/calories
+making fat: DNL, or dietary fat, or carbs
 ### Alcohol
 Produces acetate that can be used for energy (converted to calories, not necessarily feel more energized).
 
