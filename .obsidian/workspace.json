@@ -4,123 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4a515b2b1378e35b",
+        "id": "74b7c6a155fa4a13",
         "type": "tabs",
         "children": [
           {
-            "id": "ca5dd8921c26b375",
+            "id": "0862e36f0325757f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBN10/Lipids.md",
+                "file": "Stat154/Regret Decomposition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lipids"
-            }
-          },
-          {
-            "id": "5270b23c1172313f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBN10/Insulin and Diabetes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Insulin and Diabetes"
-            }
-          },
-          {
-            "id": "2088d60400a3a3ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBN10/Carbohydrates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Carbohydrates"
-            }
-          },
-          {
-            "id": "ff950ba934f27791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBN10/Does Diet Composition Matter in Weight Loss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Does Diet Composition Matter in Weight Loss"
-            }
-          },
-          {
-            "id": "39797502f5ef5cc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBN10/Muscle and Exericse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Muscle and Exericse"
-            }
-          },
-          {
-            "id": "9660b198e47767db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBN10/Carbohydrates, Digestion, and Glucose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Carbohydrates, Digestion, and Glucose"
-            }
-          },
-          {
-            "id": "5674b053ee32ce24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBN10/Proteins.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proteins"
-            }
-          },
-          {
-            "id": "3c5cb71feaf86cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stat159/Licenses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Licenses"
+              "title": "Regret Decomposition"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,10 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c5cb71feaf86cc4",
+  "active": "0862e36f0325757f",
   "lastOpenFiles": [
-    "MBN10/Proteins.md",
+    "Stat154/Regret Decomposition.md",
     "Stat159/Licenses.md",
+    "MBN10/Proteins.md",
     "MBN10/Carbohydrates, Digestion, and Glucose.md",
     "MBN10/Muscle and Exericse.md",
     "MBN10/Does Diet Composition Matter in Weight Loss.md",
@@ -319,7 +221,6 @@
     "Stat135/Asymptotic MLEs.md",
     "Stat159/Git.md",
     "MBN10/Something about glucos.md",
-    "Stat135/Stat 135.md",
     "Stat135/img/Pasted image 20261027175351.png",
     "Stat135/img/Pasted image 20261014002718.png",
     "Stat135/img/Pasted image 20261013012129.png",
