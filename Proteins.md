@@ -17,3 +17,6 @@ Protein breakdown happens constantly, even when you're resting. Exercising DOES 
 General rule: 0.8 grams of protein per kg body weight
 
 LBs -> KG = lbs / 2.2
+
+Anabolic: rebuilding msucle and tissues
+Anabolic resistance: less senstitivty to stimulus like food intake or exercise
