@@ -10,3 +10,5 @@ can't pick a t that can produce (1, 0), so we cannot shatter this pair
 => not shattered
 
 VC dimension - the max number of points that can be shattered
+
+

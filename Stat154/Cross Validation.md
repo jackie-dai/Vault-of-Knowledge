@@ -17,3 +17,7 @@ Fit on everything except the kth fold, using kth fold as validation set. *here, 
 
 Now we average the error for the rest of the folds
 ![[Pasted image 20261006113442.png]]
+
+## Tuning ridge regression with CV
+Test with multiple values of $\lambda$ and pick the $\lambda$ with the lowest validation MSE
+

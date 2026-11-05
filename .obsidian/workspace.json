@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VC Dimension.md",
+                "file": "Stat154/Cross Validation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VC Dimension"
+              "title": "Cross Validation"
             }
           }
         ],
@@ -208,7 +208,8 @@
   },
   "active": "f791655a12d4a5ec",
   "lastOpenFiles": [
-    "VC Dimension.md",
+    "Cross Valdi.md",
+    "Stat154/VC Dimension.md",
     "Stat154/Regret Decomposition.md",
     "Stat159/Licenses.md",
     "MBN10/Proteins.md",
@@ -235,7 +236,6 @@
     "Stat159/Environments.md",
     "MBN10/Lecture 5 - Nutrients.md",
     "Stat135/Asymptotic MLEs.md",
-    "Stat159/Git.md",
     "Stat135/img/Pasted image 20261027175351.png",
     "Stat135/img/Pasted image 20261014002718.png",
     "Stat135/img/Pasted image 20261013012129.png",
