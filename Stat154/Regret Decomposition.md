@@ -21,4 +21,4 @@ $y=\Sigma(y_i - \hat{y}_i)^2 + \lambda \Sigma\beta_i^2$
 $\lambda$ shrinks the coefficients to zero
 
 Expected prediction error = noise + variance + $bias^2$
-	
+
