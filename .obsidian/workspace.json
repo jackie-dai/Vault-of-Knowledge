@@ -35,8 +35,7 @@
               "title": "Cross Validation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +205,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f791655a12d4a5ec",
+  "active": "0862e36f0325757f",
   "lastOpenFiles": [
+    "Stat154/Cross Validation.md",
     "Cross Valdi.md",
     "Stat154/VC Dimension.md",
     "Stat154/Regret Decomposition.md",
@@ -235,7 +235,6 @@
     "Stat154/Lecture 6.md",
     "Stat159/Environments.md",
     "MBN10/Lecture 5 - Nutrients.md",
-    "Stat135/Asymptotic MLEs.md",
     "Stat135/img/Pasted image 20261027175351.png",
     "Stat135/img/Pasted image 20261014002718.png",
     "Stat135/img/Pasted image 20261013012129.png",
