@@ -38,7 +38,11 @@ Ranking Rule
 - IIA with Preference Strengths
 - Cancellation of Ranking Cycles
 
+### Condorcet Paradox
+When the social preference is not transitive, therefore forming a cycle.
+This happens when each candidate loses at least one pairwise contest, meaning there is no Condorcet winner
 
+	
 ###  Instant Runoff Voting (IRV)
 In a round with m>2 candidates, the candidate with the fewest first place votes is eliminated, then a new round begins amongst the m-1 candidates. 
 
