@@ -18,6 +18,7 @@ The distribution of observed data based on the null.
 ## P-Value
 It measures how consistent the data is with the null. 
 $$
-P_{H_0}(T \gte)
+P_{H_0}(T \ge t_{obs})
 $$
+The probability that T is as extreme or more extreme than the observed t-statistic. under the null distribution.
 
