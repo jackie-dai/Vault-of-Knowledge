@@ -1,5 +1,6 @@
 In order to prove if a hypothesis is correct, we state a null hypothesis and test if the observed difference from the null is due to random variation or not. If it is unlikely, we reject the null.
 
+There are two standard methods: rejecting the null or not (neyman-pearson) or computing a p-values (fisher) measuring how much evidence there is against the null.
 ## Null Hypothesis
 An assumption that we make so we can use the probabilities under this assumption. 
 
@@ -21,4 +22,6 @@ $$
 P_{H_0}(T \ge t_{obs})
 $$
 The probability that T is as extreme or more extreme than the observed t-statistic. under the null distribution.
+
+
 
