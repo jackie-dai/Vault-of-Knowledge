@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stat135/Hypothesis Testing.md",
+                "file": "Stat135/Confidence Intervals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hypothesis Testing"
+              "title": "Confidence Intervals"
             }
           },
           {
@@ -222,8 +222,8 @@
   },
   "active": "a0eff5f402641282",
   "lastOpenFiles": [
-    "Stat155 Game Theory/Social Choice.md",
     "Stat135/Hypothesis Testing.md",
+    "Stat155 Game Theory/Social Choice.md",
     "Stat154/Regret Decomposition.md",
     "Stat154/Cross Validation.md",
     "Cross Valdi.md",
