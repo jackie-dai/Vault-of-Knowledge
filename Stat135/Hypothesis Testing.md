@@ -37,5 +37,16 @@ The region where if x falls within, results in a rejecting the null hypothesis
 ## The Significance Level
 The probability of a test committing a type 1 error (false positive)
 
+## Power Level
+When we successfully reject the null when it is not true.
+This leads us to the alternate hypothesis.
+
+The P(type 2 error) = $P_{H_a}(T \le c)$
+$$
+P_{H_a}(Reject\space H_0) = P_{H_a}(T >c) = 1 - P(Type \space 2 \space error)
+$$
+
+The probability of a test committing a type 2 error (false negative)
+Power = 1-P(type 2 error)
 
 ![[Pasted image 20261110181148.png]]
