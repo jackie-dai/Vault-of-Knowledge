@@ -49,4 +49,14 @@ $$
 The probability of a test committing a type 2 error (false negative)
 Power = 1-P(type 2 error)
 
+
 ![[Pasted image 20261110181148.png]]
+
+
+## Likelihood Ratio
+
+$$
+T=\frac{P_{H_a}(X=x)}{P_{H_0}(X=x)}
+$$
+The greater T is, the more it favors the alternate hypothesis
+The smaller T is, the more it favors the null hypothesis
