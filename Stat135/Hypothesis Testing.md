@@ -32,3 +32,10 @@ The probability that T is as extreme or more extreme than the observed t-statist
 ## Neyman-Pearson
 
 ### Rejection Region
+The region where if x falls within, results in a rejecting the null hypothesis
+
+## The Significance Level
+The probability of a test committing a type 1 error (false positive)
+
+
+![[Pasted image 20261110181148.png]]
