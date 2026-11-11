@@ -57,10 +57,21 @@ Power = 1-P(type 2 error)
 
 ### T-statistics
 
-## Likelihood Ratio
+## Likelihood Ratio Test 
 
 $$
 T=\frac{P_{H_a}(X=x)}{P_{H_0}(X=x)}
 $$
 The greater T is, the more it favors the alternate hypothesis
 The smaller T is, the more it favors the null hypothesis
+
+Likelihood Ratio Test (LRT) Statistic 
+$$
+A = 2Log[T]
+$$
+This gives the chi-squared distribution, so if we set a significant level of of a=0.05
+```
+qchisq(0.95, df=1) # df = num of free parameters fixed under null
+=> 3.84
+```
+if A > 3.84 then we reject null (reject for largest 5% values)
