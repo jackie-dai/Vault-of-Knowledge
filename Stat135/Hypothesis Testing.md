@@ -53,6 +53,10 @@ Power = 1-P(type 2 error)
 ![[Pasted image 20261110181148.png]]
 
 
+## Wald Statistics
+
+### T-statistics
+
 ## Likelihood Ratio
 
 $$
