@@ -74,4 +74,6 @@ This gives the chi-squared distribution, so if we set a significant level of of 
 qchisq(0.95, df=1) # df = num of free parameters fixed under null
 => 3.84
 ```
-if A > 3.84 then we reject null (reject for largest 5% values)
+if A > 3.84 then we reject null (reject for largest 5% values
+
+## Generalized Likelihood Ratio Test
