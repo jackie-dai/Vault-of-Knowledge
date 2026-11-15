@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,11 +262,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6dfb71e8480624a2",
+  "active": "a0eff5f402641282",
   "lastOpenFiles": [
+    "Stat135/Hypothesis Testing.md",
     "Stat135/Stat 135.md",
     "Stat135/Confidence Intervals.md",
-    "Stat135/Hypothesis Testing.md",
     "Pasted image 20261110181148.png",
     "Untitled.md",
     "Stat159/RevealJS.md",
