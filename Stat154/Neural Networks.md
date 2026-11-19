@@ -14,3 +14,4 @@ ReLU(x)=Max(0,x)
 $$
 
 
+## Training Loop
